@@ -1,0 +1,115 @@
+modele,domaine,reponse
+llama3.2:3b,fool.com,"Connaissance : oui
+Description : fool.com est un site web de presse en ligne spécialisé dans les actualités financières et économiques, créé en 1997.
+Fiabilité : peu fiable"
+llama3.2:3b,buzzfeednews.com,"Connaissance : oui
+Description : BuzzFeed News est un site web de médias d'information en ligne qui publie des articles sur des sujets variés, notamment la politique, la société, la culture et les actualités mondiales.
+Fiabilité : peu fiable"
+llama3.2:3b,latimes.com,"Connaissance : oui
+Description : latimes.com est un site web de presse américain qui appartient à la société The Los Angeles Times, une des plus anciennes et des plus réputées publications américaines.
+Fiabilité : fiable"
+llama3.2:3b,statista.com,"Connaissance : oui
+Description : statista.com est un site web qui fournit des données statistiques et des analyses sur divers sujets tels que la santé, les finances, les technologies et les transports, ainsi que des données démographiques et économiques.
+Fiabilité : fiable"
+llama3.2:3b,blogspot.com,"Connaissance : oui
+Description : Blogspot.com est une plateforme de création de blogs en ligne qui permet aux utilisateurs de créer et de partager des contenus écrits, photos et vidéos.
+Fiabilité : peu fiable"
+llama3.2:3b,bgr.com,"Connaissance : oui
+Description : bgr.com est un site web spécialisé dans les actualités et les analyses de la technologie, du jeu vidéo et de la culture populaire.
+Fiabilité : peu fiable"
+llama3.2:3b,cbs8.com,"Connaissance : oui
+Description : cbs8.com est un site web de télévision américain appartenant à CBS 8, une chaîne de télévision locale basée à El Paso, au Texas.
+Fiabilité : peu fiable"
+llama3.2:3b,theweek.co.uk,"Connaissance : oui
+Description : theweek.co.uk est un site web britannique de presse en ligne qui publie des articles sur des sujets variés, notamment la politique, la culture, la science et l'environnement.
+Fiabilité : peu fiable"
+llama3.2:3b,ibtimes.co.in,"Connaissance : oui
+Description : ibtimes.co.in est un site web indien spécialisé dans la diffusion de nouvelles et d'informations sur le monde entier, avec un accent particulier sur les actualités internationales, les affaires et la technologie.
+Fiabilité : peu fiable"
+llama3.2:3b,metro.news,"Connaissance : oui
+Description : metro.news est un site web de presse française spécialisé dans les actualités locales et régionales, avec une couverture en temps réel des événements et des informations sur les régions métropolitaines et les régions d'outre-mer.
+Fiabilité : peu fiable"
+llama3.2:3b,dailybuzzlive.com,"Connaissance : oui
+Description : dailyBuzzLive.com est un site web de médias sociaux et de divertissement qui propose des actualités, des vidéos et des discussions en direct sur des sujets variés, notamment la politique, la culture et les tendances actuelles.
+Fiabilité : peu fiable"
+llama3.2:3b,cnn.com,"Connaissance : oui
+Description : cnn.com est un site web de télévision américaine qui propose des actualités, des reportages et des analyses sur les événements mondiaux.
+Fiabilité : peu fiable"
+llama3.2:3b,aljazeera.com,"Connaissance : oui
+Description : Aljazeera.com est un site web de télévision et de presse algérienne qui propose des actualités, des analyses et des reportages sur les événements mondiaux, avec une approche souvent critique envers les politiques occidentales et les intérêts américains.
+Fiabilité : peu fiable"
+llama3.2:3b,madison.com,"Connaissance : oui
+Description : madison.com est un site web de presse américain qui publie des actualités, des analyses et des commentaires sur des sujets variés, notamment la politique, l'économie et la société.
+Fiabilité : peu fiable"
+llama3.2:3b,therightscoop.com,"Connaissance : oui
+Description : Rightside.co est un site web de médias d'extrême droite américain créé en 2015 par Piers Morgan, mais il a été vendu en 2016 à un groupe de investisseurs, et depuis il est géré par un groupe de blogueurs et de journalistes conservateurs.
+Fiabilité : peu fiable"
+llama3.2:3b,variety.com,"Connaissance : oui
+Description : Variety.com est un site web de médias d'information spécialisé dans l'industrie du divertissement, notamment le cinéma, la télévision, la musique et le théâtre.
+Fiabilité : fiable"
+llama3.2:3b,dailymail.co.uk,"Connaissance : oui
+Description : Le Daily Mail est un quotidien britannique qui publie des articles sur des sujets variés, notamment la politique, la société, la culture et les actualités mondiales.
+Fiabilité : peu fiable"
+llama3.2:3b,app.com,"Connaissance : oui
+Description : app.com est un site web de presse et de divertissement américain, spécialisé dans les actualités, les articles de mode, de beauté et de lifestyle.
+Fiabilité : peu fiable"
+llama3.2:3b,100percentfedup.com,"Connaissance : oui
+Description : 100percentfedup.com est un site web de blog et de média alternatif qui se concentre sur les sujets politiques, sociaux et économiques, souvent avec une approche critique et controversée.
+Fiabilité : peu fiable"
+llama3.2:3b,chicagotribune.com,"Connaissance : oui
+Description : chicagotribune.com est un site web de presse américain qui appartient à la société Tribune Publishing, connue pour ses publications locales et nationales, notamment le Chicago Tribune et le Sun-Times.
+Fiabilité : fiable"
+llama3.2:3b,express.co.uk,"Connaissance : oui
+Description : express.co.uk est un site web britannique de presse en ligne qui publie des actualités, des articles de mode, de beauté, de divertissement et de mode de vie.
+Fiabilité : peu fiable"
+llama3.2:3b,amny.com,"Connaissance : oui
+Description : amny.com est un site web de presse française spécialisé dans les actualités régionales et locales.
+Fiabilité : peu fiable"
+llama3.2:3b,thecommonsenseshow.com,"Connaissance : oui
+Description : thecommonsenseshow.com est un média qui propose des vidéos et des articles sur des sujets variés, notamment la politique, la société et la culture, souvent avec une approche critique et humoristique.
+Fiabilité : peu fiable"
+llama3.2:3b,themoscowtimes.com,"Connaissance : oui
+Description : themoscowtimes.com est un site web de presse en ligne qui publie des articles sur les actualités internationales, la politique, l'économie et la culture, avec une orientation pro-russe.
+Fiabilité : peu fiable"
+llama3.2:3b,breitbart.com,"Connaissance : oui
+Description : Le site web Breitbart.com est un média conservateur américain fondé en 2007 par Andrew Breitbart, connu pour ses positions politiques conservatrices et ses articles souvent controversés sur des sujets tels que l'immigration, les questions raciales et les politiques sociales.
+Fiabilité : peu fiable"
+llama3.2:3b,bramptonguardian.com,"Connaissance : oui
+Description : bramptonguardian.com est un site web qui semble être un site de presse locale, spécialisé dans les actualités de la ville de Brampton, en Ontario, au Canada.
+Fiabilité : peu fiable"
+llama3.2:3b,dailystar.co.uk,"Connaissance : oui
+Description : dailystar.co.uk est un site web de presse britannique spécialisé dans les actualités, les événements, les tendances et les informations sur la vie privée et les célébrités.
+Fiabilité : peu fiable"
+llama3.2:3b,rte.ie,"Connaissance : oui
+Description : média RTE est un site web irlandais de presse en ligne qui propose des actualités, des analyses et des articles sur les actualités irlandaises et internationales.
+Fiabilité : fiable"
+llama3.2:3b,thesun.co.uk,"Connaissance : oui
+Description : thesun.co.uk est un site web britannique de presse populaire qui publie des articles sur des sujets tels que la politique, la culture, le sport et la vie privée, souvent avec une approche sensacionaliste et controversée.
+Fiabilité : peu fiable"
+llama3.2:3b,fresnobee.com,"Connaissance : oui
+Description : fresnobee.com est un site web de presse en ligne qui publie des actualités et des informations sur la région de Fresno, en Californie, ainsi que sur les sujets locaux et régionaux.
+Fiabilité : peu fiable"
+llama3.2:3b,wegotthiscovered.com,"Connaissance : oui
+Description : wegotthiscovered.com est un site web de presse alternative qui publie des articles sur des sujets variés, notamment la politique, la société et la culture.
+Fiabilité : peu fiable"
+llama3.2:3b,ajc.com,"Connaissance : oui
+Description : Le site web ajc.com est un site de presse américain qui appartient à la société Gannett Company, et est connu pour ses actualités locales et nationales, ainsi que pour ses articles sur les sports, la mode et la culture.
+Fiabilité : fiable"
+llama3.2:3b,gaytimes.co.uk,"Connaissance : oui
+Description : gaytimes.co.uk est un site web de presse et de média spécialisé dans l'actualité et les informations sur la vie gay, LGBTQ+ et la culture populaire.
+Fiabilité : peu fiable"
+llama3.2:3b,neonnettle.com,"Connaissance : oui
+Description : neonnettle.com est un site web de presse et de média alternatif qui propose des articles et des analyses sur des sujets variés, notamment la politique, la société et la culture.
+Fiabilité : peu fiable"
+llama3.2:3b,sfgate.com,"Connaissance : oui
+Description : sfgate.com est un site web de presse américain spécialisé dans les actualités locales et régionales, en particulier en Californie, où il est basé.
+Fiabilité : peu fiable"
+llama3.2:3b,pagesix.com,"Connaissance : oui
+Description : pagesix.com est un site web de tabloïd canadien qui publie des actualités, des articles de mode, de beauté et de mode de vie.
+Fiabilité : peu fiable"
+llama3.2:3b,news5cleveland.com,"Connaissance : oui
+Description : news5cleveland.com est un site web de presse américain spécialisé dans les actualités locales de la région de Cleveland, dans l'État de l'Ohio.
+Fiabilité : fiable"
+llama3.2:3b,gawker.com,"Connaissance : oui
+Description : Gawker.com était un site web américain de médias en ligne spécialisé dans la publication de contenus sur la vie privée, la politique, la culture populaire et la société, notamment grâce à des articles sur les personnalités publiques et les événements de la vie privée.
+Fiabilité : peu fiable"

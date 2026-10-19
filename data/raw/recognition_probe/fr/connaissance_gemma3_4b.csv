@@ -1,0 +1,115 @@
+modele,domaine,reponse
+gemma3:4b,fool.com,"Connaissance : oui
+Description : Fool.com est un site d'information financière britannique qui propose des analyses, des opinions et des données sur les marchés boursiers, les entreprises et l'économie.
+Fiabilité : peu fiable"
+gemma3:4b,buzzfeednews.com,"Connaissance : oui
+Description : BuzzfeedNews est un site d'actualités en ligne connu pour son format de contenu axé sur les listes, les articles engageants et souvent humoristiques, ciblant un public jeune.
+Fiabilité : peu fiable"
+gemma3:4b,latimes.com,"Connaissance : oui
+Description : Latimes.com est le site web du Los Angeles Times, un journal en ligne et papier basé à Los Angeles, Californie, connu pour ses reportages sur la région de Los Angeles et les affaires nationales et internationales.
+Fiabilité : fiable"
+gemma3:4b,statista.com,"Connaissance : oui
+Description : Statista est une plateforme de données et d'analyses qui fournit des statistiques, des études de marché et des informations sur un large éventail de secteurs.
+Fiabilité : fiable"
+gemma3:4b,blogspot.com,"Connaissance : oui
+Description : Blogspot est une plateforme de blogging appartenant à Google, permettant aux utilisateurs de créer et de publier des blogs gratuitement.
+Fiabilité : peu fiable"
+gemma3:4b,bgr.com,"Connaissance : oui
+Description : bgr.com est un site web d'actualités et de divertissement axé sur les jeux vidéo, la technologie et la culture geek, appartenant au groupe Bauer Media.
+Fiabilité : peu fiable"
+gemma3:4b,cbs8.com,"Connaissance : oui
+Description : CBS8 est un canal de télévision local basé à San Diego, Californie, qui propose des nouvelles, des sports et des divertissements.
+Fiabilité : peu fiable"
+gemma3:4b,theweek.co.uk,"Connaissance : oui
+Description : TheWeek.co.uk est un site d'actualités britannique qui propose des articles de presse et des analyses sur une variété de sujets, souvent avec un angle conservateur.
+Fiabilité : peu fiable"
+gemma3:4b,ibtimes.co.in,"Connaissance : oui
+Description : ibtimes.co.in est un site d'actualités en ligne qui publie des articles sur une variété de sujets, notamment l'actualité internationale, la politique, l'économie et l'environnement.
+Fiabilité : peu fiable"
+gemma3:4b,metro.news,"Connaissance : oui
+Description : Metro.news est un site d'information en ligne qui publie des articles sur l'actualité locale, nationale et internationale, ainsi que des sujets de divertissement et de lifestyle.
+Fiabilité : peu fiable"
+gemma3:4b,dailybuzzlive.com,"Connaissance : oui
+Description : DailyBuzzLive est un site web qui publie des vidéos de fausses nouvelles et de théories du complot, souvent sensationnalistes et sans vérification des faits.
+Fiabilité : peu fiable"
+gemma3:4b,cnn.com,"Connaissance : oui
+Description : CNN.com est un site d'information en ligne appartenant à Warner Bros. Discovery, connu pour ses nouvelles, ses reportages et ses analyses politiques et internationales.
+Fiabilité : peu fiable"
+gemma3:4b,aljazeera.com,"Connaissance : oui
+Description : Al Jazeera est une chaîne de télévision et un site web d'information basée au Qatar, connu pour son point de vue souvent critique sur les événements internationaux et régionaux.
+Fiabilité : peu fiable"
+gemma3:4b,madison.com,"Connaissance : oui
+Description : Madison.com est un site d'information locale de la ville de Madison, Wisconsin, proposant des nouvelles, des événements et des informations communautaires.
+Fiabilité : peu fiable"
+gemma3:4b,therightscoop.com,"Connaissance : oui
+Description : The Right Scoop est un site d'information politique américain qui se concentre sur les nouvelles conservatrices et les informations de coulisses, souvent obtenues via des sources confidentielles.
+Fiabilité : peu fiable"
+gemma3:4b,variety.com,"Connaissance : oui
+Description : Variety est un média américain spécialisé dans les nouvelles du divertissement, de la télévision et du cinéma.
+Fiabilité : fiable"
+gemma3:4b,dailymail.co.uk,"Connaissance : oui
+Description : Dailymail.co.uk est un site d'actualités britannique connu pour son style sensationnaliste et ses titres souvent controversés.
+Fiabilité : peu fiable"
+gemma3:4b,app.com,"Connaissance : oui
+Description : App.com est une plateforme de développement d'applications natives pour iOS et Android, offrant des outils de développement visuel et des services de publication.
+Fiabilité : fiable"
+gemma3:4b,100percentfedup.com,"Connaissance : oui
+Description : 100percentfedup.com est un site web de médias sociaux qui publie des articles critiques sur les plateformes de médias sociaux populaires, en particulier Facebook, Twitter et Instagram, et en mettant en avant des alternatives.
+Fiabilité : peu fiable"
+gemma3:4b,chicagotribune.com,"Connaissance : oui
+Description : Le Chicago Tribune est un important journal de presse quotidien basé à Chicago, Illinois, connu pour ses reportages d'investigation et ses articles de politique.
+Fiabilité : fiable"
+gemma3:4b,express.co.uk,"Connaissance : oui
+Description : Express.co.uk est un site d'information britannique connu pour son orientation conservatrice et son focus sur les nouvelles politiques britanniques et européennes, ainsi que sur les sujets liés à l'immigration et à la sécurité.
+Fiabilité : peu fiable"
+gemma3:4b,amny.com,"Connaissance : oui
+Description : amny.com est un site d'actualités et de divertissement axé sur la culture pop, les célébrités et les tendances, connu pour ses articles humoristiques et souvent controversés.
+Fiabilité : peu fiable"
+gemma3:4b,thecommonsenseshow.com,"Connaissance : oui
+Description : The Common Sense Show est un podcast et chaîne YouTube qui propose des analyses critiques et souvent controversées de l'actualité, de la culture et de la politique, avec un fort accent sur le conspirationnisme et le scepticisme envers les institutions.
+Fiabilité : peu fiable"
+gemma3:4b,themoscowtimes.com,"Connaissance : oui
+Description : The Moscow Times est un journal en ligne basé à Moscou, Russie, qui est souvent critiqué pour son affiliation au Kremlin et ses biais politiques.
+Fiabilité : peu fiable"
+gemma3:4b,breitbart.com,"Connaissance : oui
+Description : Breitbart News est un site d'information américain connu pour son orientation conservatrice et ses prises de position controversées.
+Fiabilité : peu fiable"
+gemma3:4b,bramptonguardian.com,"Connaissance : oui
+Description : Le Guardian est un journal britannique en ligne connu pour son journalisme d'investigation, ses articles de fond et son approche politique de gauche.
+Fiabilité : fiable"
+gemma3:4b,dailystar.co.uk,"Connaissance : oui
+Description : Le Daily Star est un journal britannique en ligne connu pour ses articles sensationnels, ses photos grand public et ses sujets axés sur le divertissement, le sport et les célébrités.
+Fiabilité : peu fiable"
+gemma3:4b,rte.ie,"Connaissance : oui
+Description : Rte.ie est la chaîne de télévision publique d'Irlande, diffusant des programmes nationaux et internationaux.
+Fiabilité : fiable"
+gemma3:4b,thesun.co.uk,"Connaissance : oui
+Description : The Sun est un journal britannique tabloïde connu pour son ton sensationnaliste, ses articles controversés et ses prises de position politiques souvent fortes.
+Fiabilité : peu fiable"
+gemma3:4b,fresnobee.com,"Connaissance : oui
+Description : Fresnobee.com est le site web du *Fresno Bee*, un journal de la région de Fresno, en Californie, qui publie des informations locales, des actualités de l'État et nationales.
+Fiabilité : peu fiable"
+gemma3:4b,wegotthiscovered.com,"Connaissance : oui
+Description : Wegotthiscovered.com est un site web d'actualités et d'analyses axé sur l'industrie du divertissement, en particulier le cinéma et la télévision.
+Fiabilité : peu fiable"
+gemma3:4b,ajc.com,"Connaissance : oui
+Description : AJC.com est le site web du *Atlanta Journal-Constitution*, un journal en ligne et quotidien basé à Atlanta, Géorgie, connu pour ses reportages sur la politique, l'économie et les affaires locales.
+Fiabilité : fiable"
+gemma3:4b,gaytimes.co.uk,"Connaissance : oui
+Description : Gaytimes.co.uk est un magazine et site web britannique axé sur les nouvelles et les opinions concernant la communauté LGBTQ+.
+Fiabilité : peu fiable"
+gemma3:4b,neonnettle.com,"Connaissance : oui
+Description : Neonnettle.com est un média en ligne spécialisé dans l'actualité et l'analyse des politiques énergétiques, des énergies renouvelables et de la transition écologique, avec un focus particulier sur l'Europe.
+Fiabilité : fiable"
+gemma3:4b,sfgate.com,"Connaissance : oui
+Description : sfgate.com est le site web du San Francisco Chronicle, un important journal de la région de la baie de San Francisco, en Californie.
+Fiabilité : fiable"
+gemma3:4b,pagesix.com,"Connaissance : oui
+Description : Pagesix.com est un site d'actualités américain connu pour son approche sensationnaliste et souvent controversée des nouvelles.
+Fiabilité : peu fiable"
+gemma3:4b,news5cleveland.com,"Connaissance : oui
+Description : News5Cleveland.com est le site web de la station de télévision locale WKYC-TV à Cleveland, Ohio, offrant des actualités, des vidéos et des informations sur les programmes de la station.
+Fiabilité : fiable"
+gemma3:4b,gawker.com,"Connaissance : oui
+Description : Gawker était un site web de médias en ligne connu pour ses articles de divertissement, ses critiques de films et de musique, et ses articles d'actualité, souvent avec un ton satirique et humoristique.
+Fiabilité : peu fiable"

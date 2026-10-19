@@ -1,0 +1,294 @@
+﻿domaine_principal,raison_exclusion,nombre_articles
+wikipedia.org,Encyclopédie collaborative,745.0
+inconnu,Source non identifiable,497.0
+imdb.com,Base de données spécialisée,145.0
+medium.com,Plateforme de publication,108.0
+trendolizer.com,Agrégateur / outil automatisé de veille,61.0
+scoopnest.com,Agrégateur d'actualités,50.0
+youtube.com,Plateforme / contenu utilisateur,48.0
+youtu.be,Plateforme / contenu utilisateur,2.0
+amazon.com,Plateforme commerciale,46.0
+reddit.com,Forum / plateforme communautaire,30.0
+quora.com,Plateforme communautaire,28.0
+pinterest.co.uk,Plateforme de partage,22.0
+pressreader.com,Plateforme de distribution de presse,20.0
+google.com,Moteur de recherche / plateforme,18.0
+whitehouse.gov,Source officielle / institutionnelle primaire,17.0
+senate.gov,Source officielle / institutionnelle primaire,13.0
+archive.org,Archive,12.0
+dailymotion.com,Plateforme vidéo,12.0
+magzter.com,Plateforme de distribution de presse,10.0
+twitter.com,Réseau social,9.0
+35.196.40.165,Source non identifiable (adresse IP),8.0
+cbo.gov,Source officielle / institutionnelle primaire,8.0
+facebook.com,Réseau social,8.0
+bls.gov,Source officielle / institutionnelle primaire,7.0
+gpo.gov,Source officielle / institutionnelle primaire,7.0
+house.gov,Source officielle / institutionnelle primaire,6.0
+tumblr.com,Plateforme de publication,6.0
+flickr.com,Plateforme de partage,5.0
+loc.gov,Source officielle / institutionnelle primaire,5.0
+rottentomatoes.com,Agrégateur / base de données de critiques,5.0
+cdc.gov,Source officielle / institutionnelle primaire,4.0
+pinterest.ca,Plateforme de partage,4.0
+target.com,Site commercial,4.0
+bea.gov,Source officielle / institutionnelle primaire,3.0
+instagram.com,Réseau social,3.0
+tenor.com,Plateforme de GIF / contenu utilisateur,3.0
+census.gov,Source officielle / institutionnelle primaire,2.0
+ebay.com,Plateforme commerciale,2.0
+ecfr.gov,Source officielle / institutionnelle primaire,2.0
+eia.gov,Source officielle / institutionnelle primaire,2.0
+ilga.gov,Source officielle / institutionnelle primaire,2.0
+netflix.com,Service de streaming,2.0
+pinterest.dk,Plateforme de partage,2.0
+ssa.gov,Source officielle / institutionnelle primaire,2.0
+usda.gov,Source officielle / institutionnelle primaire,2.0
+alabamavotes.gov,Source officielle / institutionnelle primaire,1.0
+archive.is,Archive,1.0
+archive.li,Archive,1.0
+archives.gov,Source officielle / institutionnelle primaire,1.0
+berkeley.edu,Source institutionnelle / universitaire,1.0
+ca.gov,Source officielle / institutionnelle primaire,1.0
+congress.gov,Source officielle / institutionnelle primaire,1.0
+cornell.edu,Source institutionnelle / universitaire,1.0
+cpsc.gov,Source officielle / institutionnelle primaire,1.0
+daviecountync.gov,Source officielle / institutionnelle primaire,1.0
+defenselink.mil,Source officielle / institutionnelle primaire,1.0
+doe.gov,Source officielle / institutionnelle primaire,1.0
+ed.gov,Source officielle / institutionnelle primaire,1.0
+fda.gov,Source officielle / institutionnelle primaire,1.0
+fdic.gov,Source officielle / institutionnelle primaire,1.0
+fec.gov,Source officielle / institutionnelle primaire,1.0
+flipboard.com,Agrégateur / plateforme de curation,1.0
+gao.gov,Source officielle / institutionnelle primaire,1.0
+giphy.com,Plateforme de GIF / contenu utilisateur,1.0
+github.com,Plateforme de développement,1.0
+goodreads.com,Base de données / plateforme communautaire,1.0
+googleusercontent.com,Hébergement technique,1.0
+harvard.edu,Source institutionnelle / universitaire,1.0
+imgur.com,Plateforme de partage d'images,1.0
+justice.gov,Source officielle / institutionnelle primaire,1.0
+mass.edu,Source institutionnelle / universitaire,1.0
+mass.gov,Source officielle / institutionnelle primaire,1.0
+nap.edu,Source institutionnelle / universitaire,1.0
+ny.gov,Source officielle / institutionnelle primaire,1.0
+pinterest.com,Plateforme de partage,1.0
+pinterest.es,Plateforme de partage,1.0
+spotify.com,Plateforme audio,1.0
+state.gov,Source officielle / institutionnelle primaire,1.0
+supremecourt.gov,Source officielle / institutionnelle primaire,1.0
+wisconsin.gov,Source officielle / institutionnelle primaire,1.0
+blogspot.com,Exclusion décidée lors de la curation,
+statista.com,Exclusion décidée lors de la curation,
+wordpress.com,Exclusion décidée lors de la curation,
+fandom.com,Exclusion décidée lors de la curation,
+wikia.com,Exclusion décidée lors de la curation,
+tvtropes.org,Exclusion décidée lors de la curation,
+last.fm,Exclusion décidée lors de la curation,
+discogs.com,Exclusion décidée lors de la curation,
+knowyourmeme.com,Exclusion décidée lors de la curation,
+famousbirthdays.com,Exclusion décidée lors de la curation,
+livejournal.com,Exclusion décidée lors de la curation,
+prnewswire.com,Exclusion décidée lors de la curation,
+history.com,Exclusion décidée lors de la curation,
+britannica.com,Encyclopédie,
+dictionary.com,Dictionnaire,
+wikihow.com,Guides collaboratifs,
+allmusic.com,Base de données musicales,
+genius.com,Paroles et annotations musicales,
+metacritic.com,Agrégateur de critiques,
+tripadvisor.com,Avis et recommandations touristiques,
+yelp.com,Avis sur les établissements,
+ticketmaster.com,Billetterie,
+businesswire.com,Diffusion de communiqués de presse,
+celebritynetworth.com,Informations biographiques et estimations de fortune,
+ranker.com,Classements participatifs,
+annyblog.com,Nom de domaine contenant « blog » (règle demandée),
+automaticblogging.com,Nom de domaine contenant « blog » (règle demandée),
+blog.familytheater.org,Nom de domaine contenant « blog » (règle demandée),
+blog.feedspot.com,Nom de domaine contenant « blog » (règle demandée),
+blog.feelingthevibe.com,Nom de domaine contenant « blog » (règle demandée),
+blog.invoiceberry.com,Nom de domaine contenant « blog » (règle demandée),
+blog.shopakira.com,Nom de domaine contenant « blog » (règle demandée),
+blog.ticketmaster.co.uk,Nom de domaine contenant « blog » (règle demandée),
+blog.wenn.com,Nom de domaine contenant « blog » (règle demandée),
+blog.winkylux.com,Nom de domaine contenant « blog » (règle demandée),
+blogs.desmoinesregister.com,Nom de domaine contenant « blog » (règle demandée),
+blogs.rollcall.com,Nom de domaine contenant « blog » (règle demandée),
+blogs.trendolizer.com,Nom de domaine contenant « blog » (règle demandée),
+communitynewsblog.com,Nom de domaine contenant « blog » (règle demandée),
+disneytouristblog.com,Nom de domaine contenant « blog » (règle demandée),
+duffelblog.com,Nom de domaine contenant « blog » (règle demandée),
+en.paperblog.com,Nom de domaine contenant « blog » (règle demandée),
+jonalisblog.com,Nom de domaine contenant « blog » (règle demandée),
+lidblog.com,Nom de domaine contenant « blog » (règle demandée),
+lindaikejisblog.com,Nom de domaine contenant « blog » (règle demandée),
+mjsbigblog.com,Nom de domaine contenant « blog » (règle demandée),
+mlst.blog,Nom de domaine contenant « blog » (règle demandée),
+myfashunpassion.blog,Nom de domaine contenant « blog » (règle demandée),
+qwekusblog.com,Nom de domaine contenant « blog » (règle demandée),
+theeconomiccollapseblog.com,Nom de domaine contenant « blog » (règle demandée),
+thehorrormoviesblog.com,Nom de domaine contenant « blog » (règle demandée),
+aol.com,Portail et agrégateur d’actualités,
+msn.com,Portail regroupant des articles d’autres médias,
+yahoo.com,Portail avec contenus journalistiques propres,
+sky.com,Portail d’un groupe possédant Sky News,
+nine.com.au,Portail d’un groupe médiatique,
+fool.com,Analyses et conseils financiers,
+countryliving.com,Magazine lifestyle,
+psychologytoday.com,Magazine et contributions de spécialistes,
+mentalfloss.com,Vulgarisation et divertissement,
+popularmechanics.com,Magazine spécialisé,
+theconversation.com,Publication d’analyses universitaires,
+c-span.org,Diffuseur institutionnel de débats publics,
+itv.com,Diffuseur audiovisuel,
+pbs.org,Diffuseur public,
+ign.com,Média spécialisé jeux vidéo,
+polygon.com,Média spécialisé jeux vidéo,
+zerohedge.com,Actualités et commentaires financiers,
+commonwealthfund.org,Fondation de recherche en santé,
+epi.org,Institut de recherche économique,
+glaad.org,Association de défense des droits,
+govtrack.us,Plateforme de suivi du Congrès américain,
+guttmacher.org,Organisme de recherche,
+naacp.org,Organisation de défense des droits,
+newslit.org,Organisation d’éducation aux médias,
+opensecrets.org,Base de données sur le financement politique,
+pewforum.org,Projet de recherche et de données,
+realclearpolitics.com,Agrégateur d’actualité politique avec production éditoriale,
+tvguide.com,Guides TV et actualités du divertissement,
+thrillist.com,Contenus lifestyle et recommandations,
+seventeen.com,Magazine jeunesse,
+playboy.com,Magazine avec différentes activités,
+politifact.com,Organisation de vérification des faits,
+avclub.com,Critiques et actualités culturelles,
+goop.com,Marque commerciale de bien-être,
+notablebiographies.com,Répertoire de biographies,
+peta.org,Organisation de défense des animaux,
+globalsecurity.org,Portail documentaire sur la défense et la sécurité,
+patheos.com,Plateforme de blogs religieux,
+prepareforchange.net,Plateforme communautaire et de mobilisation,
+breakingnews247.net,Site de création de fausses nouvelles,
+worldlifestyle.com,Contenus lifestyle et viraux,
+beforeitsnews.com,Plateforme de publication communautaire,
+faithit.com,Contenus religieux et lifestyle,
+higherperspectives.com,Contenus inspirationnels,
+littlethings.com,Contenus viraux et lifestyle,
+mtonews.com,Actualités people,
+patrioticviralnews.com,Contenus viraux,
+thepointsguy.com,Média spécialisé dans les voyages,
+broadwayworld.com,Média spécialisé dans le théâtre,
+6abc.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abc.net.au,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abc13.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abc15.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abc7.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abc7chicago.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abc7news.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abc7ny.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abcactionnews.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abclive.in,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abcnews-us.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abcnews.go.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+abcnewsradioonline.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+cbs.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+cbs8.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+cbslocal.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+cbsnews.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+cbssports.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+fox.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+fox10phoenix.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+fox26houston.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+fox2now.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+fox40.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+fox5dc.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+fox6now.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+foxbusiness.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+foxella.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+foxnews.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+foxnewssports.site,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+foxsports.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+foxsports.com.au,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+foxync.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+howtogeek.com,"Exclusion demandée : domaine médical, institutionnel ou spécialisé",
+huffingtonpost.ca,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+huffingtonpost.co.uk,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+huffingtonpost.com,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+huffingtonpost.com.au,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+huffpost.com,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+ibtimes.co.in,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+ibtimes.co.uk,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+ibtimes.com,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+ibtimes.sg,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+kff.org,"Exclusion demandée : domaine médical, institutionnel ou spécialisé",
+mayoclinic.org,"Exclusion demandée : domaine médical, institutionnel ou spécialisé",
+metro.co.uk,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+metro.news,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+metro.us,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+nbc.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbc.com.pg,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbc.na,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbc26.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbc4i.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcbayarea.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcboston.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcchicago.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcconnecticut.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcdfw.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbclosangeles.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcmiami.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcnews.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcnewyork.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcphiladelphia.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcsandiego.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcsports.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcsvg.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcumv.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcuni.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcuniversal.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+nbcwashington.com,"Exclusion demandée : domaine commençant par abc, 6abc, nbc, cbs ou fox",
+theweek.co.uk,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+theweek.com,"Exclusion demandée : domaine appartenant à une famille de noms IBTimes, Metro, HuffPost ou The Week",
+webmd.com,"Exclusion demandée : domaine médical, institutionnel ou spécialisé",
+businessinsider.com,Édition de la marque Business Insider (exclusion des éditions apparentées),
+businessinsider.com.au,Édition de la marque Business Insider (exclusion des éditions apparentées),
+businessinsider.in,Édition de la marque Business Insider (exclusion des éditions apparentées),
+theguardian.com,Domaine de la famille Guardian (exclusion demandée),
+guardian.co.uk,Domaine de la famille Guardian (exclusion demandée),
+guardian.ng,Domaine portant le nom Guardian (exclusion demandée ; affiliation non vérifiée),
+huffingtonpost.co.za,Édition de la marque Huffington Post (exclusion des éditions apparentées),
+telegraph.co.uk,Domaine portant le nom Telegraph (exclusion demandée),
+dailytelegraph.com.au,Domaine portant le nom Telegraph (exclusion demandée ; affiliation distincte possible),
+wikiquote.org,Recueil collaboratif de citations,
+marriedwiki.com,Répertoire biographique,
+wikinetworth.com,Répertoire biographique,
+biography.com,Site de biographies,
+aminoapps.com,Plateforme communautaire,
+apartmenttherapy.com,Conseils maison et décoration,
+astrologyanswers.com,Site d’astrologie,
+store.brunomars.com,Boutique commerciale,
+us.topshop.com,Boutique commerciale,
+www2.alabamavotes.gov,Site gouvernemental,
+doe.mass.edu,Site institutionnel,
+billboardmusicawards.com,Site de cérémonie de récompenses,
+sportsbettingdime.com,Site spécialisé dans les paris sportifs,
+pethealthnetwork.com,Site d’information sur la santé animale,
+aad.org,Association professionnelle de dermatologie,
+aarp.org,Organisation associative,
+actionnetwork.org,Plateforme de mobilisation,
+berniesanders.com,Site politique personnel,
+anastasiabeverlyhills.com,Marque de cosmétiques,
+beyonce.com,Site officiel d’artiste,
+bhphotovideo.com,Commerce électronique,
+brighthorizons.com,Entreprise de services,
+care.com,Plateforme de services,
+converse.com,Marque commerciale,
+disney.com,Site d’entreprise et de divertissement,
+clip2mp3.org,Outil en ligne,
+emmys.com,Site de récompenses,
+en.oxforddictionaries.com,Dictionnaire,
+dga.org,Organisation professionnelle,
+empirenews.net,Site satirique et de fausses nouvelles,
+babylonbee.com,Site satirique,
+breakingnews365.net,Site de création de fausses nouvelles,

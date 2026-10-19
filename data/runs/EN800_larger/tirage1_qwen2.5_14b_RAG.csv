@@ -1,0 +1,303 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14896,bluedotdaily.com,fake,cnn.com,fake,"fake
+
+The article contains hyperbolic and misleading statements about the tax bill and its impact on police officers and firefighters. While it's true that the Tax Cuts and Jobs Act of 2018 did eliminate some deductions for uniformed public safety workers, the claim that it is ""the single worst piece of legislation in the history of American politics"" is subjective and not supported by the evidence provided. Additionally, the claim that a wealthy CEO can deduct a private jet while a police officer cannot deduct their uniform is an oversimplification and exaggeration of the actual tax law changes. The evidence does not support the extreme characterization of the tax bill in the article.",aljazeera.com,fake,"fake
+
+The article contains hyperbolic and exaggerated claims about the tax bill being ""the single worst piece of legislation in the history of American politics"" and includes a sarcastic tone suggesting that the claim about police officers not being able to deduct their uniforms is unbelievable. The evidence provided does not support the specific claim made in the article about the tax bill preventing police officers from deducting their uniforms, and the tone and content of the article suggest it is more of an opinion piece rather than a factual report.",madison.com,fake,"fake
+
+The article contains hyperbolic and misleading statements about the tax bill and its impact on police officers and firefighters. While it is true that the Tax Cuts and Jobs Act of 2018 did eliminate some deductions for uniformed public safety workers, the claim that it is ""the single worst piece of legislation in the history of American politics"" is subjective and not supported by the evidence provided. Additionally, the claim that a wealthy CEO can deduct a private jet while a police officer cannot deduct their uniform is an oversimplification and does not accurately represent the complexity of the tax legislation. The tone and content of the article suggest a biased and exaggerated perspective rather than a factual report.",therightscoop.com,fake,"fake
+
+The claim that the tax bill is the ""single worst piece of legislation in the history of American politics"" is an opinion and not a verifiable fact. Additionally, the specific claim about police officers not being able to deduct their uniforms while wealthy CEOs can deduct private jets is misleading. The actual tax legislation does not make such distinctions in this manner. The evidence provided does not support the specific claims made in the article, and the tone and content of the article suggest it is more of an opinion piece rather than a factual report.",fake,"fake
+
+The article contains hyperbolic and exaggerated claims about the tax bill, including a statement that ""a wealthy CEO can deduct a private jet, but a police officer cannot deduct his/her uniform,"" which is not accurate. The evidence provided does not support the claim that the tax bill treats police officers and firefighters unfairly in this manner. Additionally, the article's tone and language are highly biased and do not provide factual evidence to support its claims."
+politifact8085,realclearpolitics.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact8371,tampabay.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact6646,politifact.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,"real
+
+The article discusses Paul Ryan's plan for Medicare reform, which is a factual topic of political debate. The claim about the $700 billion in Medicare ""cuts"" is a point of contention in the political discourse, often cited by critics of Ryan's plan. Without specific evidence to contradict the claim, and given the context of political debate, the claim is considered real in the context of political discourse, even though the exact figure might be disputed or mischaracterized in the broader debate.",therightscoop.com,real,"real
+
+The article discusses Paul Ryan's plan to reform Medicare, which is a factual topic of political debate. The claim about Medicare ""cuts"" is a point of contention in the political discourse, and while the evidence provided does not directly verify the claim, the context of the article is based on real political events and proposals. Therefore, based on the information given, the claim is real.",real,"real
+
+The article discusses Paul Ryan's plan for Medicare reform, which is a real and well-known topic in U.S. politics. However, the instruction mentions that no evidence was found on the web to verify the claim, which might suggest some doubt. Given the public nature of Paul Ryan's Medicare reform proposal and its significant presence in political discourse, the claim is considered real based on general knowledge. If the lack of evidence specifically targets misinformation or falsehoods about the claim, further clarification would be needed. But based on the information provided and the public nature of the topic, the answer is ""real""."
+politifact627,thecaucus.blogs.nytimes.com,real,cnn.com,indetermine,"real
+
+The article is about Senator John McCain's activities in Colorado, which includes meeting with advisers and donors, giving a speech at the Aspen Institute, and attending fundraising events. The evidence provided does not directly relate to the content of the article but rather seems to be about other individuals named McCain in Colorado. This does not contradict the article's claims and does not provide evidence to suggest the article is fake. Therefore, based on the information given, the article appears to be real.",aljazeera.com,indetermine,"real
+
+The article is about Senator John McCain's activities in Colorado, which includes meeting with advisers and donors, giving a speech at the Aspen Institute, and attending fundraising events. The evidence provided does not directly relate to the content of the article but rather seems to be about other individuals named McCain in Colorado. This does not contradict the article's claims and does not provide evidence to suggest the article is fake. Therefore, based on the information given, the article appears to be real.",madison.com,indetermine,"real
+
+The article is about Senator John McCain's activities in Colorado, which includes meeting with advisers and donors, giving a speech at the Aspen Institute, and attending fundraising events. The evidence provided does not directly relate to the content of the article but rather seems to be about other individuals named McCain in Colorado. This does not contradict the article's claims and does not provide evidence to suggest the article is fake. Therefore, based on the information given, the article appears to be real.",therightscoop.com,fake,"fake
+
+The article mentions Senator John McCain meeting with his top campaign advisers and donors in Colorado, discussing various topics, and giving a speech at the Aspen Institute. However, the evidence provided does not support the claim made in the article. The evidence is about Michael McCain and Robert McCain, who are not the same person as Senator John McCain, and does not provide any information related to the activities of John McCain in Colorado as described in the article. Therefore, based on the given evidence, the claim appears to be fake.",fake,fake
+politifact11899,washingtonpost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15309,nrtonline.info,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,cnn.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. Therefore, the claim is false.",aljazeera.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the last piece of evidence provided refers to a 3rd Democratic debate on September 12, 2019, which is a different event. This discrepancy suggests that the article is not accurately representing the specific event it claims to be about, making it misleading or fake in the context of the original claim.",madison.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. Therefore, the claim is false.",therightscoop.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate which took place on December 19, 2015, but the evidence provided includes a link to a transcript of a debate that occurred on September 12, 2019, which is a different event. Therefore, the claim in the article is not accurate and can be considered fake.",fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. Therefore, the claim in the article is not accurate and appears to be fake."
+politifact14862,ravinderbhalla.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-908446,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-855390,nydailynews.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15592,opreminfo.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact439,abcnews.go.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14376,dailyfeed.news,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-856933,rap-up.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15386,hotgazette.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-895969,time.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact8611,america.aljazeera.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,fake,"fake
+
+The article's claim that the Israeli government has greeted Rouhani's election victory with hostility is not entirely accurate based on the provided evidence. The evidence suggests that there are differing views between the U.S. and Israel regarding Rouhani's election, with the U.S. being more open to dialogue, while Israel remains cautious. The article seems to overstate the Israeli government's reaction to Rouhani's victory, implying a uniform and strong negative response, which may not fully capture the complexity of the situation.",real,real
+gossipcop-1773639736,metro.co.uk,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact7511,thehill.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact6932,politifact.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact408,mtv.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14114,economist.com,real,cnn.com,fake,"fake
+
+The provided evidence dates from 2024 and 2026, which is after Trump's presidency ended in 2021. The article claims the interview took place on May 4th, 2017, during Trump's presidency. The evidence provided does not support the claim and appears to be from a different time period, suggesting the evidence is not relevant to verifying the authenticity of the 2017 interview transcript. Additionally, the format and content of the provided text do not match a typical CNN article format, suggesting it might be a fabricated or altered document.",aljazeera.com,fake,"fake
+
+The provided text appears to be a setup for an interview transcript with Donald Trump, but the evidence found on the web suggests that the dates mentioned (e.g., May 4th, 2017) do not align with any verified interviews or transcripts from those sources. Additionally, the evidence provided includes references to future dates (e.g., Oct 1, 2026) that are clearly not relevant to the claimed interview date. Therefore, the claim in the article is likely fake.",madison.com,fake,"fake
+
+The provided evidence dates from 2024 and 2026, which is after Trump's presidency ended in 2021. The article claims the interview took place on May 4th, 2017, during Trump's presidency. The evidence provided does not support the claim and appears to be from a different time period, suggesting the evidence is not relevant to verifying the authenticity of the 2017 interview transcript. Therefore, based on the mismatch in dates and the lack of relevant evidence, the claim appears to be fake.",therightscoop.com,fake,"fake
+
+The provided text appears to be a setup for an interview transcript with Donald Trump, but the evidence found on the web suggests that the dates mentioned (e.g., May 4th, 2017) do not align with any verified interviews or transcripts from those sources. Additionally, the evidence provided includes references to future dates (e.g., Oct 1, 2026) that are clearly not relevant to the claimed interview date. Therefore, the claim in the article is likely fake.",fake,"fake
+
+The provided text and context suggest a fabricated interview transcript, as the evidence found on the web indicates that the dates mentioned (e.g., Oct 1, 2026) are inconsistent with the actual timeline of Donald Trump's presidency, which ended in January 2021. Additionally, the content of the evidence does not align with the format or content of a genuine interview transcript from May 4th, 2017."
+politifact674,legis.state.ak.us,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-2220709136,express.co.uk,fake,cnn.com,fake,"fake
+
+The article contains inaccuracies and misleading information. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to support the claim that he specifically sought the approval of Kate Middleton. The article conflates different reports and adds details that are not supported by reliable sources.",aljazeera.com,fake,"fake
+
+The article contains inaccuracies and misleading information. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to support the claim that he specifically sought the approval of Kate Middleton. The sources provided do not substantiate the claim made in the article, and the closeness of their relationship does not necessarily imply that Harry would seek Kate's approval before proposing to Meghan.",madison.com,fake,"fake
+
+The article contains inaccuracies and exaggerations. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to suggest that he specifically sought the approval of Kate Middleton. The claim that Kate Middleton is like a mentor to Harry and that he wanted her seal of approval the most is not supported by reliable sources.",therightscoop.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not supported by the evidence provided. The evidence suggests that Harry sought the approval of his grandmother, Queen Elizabeth II, rather than Kate Middleton. Therefore, the claim in the article is not accurate based on the given information.",fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, and while there are reports suggesting this, the evidence provided also mentions that Harry sought the approval of his grandmother, Queen Elizabeth II, which is a formal requirement for members of the royal family before proposing to someone who will become a member of the royal family. The article does not clearly differentiate between these two approvals and seems to overemphasize Kate's role in the decision-making process, which is not substantiated by the provided evidence."
+gossipcop-3401078624,newidea.com.au,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact938,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14310,quickening-spirit.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,cnn.com,fake,"fake
+
+The article text provided does not match the content suggested by the title ""First Look: The Voice Season 15"". The text is actually a cookie policy statement, which is unrelated to the TV show ""The Voice"". The evidence found on the web supports the existence of ""The Voice"" Season 15, but the given article text does not relate to it.",aljazeera.com,fake,"fake
+
+The article text provided does not match the content suggested by the title ""First Look: The Voice Season 15"". The text is actually a standard cookie policy notice, not an article about the TV show ""The Voice"". The evidence provided seems to be about the show, but it does not confirm that the original text is an article about ""The Voice"" Season 15. Therefore, the claim in the article is fake.",madison.com,fake,"fake
+
+The article text provided is a standard cookie policy notice and not an article about ""The Voice"" Season 15. The evidence provided talks about ""The Voice"" Season 15, but it does not match the content of the article text given. Therefore, the claim in the article is not about the actual content of ""The Voice"" Season 15 and is thus fake in the context of what was provided.",therightscoop.com,indetermine,"fake
+
+The article text provided is a standard cookie policy notice and does not contain any information about ""The Voice"" Season 15. The evidence found on the web suggests that Season 15 of ""The Voice"" is real, but the given article does not mention anything about the show or its season premiere, making the claim in the article title misleading or irrelevant to the content of the article itself.",fake,"fake
+
+The article text provided is a standard cookie policy statement and does not contain any information about ""The Voice Season 15"". The evidence found on the web seems to be about ""The Voice"" Season 15, but it does not match the content of the article text given. Therefore, the claim in the article is not about ""The Voice Season 15"" and is thus fake in the context of the question."
+politifact1067,foxnews.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact13677,newsbreakshere.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,cnn.com,fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on a specific date. However, the evidence provided does not support this claim. The evidence mentions a ""photo dump"" on September 1, which seems unrelated to a bachelorette party in Cabo, and there's no mention of a bachelorette party in the provided evidence. Additionally, the date mentioned in the evidence (September 3, 2025) is in the future as of now, which makes the claim unlikely to be true based on the current date. Therefore, the claim appears to be fake.",aljazeera.com,fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on September 5, 2025. However, the evidence provided does not support this claim. The evidence mentions a photo dump on September 1, 2025, which does not include a specific mention of a bachelorette party photo. Additionally, the future date mentioned in the article (September 5, 2025) makes the claim seem fabricated as of now. Therefore, the claim is fake.",madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact13905,usnnetwork.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-875236,mtv.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact939,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact13897,huzlers.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,cnn.com,real,real,aljazeera.com,fake,fake,madison.com,fake,"fake
+
+The article mentions that George H.W. Bush died peacefully in his afternoon nap and provides details about his recent hospital stays. However, the evidence found on the web indicates that George H.W. Bush died on November 30, 2018, at his home in Houston, Texas, due to vascular Parkinson's syndrome. The article does not specify the date of Bush's death, and the details provided do not align with the verified information available online. Therefore, the claim in the article appears to be inaccurate or outdated.",therightscoop.com,fake,fake,fake,fake
+gossipcop-6857674423,hindustantimes.com,fake,cnn.com,fake,"fake
+
+The article mentions events and details that do not align with the evidence found. Specifically, the article claims that the divorce isn't final due to disagreements over the children's custody and living arrangements, and it suggests that the most recent date related to the divorce proceedings is from 2025. However, the evidence provided indicates that the divorce was finalized in 2024, and the ongoing disputes are related to the sale of their French château and other legal matters, not primarily about the children's custody and living arrangements as the article suggests.",aljazeera.com,fake,fake,madison.com,fake,"fake
+
+The article mentions events and details that do not align with the verified information. The divorce was finalized in 2024, and the article incorrectly states that the divorce isn't final yet due to disagreements about the children's custody and living arrangements. The evidence provided indicates that the legal disputes are related to the sale of their French château and other matters, not the immediate custody and living situation of the children as the article suggests.",therightscoop.com,fake,fake,fake,fake
+politifact14026,politicass.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-7190490486,usmagazine.com,fake,cnn.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, which makes the claim seem speculative and not based on current facts. Therefore, the claim appears to be fake.",aljazeera.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, which makes the claim questionable. Therefore, the claim is fake.",madison.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, and the claim about him appearing on the show seems speculative and not based on any confirmed information. Therefore, the claim is fake.",therightscoop.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, and there's no indication that Colletti is single or planning to appear on the show. Therefore, the claim is not accurate based on the provided evidence.",fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article mentions a future date of January 22, 2026, which is not accurate as of the current date, and there's no indication that Colletti is single or planning to appear on the show. Therefore, the claim in the article is not true."
+politifact15606,thegoldwater.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-942114,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,cnn.com,fake,fake,aljazeera.com,real,real,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-7440482567,popsugar.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3016533567,msn.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,cnn.com,fake,"fake
+
+The article's claim about Meghan Markle's Instagram being filled with intimate and personal photos before she became engaged to Prince Harry is exaggerated and not entirely accurate based on the evidence provided. While there are reports of her deleting her Instagram account and that she had a more personal social media presence before joining the Royal Family, the specific claim about her Instagram being ""filled with pictures of a fun-loving young woman"" and including ""selfies from her bed where she sits scantily-clad"" is not substantiated by the evidence given. The evidence suggests that her photos were from holidays, with friends, and of her dog, but does not confirm the presence of the specific type of intimate photos mentioned in the article.",aljazeera.com,fake,"fake
+
+The article's claim that Meghan Markle's Instagram was filled with intimate and revealing photos before she became engaged to Prince Harry is not entirely accurate. While there are reports and articles suggesting that her social media presence changed after becoming a member of the Royal Family, the specific claim about her Instagram being filled with intimate photos is not well-supported by the evidence provided. The evidence suggests that her earlier photos were more varied and included different styles and phases of her life, but there is no concrete evidence that her Instagram was specifically filled with intimate or revealing photos before her engagement.",madison.com,fake,"fake
+
+The article's claim about Meghan Markle's Instagram being filled with intimate and personal photos before she married Prince Harry is exaggerated and not entirely accurate based on the evidence provided. While there are reports of her deleting her Instagram account and the disappearance of posts from 2017, the specific claim about the nature of her posts being ""intimate snaps"" is not well-supported by the evidence given. The evidence suggests that there were photos from her life before she became a royal, but it does not confirm that these were specifically ""intimate"" in nature as the article suggests.",therightscoop.com,fake,fake,fake,fake
+politifact14944,thehill.com,fake,cnn.com,fake,"fake
+
+The dates mentioned in the evidence (2025, 2026) do not align with the current timeline, suggesting the article is not about a recent event and may be fabricated or from a fictional scenario.",aljazeera.com,indetermine,"fake
+
+The article mentions a government shutdown in 2013 and discusses a shutdown that is currently happening or about to happen, but the evidence found on the web refers to government shutdowns in 2025 and 2026, which are not real events as of now. This suggests that the article might be outdated or fabricated with future-dated references.",madison.com,fake,"fake
+
+The article mentions a government shutdown in 2026, which is in the future as of now, and there is no actual government shutdown that occurred in 2026. The evidence provided includes dates in the future, indicating that the article is not reporting on an actual event but rather a hypothetical or fictional scenario.",therightscoop.com,indetermine,"fake
+
+The article appears to be referencing future dates (2026) for events that have not yet occurred, which suggests it is not reporting on current or past events accurately. The sources provided also seem to be fabricated or from a fictional future context, indicating the article may not be based on real, current information.",fake,"fake
+
+The article mentions a government shutdown in 2026, which is in the future as of now (2023), and the evidence provided includes dates in 2025 and 2026, suggesting the article is not about a past event but rather a fictional or speculative scenario. Therefore, the claim in the article is not true based on current facts."
+gossipcop-876260,rap-up.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14516,observeronline.news,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14855,www2.alabamavotes.gov,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-862435,people.com,real,cnn.com,indetermine,"fake
+
+The article mentions a celebrity expecting a child via surrogate on a Bravo show, which seems to be referencing a recent event. However, the evidence provided includes dates in 2025 and 2026, which are in the future as of now (2023), and the article mentions specific celebrities and events that do not align with known facts. Additionally, the article does not provide a specific date or context that matches any real event involving a celebrity expecting a child via surrogate on a Bravo show. Therefore, based on the provided evidence and the future dates mentioned, the claim appears to be fabricated or inaccurately reported.",aljazeera.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by a 50-year-old host on Watch What Happens Live. Additionally, the dates in the evidence provided (2025 and 2026) are in the future relative to the current date, which suggests that the article might be from a fictional or future context. The article's claim does not align with the provided evidence, leading to the conclusion that it is fake.",madison.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. Moreover, the dates in the evidence provided (Sep 16, 2026, May 7, 2026, and Feb 1, 2025) are in the future relative to the current date, which suggests that the article itself might be set in a future context or is fabricated. The article does not align with the provided evidence, and there is no confirmation of the specific claim made in the article through the given sources. Therefore, the claim is ""fake"".",therightscoop.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this specific claim. The sources provided discuss surrogacy in general and mention several celebrities who have used surrogacy, but none of them confirm the specific claim about the host of Watch What Happens Live. Additionally, the dates provided in the evidence sources (2025 and 2026) are in the future relative to the current date, which suggests that the article might be from a fictional or future context. Therefore, based on the information given, the claim appears to be fabricated or from a fictional context.",indetermine,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he is expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. The evidence talks about celebrities like Cameron Diaz, Kim Kardashian, Elton John, Nicole Kidman, Anderson Cooper, Priyanka Chopra, Aamir Khan, and Cristiano Ronaldo using surrogacy, but does not confirm the specific claim made in the article about the host of Watch What Happens Live. Additionally, the dates provided in the evidence (2025 and 2026) are in the future relative to the current date, which suggests that the article might be fabricated or set in a future context not aligned with real events. Therefore, based on the information provided, the claim appears to be fake."
+politifact14815,helloforos.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,cnn.com,fake,fake,aljazeera.com,real,real,madison.com,fake,fake,therightscoop.com,real,real,fake,fake
+politifact15048,conservativedailypost.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact98,nymag.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14511,msnbc.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact13775,beforeitsnews.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact348,pollingreport.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-914034,movieweb.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact1454,msnbc.msn.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-915516,dailynews.news,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,cnn.com,fake,"fake
+
+The article claims that Kris Jenner turned 62, but evidence found on the web indicates that she celebrated her 70th birthday in 2025, which contradicts the claim in the article. Additionally, the article's date suggests it was written in 2017, making the claim about her 62nd birthday incorrect based on the provided evidence.",aljazeera.com,fake,"fake
+
+The article claims that Kris Jenner turned 62, but evidence found on the web indicates that she celebrated her 70th birthday in 2025, which contradicts the claim in the article. Additionally, the article's content about the birthday celebration seems to be a mix-up with a previous event or a fictional account, as the details do not align with the verified information about her 70th birthday celebration.",madison.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party. This contradicts the claim in the article, making it false.",therightscoop.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake."
+gossipcop-877704,etonline.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact7293,kff.org,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact2128,abcnews.go.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-918819,etonline.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15604,worldfactsftw.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-894897,foxnews.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,cnn.com,fake,"fake
+
+The article mentions events and a timeline that do not align with factual information available online. Specifically, the article refers to a relationship status and events that contradict known facts, such as the couple splitting in 2023, which is not accurate as of the time the article was supposedly published. Additionally, the article's content about Travis Scott avoiding the spotlight and the couple keeping their relationship private is presented in a way that does not match the evidence provided, which suggests the article may be fabricated or based on outdated or incorrect information.",aljazeera.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the current date, such as references to a future date of 2026 for information that should be current or from the past. Additionally, the article claims that Jenner and Scott are a family with a child, but evidence suggests they have split. Therefore, the claim appears to be based on outdated or fabricated information.",madison.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the current factual information available. Specifically, the article refers to a future date (2026) for information that should be current or in the recent past, and it includes details about a split between Travis Scott and Kylie Jenner that did not occur as of the latest verified information. Therefore, the claim appears to be speculative or based on outdated or incorrect information.",therightscoop.com,fake,fake,fake,fake
+politifact14265,mainerepublicemailalert.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact13431,time.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact9576,blogs.rollcall.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,cnn.com,fake,"fake
+
+The provided text and title do not match. The title suggests the article is about Selena Gomez's new song and its possible references to Justin Bieber or The Weeknd, but the text discusses Eminem's surprise album ""Kamikaze"" and does not mention Selena Gomez or her new song. Therefore, the claim in the article as presented is fake.",aljazeera.com,fake,"fake
+
+The provided text does not match the title or content suggested by the source (aljazeera.com) and the evidence found. The text appears to be about Eminem's album ""Kamikaze,"" while the evidence provided is about Selena Gomez's new music and speculations about it being about Justin Bieber. The article title and content do not align with the text provided, indicating that the text is not from the source mentioned and is not related to the title and content suggested.",madison.com,fake,"fake
+
+The provided text does not match the title of the article mentioned. The text discusses Eminem's album ""Kamikaze"" and does not address Selena Gomez's new song or its potential references to Justin Bieber or The Weeknd. Therefore, the claim in the article title is not supported by the given text.",therightscoop.com,fake,"fake
+
+The provided text and context do not match the title and content of the article mentioned. The article title is about Selena Gomez's new song being about Justin Bieber or The Weeknd, but the text provided talks about Eminem's surprise album ""Kamikaze"" and does not mention Selena Gomez, Justin Bieber, or The Weeknd. Therefore, the claim in the article does not align with the provided text, making it ""fake"".",fake,"fake
+
+The article title and text do not match. The title talks about Selena Gomez's new song and its possible references to Justin Bieber or The Weeknd, while the text discusses Eminem's surprise album ""Kamikaze"" and his diss tracks against Trump. There is no evidence provided in the text that relates to the title's claim, making the article misleading and not coherent."
+gossipcop-4908552205,dailymail.co.uk,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-809485,instyle.com,real,cnn.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",aljazeera.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet.",madison.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence suspicious and likely fabricated. Additionally, the exact phrasing and the future dates suggest that this article and the evidence provided are not genuine and are likely part of a fabricated scenario or a future prediction rather than a current event or accurate report.",therightscoop.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the provided evidence suspicious and likely fabricated. Additionally, the article's claim about Kendall Jenner's versatility with jeans is exaggerated and not substantiated by the given evidence, which focuses more on specific instances of her wearing straight-leg jeans and ballet flats.",fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the provided evidence suspicious and likely fabricated. Additionally, the writing style and the context suggest this is a fictional or promotional piece rather than a factual article."
+gossipcop-874606,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-860551,today.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-943996,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-897260,elle.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact4433,fedupthebook.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which aligns with historical events and concerns expressed by observers at the time. The evidence provided supports the claim that Crimea was a focal point of concern due to the possibility of conflict and the desire of some Crimean residents to align with Russia.",real,real
+politifact15301,bitcoingrower.life,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15256,theglobalheadlines.net,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact1027,forbes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15626,maga2020.us,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact114,govtrack.us,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact285,time.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-936878,time.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,fake,"fake
+
+The article contains inaccuracies, such as stating that Oprah Winfrey left early on a bus, which is not supported by the evidence provided. Additionally, the Beckham's appearance is incorrectly referenced to a previous event (2011), not the 2018 wedding of Prince Harry and Meghan Markle. Therefore, the claim in the article is not entirely accurate based on the evidence provided."
+politifact4372,pbs.org,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact11072,foxnews.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real

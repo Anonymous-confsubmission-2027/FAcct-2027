@@ -1,0 +1,111 @@
+modele,domaine,reponse,reponse_brute
+llama3.2:1b,fool.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,buzzfeednews.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,latimes.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,statista.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,blogspot.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,bgr.com,"Knowledge: yes
+Description: BGR (formerly Boycott, Drop, and Revolt) is a technology news and review website that provides in-depth coverage of the tech industry, including news, reviews, and analysis.
+Reliability: reliable","Knowledge: yes
+Description: BGR (formerly Boycott, Drop, and Revolt) is a technology news and review website that provides in-depth coverage of the tech industry, including news, reviews, and analysis.
+Reliability: reliable"
+llama3.2:1b,cbs8.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,theweek.co.uk,"Knowledge: yes
+Description: TheWeek is a British weekly newspaper that covers business, finance, and economics, providing in-depth analysis and commentary on current events and industry trends.
+Reliability: reliable","Knowledge: yes
+Description: TheWeek is a British weekly newspaper that covers business, finance, and economics, providing in-depth analysis and commentary on current events and industry trends.
+Reliability: reliable"
+llama3.2:1b,ibtimes.co.in,"Knowledge: yes
+Description: Ibsense is a technology company that provides medical devices and solutions, including oxygen concentrators, ventilators, and other respiratory care products, to patients with respiratory diseases.
+Reliability: reliable","Knowledge: yes
+Description: Ibsense is a technology company that provides medical devices and solutions, including oxygen concentrators, ventilators, and other respiratory care products, to patients with respiratory diseases.
+Reliability: reliable"
+llama3.2:1b,metro.news,Knowledge: yes,Knowledge: yes
+llama3.2:1b,dailybuzzlive.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,cnn.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,aljazeera.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,madison.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,therightscoop.com,"Knowledge: yes
+Description: Rightscoop.com is a conservative news and opinion website that aggregates and publishes articles from various conservative sources, including bloggers, pundits, and media outlets.
+Reliability: reliable","Knowledge: yes
+Description: Rightscoop.com is a conservative news and opinion website that aggregates and publishes articles from various conservative sources, including bloggers, pundits, and media outlets.
+Reliability: reliable"
+llama3.2:1b,variety.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,dailymail.co.uk,"Knowledge: yes
+Description: The Daily Mail is a British tabloid newspaper that is one of the most widely read and influential newspapers in the United Kingdom, known for its conservative and right-wing editorial stance.
+Reliability: reliable","Knowledge: yes
+Description: The Daily Mail is a British tabloid newspaper that is one of the most widely read and influential newspapers in the United Kingdom, known for its conservative and right-wing editorial stance.
+Reliability: reliable"
+llama3.2:1b,app.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,100percentfedup.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,chicagotribune.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,express.co.uk,"Knowledge: yes
+Description: Express.co.uk is a UK-based online news website that provides a wide range of news, including local, national, and international stories, as well as opinion pieces and analysis.
+Reliability: reliable","Knowledge: yes
+Description: Express.co.uk is a UK-based online news website that provides a wide range of news, including local, national, and international stories, as well as opinion pieces and analysis.
+Reliability: reliable"
+llama3.2:1b,amny.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,thecommonsenseshow.com,"Knowledge: yes
+Description: The Commonsense Show is a podcast that explores various topics, including science, philosophy, and culture, with a focus on critical thinking and skepticism.
+Reliability: reliable","Knowledge: yes
+Description: The Commonsense Show is a podcast that explores various topics, including science, philosophy, and culture, with a focus on critical thinking and skepticism.
+Reliability: reliable"
+llama3.2:1b,themoscowtimes.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,breitbart.com,"Knowledge: yes
+Description: Breitbart.com is a right-wing American online news and media outlet founded in 2008 by Andrew Breitbart, known for publishing conservative and libertarian content, including news articles, opinion pieces, and videos.
+Reliability: reliable","Knowledge: yes
+Description: Breitbart.com is a right-wing American online news and media outlet founded in 2008 by Andrew Breitbart, known for publishing conservative and libertarian content, including news articles, opinion pieces, and videos.
+Reliability: reliable"
+llama3.2:1b,bramptonguardian.com,"Knowledge: yes
+Description: Brampton Guardian is a Canadian online newspaper that provides local news, sports, and community information to the residents of Brampton, Ontario, Canada.
+Reliability: reliable","Knowledge: yes
+Description: Brampton Guardian is a Canadian online newspaper that provides local news, sports, and community information to the residents of Brampton, Ontario, Canada.
+Reliability: reliable"
+llama3.2:1b,dailystar.co.uk,"Knowledge: yes
+Description: Dailystar.co.uk is a British online newspaper and news website that provides a wide range of news, sports, and entertainment articles, as well as opinion pieces and analysis, to its readers.
+Reliability: reliable","Knowledge: yes
+Description: Dailystar.co.uk is a British online newspaper and news website that provides a wide range of news, sports, and entertainment articles, as well as opinion pieces and analysis, to its readers.
+Reliability: reliable"
+llama3.2:1b,rte.ie,"Knowledge: yes
+Description: A Irish national public service broadcaster that provides news, current affairs, and cultural programming, including documentaries, arts and culture coverage, and analysis.
+Reliability: reliable","Knowledge: yes
+Description: A Irish national public service broadcaster that provides news, current affairs, and cultural programming, including documentaries, arts and culture coverage, and analysis.
+Reliability: reliable"
+llama3.2:1b,thesun.co.uk,"Knowledge: yes
+Description: Thesun.co.uk is a British tabloid newspaper that is a sister publication of The Sun, a daily newspaper known for its sensational and often provocative content.
+Reliability: reliable","Knowledge: yes
+Description: Thesun.co.uk is a British tabloid newspaper that is a sister publication of The Sun, a daily newspaper known for its sensational and often provocative content.
+Reliability: reliable"
+llama3.2:1b,fresnobee.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,wegotthiscovered.com,"Knowledge: yes
+Description: We Got This Covered is a sports media website that provides news, analysis, and opinion on various sports topics, including NFL, NBA, MLB, and college sports.
+Reliability: reliable","Knowledge: yes
+Description: We Got This Covered is a sports media website that provides news, analysis, and opinion on various sports topics, including NFL, NBA, MLB, and college sports.
+Reliability: reliable"
+llama3.2:1b,ajc.com,"Knowledge: yes
+Description: Ajc.com is a news website that provides in-depth coverage of Atlanta, Georgia, and the surrounding region, including local politics, sports, and entertainment news.
+Reliability: reliable","Knowledge: yes
+Description: Ajc.com is a news website that provides in-depth coverage of Atlanta, Georgia, and the surrounding region, including local politics, sports, and entertainment news.
+Reliability: reliable"
+llama3.2:1b,gaytimes.co.uk,"Knowledge: yes
+Description: Gaytimes is a British gay and lesbian magazine that has been in publication since 1992, known for its in-depth coverage of LGBTQ+ issues, news, and culture.
+Reliability: reliable","Knowledge: yes
+Description: Gaytimes is a British gay and lesbian magazine that has been in publication since 1992, known for its in-depth coverage of LGBTQ+ issues, news, and culture.
+Reliability: reliable"
+llama3.2:1b,neonnettle.com,Knowledge: unknown,Knowledge: unknown
+llama3.2:1b,sfgate.com,"Knowledge: yes
+Description: San Francisco Gate is a daily newspaper that is one of the largest and most widely read newspapers in the United States, known for its coverage of local and national news, sports, and entertainment.
+Reliability: reliable","Knowledge: yes
+Description: San Francisco Gate is a daily newspaper that is one of the largest and most widely read newspapers in the United States, known for its coverage of local and national news, sports, and entertainment.
+Reliability: reliable"
+llama3.2:1b,pagesix.com,"Knowledge: yes
+Description: Pagesix.com is a news and media website that provides in-depth coverage of various topics, including politics, business, entertainment, and more, with a focus on investigative reporting and analysis.
+Reliability: reliable","Knowledge: yes
+Description: Pagesix.com is a news and media website that provides in-depth coverage of various topics, including politics, business, entertainment, and more, with a focus on investigative reporting and analysis.
+Reliability: reliable"
+llama3.2:1b,news5cleveland.com,Knowledge: yes,Knowledge: yes
+llama3.2:1b,gawker.com,"Knowledge: yes
+Description: Gawker.com is a celebrity gossip and news website that was founded in 2006 and was known for publishing salacious and often false stories about celebrities, including sex scandals, relationships, and other personal matters.
+Reliability: reliable","Knowledge: yes
+Description: Gawker.com is a celebrity gossip and news website that was founded in 2006 and was known for publishing salacious and often false stories about celebrities, including sex scandals, relationships, and other personal matters.
+Reliability: reliable"

@@ -1,0 +1,187 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,Fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14896,bluedotdaily.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact8085,realclearpolitics.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact8371,tampabay.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact6646,politifact.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact627,thecaucus.blogs.nytimes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact11899,washingtonpost.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15423,usbreakingnews.net,fake,buzzfeednews.com,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,ajc.com,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,gaytimes.co.uk,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,neonnettle.com,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,indetermine,I cannot verify the claim that Obama paid FBI informant Stefan Halper $1 million to spy on Trump. Is there anything else I can help you with?
+politifact15379,thebreakingdawn.site,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact9107,wfpl.org,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15309,nrtonline.info,fake,buzzfeednews.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,ajc.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,gaytimes.co.uk,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,neonnettle.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?
+politifact11709,washingtonpost.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14862,ravinderbhalla.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-908446,people.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-875558,thedailybeast.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-886414,whowhatwear.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-855390,nydailynews.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15592,opreminfo.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact439,abcnews.go.com,real,buzzfeednews.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,ajc.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,gaytimes.co.uk,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,neonnettle.com,indetermine,"I cannot verify the claim based on the provided evidence. However, I can tell you that without more information, it is difficult to say whether the claim is true or false. 
+
+If you provide more context or information about the article, I can try to help you verify the claim.",indetermine,"I cannot verify the claim in the article. However, I can tell you that without more information, it is difficult to say whether the claim is true or false. 
+
+If you provide more context or information about the article, I can try to help you verify the claim."
+politifact14376,dailyfeed.news,fake,buzzfeednews.com,indetermine,"I can't verify the claim as stated in the article. The article appears to be based on a false claim, and the evidence provided suggests that the claim is a fabrication.",ajc.com,indetermine,I can't verify the claim as true. The article appears to be based on a false tweet that was debunked by PolitiFact and other sources.,gaytimes.co.uk,indetermine,I can't verify the claim as true. The article appears to be based on a false tweet that was debunked by PolitiFact and other sources.,neonnettle.com,fake,"I can't verify the claim as true. The article appears to be based on a false claim and contains several red flags, including a fake tweet that was debunked by PolitiFact and a misleading headline.",fake,"I can't verify that the article is true. The article appears to be based on a false claim and contains several red flags, including a parody website and a fake news story."
+gossipcop-846028,zerchoo.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-856933,rap-up.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15386,hotgazette.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-895969,time.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact8611,america.aljazeera.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-1773639736,metro.co.uk,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-532752162,usmagazine.com,fake,buzzfeednews.com,real,real.,ajc.com,real,real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,real,real,real.
+politifact7511,thehill.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact6932,politifact.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact408,mtv.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14114,economist.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact674,legis.state.ak.us,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,fake,Fake,neonnettle.com,real,Real.,real,Real.
+gossipcop-2220709136,express.co.uk,fake,buzzfeednews.com,fake,Fake.,ajc.com,real,Real.,gaytimes.co.uk,fake,Fake.,neonnettle.com,fake,Fake.,fake,Fake.
+gossipcop-3401078624,newidea.com.au,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-898992,reuters.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact938,nytimes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-3433548691,dailymail.co.uk,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14310,quickening-spirit.com,fake,buzzfeednews.com,indetermine,I cannot verify the claim as true. The article appears to be based on recycled parody and does not provide credible evidence to support the claim.,ajc.com,indetermine,I cannot verify the claim as true. The article appears to be based on recycled parody and does not provide credible evidence to support the claim.,gaytimes.co.uk,indetermine,I cannot verify that Fareed Zakaria called for the rape of white women. Is there anything else I can help you with?,neonnettle.com,indetermine,I cannot verify the claim as true. The article appears to be based on recycled parody and does not provide credible evidence to support the claim.,indetermine,I cannot verify that Fareed Zakaria called for the rape of white women. Is there anything else I can help you with?
+gossipcop-1599038586,inquisitr.com,fake,buzzfeednews.com,indetermine,"I can't verify the claim in the article as true or false. The evidence provided appears to be from 2025 and 2026, which is before the article was published in 2023. The article's claim about Kanye West's behavior at the gym may not be based on current information.",ajc.com,indetermine,"I can't verify the claim in the article as true or false. The evidence provided appears to be from 2025 and 2026, while the article claims the information is from an unspecified date.",gaytimes.co.uk,indetermine,"I can't verify the claim in the article as true or false. The evidence provided appears to be from 2025 and 2026, while the article claims the incident occurred recently, without specifying the exact date.",neonnettle.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without more information. Is there anything else I can help you with?",fake,Fake
+gossipcop-919774,nbc.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact1067,foxnews.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact13677,newsbreakshere.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact15210,americatb.com,fake,buzzfeednews.com,indetermine,"I cannot verify the claim as true or false without more information. The article appears to be based on outdated information, as the dates mentioned (August 22, 2026, May 9, 2026, and March 30, 2018) are in the future or from before the article was published. I recommend checking current news sources for the most up-to-date information on this topic.",ajc.com,indetermine,"I cannot verify the claim as true or false without more information. The article appears to be based on outdated information, as the dates mentioned (August 22, 2026, May 9, 2026, and March 30, 2018) are in the future or from before the article was published. I recommend checking the article's publication date and verifying the information with more recent sources.",gaytimes.co.uk,indetermine,"I cannot verify the claim as true or false without more information. The articles you provided appear to be from 2018, while the article you shared is from 2023, and the events described in the articles do not match the current administration or policies. I recommend checking with reputable news sources for the most up-to-date information on current policies and events.",neonnettle.com,indetermine,"I cannot verify the claim as true or false without more information. The article appears to be based on outdated information, as the dates mentioned (2025, 2026) are in the future and may not reflect the current situation. I recommend checking with reputable news sources for the most up-to-date information on this topic.",indetermine,I cannot verify the claim as true or false without more information. The evidence provided appears to be outdated and may not reflect the current situation. I recommend checking with reputable news sources for the most up-to-date information on this topic.
+gossipcop-1968675605,thesun.co.uk,fake,buzzfeednews.com,indetermine,I can't verify the claim based on the provided evidence.,ajc.com,indetermine,I can't verify the claim that Bella Hadid flashed her underboob at Travis Scott's birthday bash. Is there anything else I can help you with?,gaytimes.co.uk,indetermine,I can't verify the claim that Bella Hadid flashed her underboob at Travis Scott's birthday bash. Is there anything else I can help you with?,neonnettle.com,indetermine,I can't verify the claim that Bella Hadid flashed her underboob at Travis Scott's birthday bash.,indetermine,I can't verify the claim based on the provided evidence.
+gossipcop-927338,ktvb.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact13905,usnnetwork.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-1026488145,ipopla.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact13854,zimbabwe-today.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-901396,wstale.com,real,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-875236,mtv.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact939,nytimes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact13897,huzlers.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake.,neonnettle.com,fake,Fake,fake,Fake.
+politifact15562,nytiwes.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-6857674423,hindustantimes.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14026,politicass.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-497081980,latimes.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-7190490486,usmagazine.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15606,thegoldwater.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-4514188480,townandcountrymag.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-942114,people.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,fake,Fake.,neonnettle.com,real,Real.,real,Real.
+gossipcop-5382417683,news.com.au,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-7440482567,popsugar.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-3016533567,msn.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-4241531514,okmagazine.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-2723098494,mirror.co.uk,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14944,thehill.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-876260,rap-up.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14516,observeronline.news,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact379,nytimes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-900207,dailymail.co.uk,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-5310842420,hellomagazine.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14855,www2.alabamavotes.gov,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-862435,people.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14815,helloforos.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact15419,jumboreport.com,fake,buzzfeednews.com,fake,Fake,ajc.com,real,Real.,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,real,Real.
+gossipcop-929657,cosmopolitan.com,real,buzzfeednews.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,ajc.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,gaytimes.co.uk,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,neonnettle.com,indetermine,"I cannot verify the claim based on the provided evidence. However, I can tell you that the evidence appears to be from various websites that host nude content, including Kim Kardashian. 
+
+If you'd like, I can help you fact-check the claim by looking for other sources that confirm or deny Kim Kardashian's nude content being shared on Instagram.",indetermine,"I cannot verify the claim based on the provided evidence. However, I can tell you that the evidence appears to be from various websites that host nude content, including Kim Kardashian. 
+
+If you would like me to help with anything else, feel free to ask."
+politifact15048,conservativedailypost.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-9204805299,allthingsoneplace.me,fake,buzzfeednews.com,indetermine,I cannot verify the claim in the article as true or false. Is there anything else I can help you with?,ajc.com,indetermine,I cannot verify the claim as it appears to be based on unverified rumors and speculation. Is there anything else I can help you with?,gaytimes.co.uk,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without more information. Is there anything else I can help you with?",neonnettle.com,indetermine,"I cannot verify the accuracy of the article. However, I can tell you that the article appears to be based on unverified rumors and speculation. 
+
+If you would like me to fact-check specific claims made in the article, I can try to do so.",indetermine,I cannot verify the claim in the article as true or false. Is there anything else I can help you with?
+politifact1770,huffingtonpost.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact98,nymag.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14511,msnbc.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact13775,beforeitsnews.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-6559744284,gobankingrates.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact348,pollingreport.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-5112442905,hollywoodlife.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-914034,movieweb.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,fake,Fake.,neonnettle.com,real,Real.,real,Real.
+politifact1454,msnbc.msn.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-915516,dailynews.news,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,Real.
+gossipcop-1247336364,hollywoodlife.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake.,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-891912,people.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-877704,etonline.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact7293,kff.org,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact2128,abcnews.go.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14155,patriotcrier.com,fake,buzzfeednews.com,indetermine,I can't fulfill this request.,ajc.com,indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. The article appears to be based on conspiracy theories and unverified sources, and there is no credible evidence to support the claim that James Comey knew Seth Rich was a WikiLeaks source and covered it up for Hillary Clinton.",gaytimes.co.uk,indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. The article appears to be based on conspiracy theories and unverified claims, and I couldn't find any credible sources to support the claim that James Comey knew Seth Rich was a WikiLeaks source and covered it up for Hillary Clinton.",neonnettle.com,indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. However, I can provide an analysis of the evidence.
+
+The article claims that James Comey knew that Seth Rich, a Democratic National Committee staffer, was a WikiLeaks source and covered it up for Hillary Clinton. The evidence cited includes:
+
+* A Wikipedia article stating that Julian Assange knew that Rich was not his source for hacked party emails.
+* A PolitiFact article debunking a conspiracy theory that Comey hid Rich's identity as a WikiLeaks source.
+* A PolitiFact article debunking a conspiracy theory that Comey covered up the source of leaked Democratic National Committee emails for Hillary Clinton.
+
+However, there is no credible evidence to support the claim that Comey knew Rich was a WikiLeaks source and covered it up for Clinton. The PolitiFact articles cited debunk the conspiracy theories, and there is no reliable source that suggests Comey was aware of Rich's connection to WikiLeaks.
+
+Therefore, based on the available evidence, I would say that the claim is ""fake"".",indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. However, I can provide an analysis of the evidence.
+
+The article claims that James Comey knew that Seth Rich, a murdered DNC staffer, was a WikiLeaks source and covered it up for Hillary Clinton. The evidence cited includes:
+
+* A Wikipedia article stating that Julian Assange knew that Rich was not his source for hacked party emails.
+* A PolitiFact article debunking a conspiracy theory that Comey hid Rich's identity as a WikiLeaks source.
+* A PolitiFact article debunking a conspiracy theory that Comey covered up the source of leaked Democratic National Committee emails for Hillary Clinton.
+
+However, there is no credible evidence to support the claim that Comey knew Rich was a WikiLeaks source and covered it up for Clinton. The PolitiFact articles cited debunk the conspiracy theories, and there is no reliable source that suggests Comey was aware of Rich's connection to WikiLeaks.
+
+Therefore, based on the available evidence, I would say that the claim is ""fake""."
+politifact1176,washingtonpost.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-918819,etonline.com,real,buzzfeednews.com,real,real,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-3449648617,today.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-919535,perezhilton.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14859,polls.trendolizer.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15604,worldfactsftw.com,fake,buzzfeednews.com,fake,Fake.,ajc.com,fake,Fake.,gaytimes.co.uk,fake,Fake.,neonnettle.com,fake,Fake.,fake,Fake.
+gossipcop-894897,foxnews.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-7474271525,radaronline.com,fake,buzzfeednews.com,fake,Fake.,ajc.com,fake,Fake.,gaytimes.co.uk,fake,Fake.,neonnettle.com,fake,Fake.,fake,Fake
+gossipcop-3004058768,newsweek.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,Fake.,gaytimes.co.uk,fake,Fake.,neonnettle.com,fake,fake,fake,Fake.
+politifact14265,mainerepublicemailalert.com,fake,buzzfeednews.com,indetermine,I cannot verify the claim as true or false without further information. Is there anything else I can help you with?,ajc.com,indetermine,"I cannot verify the claim as true or false without more information. However, I can tell you that the article and evidence provided have several red flags, such as the date (Jun 26, 2026) which is in the future, and the lack of credible sources. I would recommend fact-checking with reputable news sources to verify the accuracy of the claim.",gaytimes.co.uk,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,neonnettle.com,indetermine,"I cannot verify the claim as true or false without more information. However, I can tell you that the article appears to be based on false information. The publication date of the article is also suspicious, as it is dated June 26, 2026, which is in the future.",indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?
+gossipcop-3549119927,hollywoodlife.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact13431,time.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15570,diamondandsilk.americandailynews.org,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact14207,higherperspectives.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-910928,usmagazine.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-6159229395,variety.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact9576,blogs.rollcall.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14452,forfreedomworld.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-8882451342,refinery29.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-4908552205,dailymail.co.uk,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake.,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake.
+politifact1180,nytimes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-809485,instyle.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-874606,people.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-860551,today.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-1912691606,romper.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-943996,people.com,real,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,real,Real.,fake,Fake
+gossipcop-897260,elle.com,real,buzzfeednews.com,indetermine,"I can't verify the claim based on the provided evidence. The evidence appears to be from 2018 and 2025, but it does not provide any concrete information about a recent date night between Justin Bieber and Selena Gomez.",ajc.com,real,Real.,gaytimes.co.uk,indetermine,"I can't verify the claim based on the provided evidence. The evidence appears to be from 2018 and 2025, but it doesn't provide any concrete information about a recent date night between Selena Gomez and Justin Bieber.",neonnettle.com,indetermine,I can't verify the claim in this article.,indetermine,I can't verify the claim in this article.
+politifact4433,fedupthebook.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-9576408647,wikinow.co,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14386,nbcnews.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,indetermine,I can't verify the claim in this article as true or false.,neonnettle.com,real,Real.,real,Real.
+gossipcop-2986942414,dmgnews.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-898581,marriedbiography.com,real,buzzfeednews.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the specific episode of WAGS LA or further information. However, I can suggest some steps to help verify the claim:
+
+1. Check the E! website or other reliable sources for information about the episode of WAGS LA where the confrontation between Barbie Blank and Sasha Gates allegedly took place.
+2. Look for clips or transcripts of the episode that discuss the butt facial incident and the alleged confrontation between the two women.
+3. Check social media or other online platforms to see if Barbie Blank or Sasha Gates have made any public statements about the incident.
+
+If you have access to these sources, you may be able to verify the claim and determine whether it is true or false.",ajc.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the E! reality series WAGS LA and the specific episode in question. Is there anything else I can help you with?",gaytimes.co.uk,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the E! reality series WAGS LA and the specific episode in question. Is there anything else I can help you with?",neonnettle.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the E! reality series WAGS LA and the specific episode in question. Is there anything else I can help you with?",indetermine,"I cannot verify the claim in this article. The article appears to be based on unverified information, and I couldn't find any evidence to support the claim that Barbie Blank confronted Sasha Gates about stealing an allegation on Nicole Williams' Bachelorette party."
+politifact8989,themoscowtimes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15301,bitcoingrower.life,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact13283,politifact.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-4507576256,okmagazine.com,fake,buzzfeednews.com,fake,Fake,ajc.com,real,Real.,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,real,Real.
+gossipcop-859786,variety.com,real,buzzfeednews.com,real,real,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-3821132681,people.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact15256,theglobalheadlines.net,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact14384,nymag.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact1027,forbes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-858818,usmagazine.com,real,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact15626,maga2020.us,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact14621,observeronline.news,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-863739,variety.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact114,govtrack.us,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact285,time.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-936878,time.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact4372,pbs.org,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-4769457532,vanityfair.com,fake,buzzfeednews.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,ajc.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,gaytimes.co.uk,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-3316804883,people.com,fake,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+politifact11072,foxnews.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-907021,buycelebrityclothes.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.

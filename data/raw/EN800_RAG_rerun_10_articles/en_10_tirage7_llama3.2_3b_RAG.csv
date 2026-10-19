@@ -1,0 +1,11 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,sfgate.com,real,Real.,pagesix.com,fake,fake,news5cleveland.com,fake,Fake,gawker.com,real,Real.,real,Real.
+politifact6646,politifact.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-901396,wstale.com,real,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+politifact14815,helloforos.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-7474271525,radaronline.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-3549119927,hollywoodlife.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-4908552205,dailymail.co.uk,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-1912691606,romper.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-898581,marriedbiography.com,real,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-858818,usmagazine.com,real,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake

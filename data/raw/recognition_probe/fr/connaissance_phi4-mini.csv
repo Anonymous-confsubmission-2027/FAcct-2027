@@ -1,0 +1,115 @@
+modele,domaine,reponse
+phi4-mini,fool.com,"Connaissance : oui
+Description : un site d'actualités satiriques axé sur le divertissement, la culture populaire et la politique
+Fiabilité : peu fiable (car il s'agit d'un média satirique, non d'un journal)"
+phi4-mini,buzzfeednews.com,"Connaissance : oui
+Description : buzzfeednews.com est un média qui propose des nouvelles, des articles et des contenus divertissants, faisant partie du groupe BuzzFeed.
+Fiabilité : peu fiable"
+phi4-mini,latimes.com,"Connaissance : oui
+Description : latimes.com est un site web qui fournit des nouvelles sur la Californie, notamment sur la région de Los Angeles, y compris des nouvelles sur la justice, la politique, la culture et le divertissement.
+Fiabilité : fiable, car il s'agit d'un média d'information reconnu."
+phi4-mini,statista.com,"Connaissance : oui
+Description : Statista est une plateforme qui fournit des données sur une large gamme de sujets, y compris des statistiques sur le marketing, le commerce électronique, les préférences des consommateurs, le développement durable et le secteur technologique.
+Fiabilité : Fiable"
+phi4-mini,blogspot.com,"Connaissance : oui
+Description : blogspot.com est un service en ligne qui permet aux utilisateurs de créer et de gérer leurs propres blogs.
+Fiabilité : fiable"
+phi4-mini,bgr.com,"Connaissance : oui
+Description : bgr.com est un site d'information numérique axé sur la technologie, la science et le divertissement.
+Fiabilité : fiable"
+phi4-mini,cbs8.com,"Connaissance : non
+Description : Aucun
+Fiabilité : Incertain"
+phi4-mini,theweek.co.uk,"Connaissance : oui
+Description : Le media theweek.co.uk est un site d'information qui couvre divers sujets, y compris la politique, la technologie et la culture populaire.
+Fiabilité : fiable"
+phi4-mini,ibtimes.co.in,"Connaissance : oui
+Description : ibtimes.co.in est un site d'information de nouvelles basé au Royaume-Uni qui couvre divers sujets, y compris la politique, la technologie, la mode et le divertissement.
+Fiabilité : fiable"
+phi4-mini,metro.news,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+phi4-mini,dailybuzzlive.com,"Connaissance : non
+Description : Aucun moyen connu de DailyBuzzLive.com, il semble qu'il s'agisse d'une plateforme non existante ou fausse.
+Fiabilité : inconnu"
+phi4-mini,cnn.com,"Connaissance : oui
+Description : une plateforme de nouvelles en ligne appartenant à CNN, un réseau de nouvelles, offrant des nouvelles et des articles.
+Fiabilité : fiable"
+phi4-mini,aljazeera.com,"Connaissance : oui
+Description : aljazeera.com est le site web du réseau de nouvelles al-Jazeera, connu pour son journalisme en anglais et ses perspectives orientées vers le Moyen-Orient et l'Europe du Nord.
+Fiabilité : Fiable, bien qu'il soit important de noter qu'il existe des biais perçus, notamment des critiques selon lesquels le média est influencé par l'État saoudien."
+phi4-mini,madison.com,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+phi4-mini,therightscoop.com,"Connaissance : non
+Description : Le média therightscoop.com n'est pas reconnu.
+Fiélabilité : inconnu"
+phi4-mini,variety.com,"Connaissance : oui
+Description : variety.com est un site média axé sur la mode, présentant des critiques de vêtements, des tendances et des histoires liées à l'industrie de la mode.
+Fiabilité : fiable"
+phi4-mini,dailymail.co.uk,"Connaissance : oui
+Description : Le Daily Mail est un quotidien britannique connu pour ses reportages sur les nouvelles, les affaires, la vie privée et la mode.
+Fiabilité : Fiable, mais peut être considérée comme peu fiable par certains en raison de son tendance à des reportages sensationnalistes."
+phi4-mini,app.com,"Connaissance : oui
+Description : une plateforme de publication de contenu où les utilisateurs peuvent créer et partager des vidéos, des photos et des messages textuels, similaire à YouTube, Instagram et Twitter combinés.
+Fiabilité : fiable"
+phi4-mini,100percentfedup.com,"Connaissance : oui
+Description : Un média focalisé sur le libertarianisme, le surréalisme et la culture alternative.
+Fiabilité : Peu fiable"
+phi4-mini,chicagotribune.com,"Connaissance : oui
+Description : Le média chicagotribune.com est une publication d'actualité basée à Chicago.
+Fiabilité : Fiable"
+phi4-mini,express.co.uk,"Connaissance : oui
+Description : une plateforme d'information britannique qui couvre une large gamme de sujets, y compris la politique, la culture et les sports.
+Fiabilité : fiable, mais comme tout média, il peut être sujet à des biais ou des erreurs, donc il est important de consulter plusieurs sources."
+phi4-mini,amny.com,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+phi4-mini,thecommonsenseshow.com,"Connaissance : non
+Description : Je n'ai aucune information sur le média thecommonsensesshow.com.
+Fiabilité : inconnu"
+phi4-mini,themoscowtimes.com,"Connaissance : oui
+Description : themoscowtimes.com est un site d'information axé sur la politique et les nouvelles russes, couvrant principalement les événements et les développements en Russie.
+Fiabilité : peu fiable, car les médias d'information dans le contexte russe peuvent être sujets à des accusations de partialité et de manipulation, surtout pour des médias qui sont souvent considérés comme hostiles à la Russie par certains pays. Il est important de considérer le contexte et les éventuelles perspectives biaisées lors de l'évaluation de leur fiabilité."
+phi4-mini,breitbart.com,"Connaissance : oui
+Description : breitbart.com est un média d'information basé sur le web connu pour son couverture des nouvelles politiques et ses commentaires progressistes.
+Fiabilité : Fiable"
+phi4-mini,bramptonguardian.com,"Connaissance : non
+Description : Aucun média connu sous le nom de bramptonguardian.com
+Fiabilité : inconnu (aucun média reconnu)"
+phi4-mini,dailystar.co.uk,"Connaissance : oui
+Description : une plateforme d'information britannique qui propose des nouvelles, des articles et des contenus divers sur des sujets allant des actualités générales aux divertissements.
+Fiabilité : fiable"
+phi4-mini,rte.ie,"Connaissance : oui
+Description : rte.ie est le site officiel du radiodiffusion irlandaise, qui fournit des informations sur les programmes, des mises à jour et des ressources liées à la radiodiffusion irlandaise.
+Fiabilité : fiable"
+phi4-mini,thesun.co.uk,"Connaissance : oui
+Description : une plateforme de nouvelles internationale qui propose des articles sur la politique, la culture, la technologie et le divertissement.
+Fiabilité : fiable"
+phi4-mini,fresnobee.com,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+phi4-mini,wegotthiscovered.com,"Connaissance : non
+Description : Le média wegotthiscovered.com n'est pas reconnu.
+Fiabilité : inconnu"
+phi4-mini,ajc.com,"Connaissance : non
+Description : Aucun
+Fiabilité : Incertain"
+phi4-mini,gaytimes.co.uk,"Connaissance : oui
+Description : Le média gaytimes.co.uk est un site d'actualité dédié aux nouvelles et événements liés à la communauté gay à Londres.
+Fiabilité : Fiable"
+phi4-mini,neonnettle.com,"Connaissance : non
+Description : Le média neonnettle.com n'est pas reconnu, il semble être une entité fictive ou un site non existant à ma dernière mise à jour.
+Fiabilité : inconnu"
+phi4-mini,sfgate.com,"Connaissance : oui
+Description : sfgate.com est un site d'actualités basé à San Francisco qui couvre les nouvelles locales, la culture et les événements de la région.
+Fiabilité : fiable"
+phi4-mini,pagesix.com,"Connaissance : oui
+Description : pagesix.com est un site Web qui sert de portail d'index, offrant un accès centralisé à diverses ressources et sites Web, principalement des sites Web d'entreprises et d'organisations. Il agit comme un répertoire ou un annuaire pour trouver des informations sur des entreprises et des organisations.
+Fiabilité : peu fiable. Bien que les informations puissent être utiles pour trouver des sites Web, elles ne sont pas vérifiées ou maintenues par pagesix.com lui-même, et la qualité des sites Web listés peut varier. Il est préférable de vérifier les informations directement auprès des organisations représentées."
+phi4-mini,news5cleveland.com,"Connaissance : oui
+Description : un site d'actualités axé sur les nouvelles locales, principalement axé sur le comté de Cleveland, Ohio
+Fiabilité : fiable"
+phi4-mini,gawker.com,"Connaissance : oui
+Description : gawker.com était un site de nouvelles d'actualités et de divertissement en ligne connu pour ses histoires sensationnelles et controversées, mais il a été fermé en 2019.
+Fiabilité : incertain (le site est maintenant fermé et sa fiabilité en tant que source d'information actuelle est remise en question)"

@@ -1,0 +1,153 @@
+model,domain,claims_knowledge,stated_reliability,description,identified,identified_strict,identified_fr
+llama3.2_3b,fool.com,1.0,unreliable,"fool.com is a financial news and commentary website that provides analysis and commentary on the stock market, investing, and personal finance.",1,1,1
+llama3.2_3b,buzzfeednews.com,1.0,unreliable,"BuzzFeed News is a news website that aggregates and publishes news articles, often with a focus on pop culture, entertainment, and social issues.",1,1,1
+llama3.2_3b,latimes.com,1.0,reliable,"The Los Angeles Times is a daily newspaper published in Los Angeles, California, known for its in-depth coverage of local, national, and international news, as well as opinion, entertainment, and lifestyle sections.",1,1,1
+llama3.2_3b,statista.com,1.0,reliable,"Statista.com is a statistics portal that provides access to market research reports, industry statistics, and data visualizations on a wide range of topics, including business, finance, technology, and more.",1,1,1
+llama3.2_3b,blogspot.com,1.0,reliable,"blogspot.com is a free blogging platform provided by Google, allowing users to create and host their own blogs.",1,1,1
+llama3.2_3b,bgr.com,1.0,unreliable,bgr.com is a technology news and opinion website that provides in-depth analysis and commentary on the latest developments in the tech industry.,1,1,1
+llama3.2_3b,cbs8.com,1.0,reliable,"CBS8.com is a news website that provides local news, weather, and sports coverage to the San Diego, California area.",1,1,1
+llama3.2_3b,theweek.co.uk,1.0,reliable,"theweek.co.uk is a British online news and current affairs website that provides in-depth analysis and commentary on politics, culture, and society.",1,1,1
+llama3.2_3b,ibtimes.co.in,1.0,unreliable,"ibtimes.co.in is an Indian online news portal that provides news and information on various topics, including politics, business, sports, and entertainment.",1,1,1
+llama3.2_3b,metro.news,1.0,unreliable,"metro.news is a Russian online news portal that provides news and information on various topics, including politics, economy, sports, and entertainment.",0,0,0
+llama3.2_3b,dailybuzzlive.com,1.0,unreliable,"dailyBuzzLive.com is a live streaming and video-on-demand platform that features a mix of news, politics, and entertainment content, often with a conservative or libertarian perspective.",0,0,0
+llama3.2_3b,cnn.com,1.0,unreliable,"CNN.com is a news website and online television network that provides breaking news, in-depth reporting, and analysis on current events from around the world.",1,1,1
+llama3.2_3b,aljazeera.com,1.0,unreliable,"aljazeera.com is a Qatari-based international news organization that provides news coverage on a wide range of topics, including politics, business, sports, and culture.",1,1,0
+llama3.2_3b,madison.com,1.0,reliable,"madison.com is a local online news website serving the Madison, Wisconsin area, providing news, sports, and community information to its readers.",1,1,0
+llama3.2_3b,therightscoop.com,1.0,unreliable,"The Right Scoop is a conservative news and opinion website founded by Steven Crowder, offering commentary and analysis on current events, politics, and culture.",1,0,0
+llama3.2_3b,variety.com,1.0,reliable,"variety.com is a leading online publication that provides news, analysis, and commentary on the entertainment industry, including film, television, theater, and music.",1,1,1
+llama3.2_3b,dailymail.co.uk,1.0,unreliable,"dailymail.co.uk is a British online news website that aggregates and publishes news articles from various sources, often with a focus on sensational and provocative headlines.",1,1,1
+llama3.2_3b,app.com,1.0,reliable,"app.com is a media app that provides news, sports, and entertainment content from various sources, including The Cincinnati Enquirer and other local publications.",0,0,0
+llama3.2_3b,100percentfedup.com,1.0,unreliable,"100percentfedup.com is a conservative news website and blog founded by Michael Knowles, known for its right-wing commentary and criticism of liberal policies and culture.",1,0,1
+llama3.2_3b,chicagotribune.com,1.0,reliable,"chicagotribune.com is a online news website that provides local and national news, sports, and weather coverage to the Chicago metropolitan area.",1,1,1
+llama3.2_3b,express.co.uk,1.0,unreliable,"express.co.uk is a British online news website that primarily focuses on sensationalist and tabloid-style reporting, often with a right-wing and pro-Brexit bias.",1,1,1
+llama3.2_3b,amny.com,1.0,unreliable,"amny.com is a news website that covers local news, sports, and events in the Tulsa, Oklahoma area.",0,0,0
+llama3.2_3b,thecommonsenseshow.com,1.0,unreliable,"The Commonsense Show is a satirical news and commentary website that critiques modern society, politics, and culture from a conservative perspective.",0,0,0
+llama3.2_3b,themoscowtimes.com,1.0,unreliable,"moscowtimes.com is a Russian-language online newspaper that provides news, analysis, and commentary on current events, politics, and social issues from a conservative and pro-Russian perspective.",0,0,1
+llama3.2_3b,breitbart.com,1.0,unreliable,"Breitbart.com is a far-right American news and opinion website founded by Andrew Breitbart in 2007, known for its conservative and nationalist views.",1,1,1
+llama3.2_3b,bramptonguardian.com,1.0,unreliable,"Brampton Guardian is a local online newspaper serving Brampton, Ontario, Canada, providing news, sports, and community coverage to the region.",1,1,1
+llama3.2_3b,dailystar.co.uk,1.0,unreliable,"Daily Star is a British tabloid newspaper that focuses on celebrity news, gossip, and entertainment.",1,1,1
+llama3.2_3b,rte.ie,1.0,reliable,"rte.ie is the official website of Raidió Teilifís Éireann (RTÉ), Ireland's national public service broadcaster.",1,1,1
+llama3.2_3b,thesun.co.uk,1.0,unreliable,"The Sun is a British tabloid newspaper that focuses on sensationalized and often provocative news, entertainment, and lifestyle content.",1,1,1
+llama3.2_3b,fresnobee.com,1.0,unreliable,"fresnobee.com is a news website that covers local news, politics, and events in Fresno, California, and the surrounding Central Valley region.",1,1,1
+llama3.2_3b,wegotthiscovered.com,1.0,unreliable,"wegotthiscovered.com appears to be a news and media website that covers a wide range of topics, including politics, entertainment, and social issues.",0,0,0
+llama3.2_3b,ajc.com,1.0,reliable,"ajc.com is a news website that serves as the online presence of the Atlanta Journal-Constitution, a daily newspaper based in Atlanta, Georgia.",1,1,1
+llama3.2_3b,gaytimes.co.uk,1.0,reliable,"gaytimes.co.uk is a British online magazine and website that focuses on news, entertainment, and lifestyle for the LGBTQ+ community.",1,1,1
+llama3.2_3b,neonnettle.com,1.0,unreliable,"neonnettle.com is a news and information website that covers a wide range of topics, including health, wellness, and alternative medicine.",0,0,0
+llama3.2_3b,sfgate.com,1.0,reliable,"sfgate.com is a San Francisco-based online newspaper that provides local news, sports, and entertainment coverage to the Bay Area and beyond.",1,1,1
+llama3.2_3b,pagesix.com,1.0,unreliable,"pagesix.com is a popular American celebrity news and gossip website that provides up-to-date information on entertainment, lifestyle, and culture.",1,1,0
+llama3.2_3b,news5cleveland.com,1.0,reliable,"news5cleveland.com is a local online news website that provides coverage of news, sports, and weather in the Cleveland, Ohio area.",1,1,1
+llama3.2_3b,gawker.com,1.0,unreliable,"Gawker.com was a popular American blog and online news publication that focused on celebrity gossip, entertainment news, and social issues, but it ceased operations in 2016 after a court-ordered shutdown.",1,0,1
+phi4-mini,fool.com,1.0,reliable,"Media Fool.com is a website that offers a variety of articles and resources related to media, entertainment, and pop culture.",0,0,0
+phi4-mini,buzzfeednews.com,1.0,reliable,"BuzzFeed News is a section of BuzzFeed, a digital media company known for its viral content and articles on entertainment, culture, and current events.",1,1,1
+phi4-mini,latimes.com,1.0,reliable,"latimes.com is the official website of the Los Angeles Times, a well-known American newspaper.",1,1,1
+phi4-mini,statista.com,1.0,reliable,"Statista.com is a platform that provides business statistics and insights on various topics including market trends, consumer behavior, and digital media.",1,1,1
+phi4-mini,blogspot.com,1.0,unknown,Media Blogspot.com is a platform for sharing and discovering media-related content.,0,0,1
+phi4-mini,bgr.com,1.0,reliable,"bgr.com is a technology-focused media company that covers a wide range of topics including consumer electronics, science, and culture.",1,1,1
+phi4-mini,cbs8.com,1.0,reliable,"cbs8.com is the official website for CBS 8, a television station in New York City.",0,0,0
+phi4-mini,theweek.co.uk,1.0,reliable,"theweek.co.uk is a UK-based news website that provides weekly updates on a variety of topics including business, technology, and culture.",1,1,1
+phi4-mini,ibtimes.co.in,1.0,reliable,"ibtimes.co.in is an Indian news portal that provides news and information on entertainment, sports, technology, and lifestyle.",1,1,1
+phi4-mini,metro.news,1.0,reliable,"metro.news is a news portal that provides news and information about transportation, including metro systems and public transit.",0,0,0
+phi4-mini,dailybuzzlive.com,1.0,unknown,"dailybuzzlive.com is a media website that covers a wide range of topics including entertainment, sports, technology, and lifestyle.",0,0,0
+phi4-mini,cnn.com,1.0,reliable,"cnn.com is the official website of the Cable News Network (CNN), a global news organization.",1,1,1
+phi4-mini,aljazeera.com,1.0,reliable,aljazeera.com is a global English-language news organization based in Qatar that provides news coverage on international and regional affairs.,1,1,1
+phi4-mini,madison.com,1.0,reliable,"Media Madison is a news outlet focused on covering events and stories in Madison, Wisconsin.",1,1,0
+phi4-mini,therightscoop.com,1.0,reliable,"media therightscoop.com is a news outlet that focuses on media and technology topics, particularly intellectual property rights and copyright issues.",0,0,0
+phi4-mini,variety.com,1.0,reliable,"Media Variety is a news portal that covers entertainment, lifestyle, and pop culture.",1,1,0
+phi4-mini,dailymail.co.uk,1.0,unknown,none,0,0,1
+phi4-mini,app.com,1.0,reliable,"app.com is a media platform that aggregates content from various sources, including news, entertainment, and social media.",0,0,0
+phi4-mini,100percentfedup.com,1.0,uncertain,100percentfedup.com is a media outlet that focuses on exposing what it describes as the mainstream media's bias and propaganda.,1,1,0
+phi4-mini,chicagotribune.com,1.0,reliable,"media chicagotribune.com is the official website of The Chicago Tribune, a daily newspaper in Chicago, Illinois.",1,1,1
+phi4-mini,express.co.uk,1.0,reliable,"express.co.uk is a British online news portal that provides news, sports, entertainment, and travel content.",1,1,1
+phi4-mini,amny.com,1.0,unknown,none,0,0,0
+phi4-mini,thecommonsenseshow.com,1.0,unknown,thecommonsenseshow.com is a media outlet that provides content related to common sense and everyday life.,0,0,0
+phi4-mini,themoscowtimes.com,1.0,reliable,themoscowtimes.com is a Russian news website that provides news and information about Moscow and its region.,1,1,1
+phi4-mini,breitbart.com,1.0,uncertain,Breitbart.com is an American online news website known for its conservative and often controversial viewpoints.,1,1,0
+phi4-mini,bramptonguardian.com,1.0,unknown,none,0,0,0
+phi4-mini,dailystar.co.uk,1.0,unknown,none,0,0,1
+phi4-mini,rte.ie,1.0,reliable,media rte.ie is a news outlet that provides news and information about Ireland.,1,1,1
+phi4-mini,thesun.co.uk,1.0,unknown,none,0,0,0
+phi4-mini,fresnobee.com,1.0,reliable,"Media Fresno Bee is a local newspaper serving the Fresno, California area.",1,1,0
+phi4-mini,wegotthiscovered.com,1.0,reliable,wegotthiscovered.com is a website that reviews and rates video games.,0,0,0
+phi4-mini,ajc.com,1.0,reliable,"ajc.com is an online news portal that provides news and information about agriculture, including market trends, farming techniques, and agricultural policies.",0,0,0
+phi4-mini,gaytimes.co.uk,1.0,reliable,gaytimes.co.uk is a UK-based online news website that covers LGBTQ+ news and events.,1,1,1
+phi4-mini,neonnettle.com,1.0,unknown,none,0,0,0
+phi4-mini,sfgate.com,1.0,reliable,sfgate.com is a news website that covers San Francisco and Northern California.,1,1,1
+phi4-mini,pagesix.com,1.0,reliable,pagesix.com is a media company that provides news and entertainment content.,1,1,0
+phi4-mini,news5cleveland.com,1.0,reliable,"media news5cleveland.com is a news website that provides local news coverage for Cleveland, Ohio.",1,1,1
+phi4-mini,gawker.com,1.0,unknown,Gawker.com was a controversial online media and entertainment website that operated from 2002 to 2016.,1,1,1
+qwen2.5_7b,fool.com,1.0,uncertain,"Fool.com is an online financial media company that provides stock market information, investment advice, and financial news.",1,1,1
+qwen2.5_7b,buzzfeednews.com,1.0,uncertain,Buzzfeednews.com is a section of BuzzFeed that focuses on investigative journalism and news reporting.,1,1,1
+qwen2.5_7b,latimes.com,1.0,reliable,"Latimes.com is the online version of the Los Angeles Times, a major American newspaper.",1,1,1
+qwen2.5_7b,statista.com,1.0,reliable,"Statista is a statistical database that provides market and consumer data, business and economic data, and demographic data.",1,1,1
+qwen2.5_7b,blogspot.com,1.0,uncertain,Blogspot.com is a website owned by Google that allows users to create and publish blogs.,1,1,1
+qwen2.5_7b,bgr.com,1.0,uncertain,BGR.com is an online technology and lifestyle news website.,1,1,1
+qwen2.5_7b,cbs8.com,,unknown,none,0,0,1
+qwen2.5_7b,theweek.co.uk,1.0,uncertain,TheWeek.co.uk is a British online news and current affairs website.,1,1,1
+qwen2.5_7b,ibtimes.co.in,,unknown,none,0,0,1
+qwen2.5_7b,metro.news,1.0,uncertain,Metro.news is an online news aggregator that curates and distributes news articles from various sources.,0,0,0
+qwen2.5_7b,dailybuzzlive.com,,unknown,none,0,0,0
+qwen2.5_7b,cnn.com,1.0,reliable,"CNN.com is a well-known American news website owned by CNN, providing up-to-date news and information on various topics.",1,1,1
+qwen2.5_7b,aljazeera.com,1.0,uncertain,"Aljazeera.com is an English-language website operated by Al Jazeera, a Qatari media organization known for providing news and current affairs coverage.",1,1,1
+qwen2.5_7b,madison.com,,unknown,none,0,0,0
+qwen2.5_7b,therightscoop.com,1.0,uncertain,TheRightscoop.com is a website that provides news and information related to legal and intellectual property issues.,0,0,0
+qwen2.5_7b,variety.com,1.0,reliable,"Variety.com is an online publication that covers news, features, and analysis in the entertainment industry, focusing on film, television, and theater.",1,1,1
+qwen2.5_7b,dailymail.co.uk,1.0,uncertain,"DailyMail.co.uk is a British online news website owned by Daily Mail and General Trust, known for its focus on celebrity news, politics, and lifestyle.",1,1,1
+qwen2.5_7b,app.com,0.0,unknown,none,0,0,0
+qwen2.5_7b,100percentfedup.com,1.0,uncertain,100percentfedup.com is a website that claims to provide information and resources related to the Federal Reserve System and monetary policy.,0,0,1
+qwen2.5_7b,chicagotribune.com,1.0,reliable,"chicagotribune.com is the website of the Chicago Tribune, a major newspaper serving the Chicago metropolitan area.",1,1,1
+qwen2.5_7b,express.co.uk,1.0,uncertain,Express.co.uk is a British online news and media website owned by Evolving Media Ltd.,1,0,1
+qwen2.5_7b,amny.com,1.0,uncertain,"AMNY.com is an online news website serving the New York metropolitan area, focusing on local news and events.",1,1,0
+qwen2.5_7b,thecommonsenseshow.com,1.0,uncertain,"TheCommonSenseShow.com is a website that hosts a podcast offering discussions and interviews on various topics, aiming to provide common sense perspectives.",0,0,0
+qwen2.5_7b,themoscowtimes.com,1.0,uncertain,Themoscowtimes.com is an English-language news website that covers news and events in Russia and the former Soviet republics.,1,1,1
+qwen2.5_7b,breitbart.com,1.0,uncertain,Breitbart.com is an American online news website known for conservative viewpoints and controversial content.,1,1,1
+qwen2.5_7b,bramptonguardian.com,0.0,unknown,none,0,0,1
+qwen2.5_7b,dailystar.co.uk,1.0,uncertain,DailyStar.co.uk is an online news and entertainment website.,1,1,1
+qwen2.5_7b,rte.ie,1.0,reliable,"RTE.ie is the online portal of Raidió Teilifís Éireann (RTÉ), Ireland's national broadcaster.",1,1,1
+qwen2.5_7b,thesun.co.uk,1.0,uncertain,"TheSun.co.uk is a British online news website owned by News UK, known for its tabloid-style reporting.",1,1,1
+qwen2.5_7b,fresnobee.com,1.0,uncertain,"FresnoBee.com is an online news source covering local news, politics, and events in Fresno, California.",1,1,1
+qwen2.5_7b,wegotthiscovered.com,1.0,uncertain,"WeGotThisCovered is a media website that provides entertainment news, reviews, and commentary.",1,1,1
+qwen2.5_7b,ajc.com,,unknown,none,0,0,1
+qwen2.5_7b,gaytimes.co.uk,1.0,uncertain,"Gay Times is a UK-based LGBTQ+ magazine and website that covers news, culture, and lifestyle.",1,1,1
+qwen2.5_7b,neonnettle.com,0.0,unknown,none,0,0,0
+qwen2.5_7b,sfgate.com,1.0,uncertain,"SFGate.com is an online news and information website serving the San Francisco Bay Area, owned by Nexstar Media Group.",1,0,1
+qwen2.5_7b,pagesix.com,1.0,uncertain,Pagesix.com is a celebrity and entertainment news website.,1,1,1
+qwen2.5_7b,news5cleveland.com,1.0,uncertain,"news5cleveland.com is a local news website serving the Cleveland, Ohio area.",1,1,1
+qwen2.5_7b,gawker.com,1.0,unreliable,"Gawker.com was a popular online media website known for celebrity news, gossip, and blog posts, though it faced numerous legal issues and controversies.",1,1,1
+gemma3_4b,fool.com,1.0,unreliable,"MediaFool.com is a website that provides news and analysis focused on the cryptocurrency and blockchain space, often with a critical and skeptical perspective.",0,0,1
+gemma3_4b,buzzfeednews.com,1.0,uncertain,"Buzzfeed News is a digital news publication owned by BuzzFeed, known for its listicles, quizzes, and millennial-focused content.",0,0,1
+gemma3_4b,latimes.com,1.0,reliable,"The Los Angeles Times is a major American newspaper offering news, opinion, and multimedia content covering California and national issues.",1,1,1
+gemma3_4b,statista.com,1.0,reliable,"Statista.com is a statistics portal providing data, reports, and analysis from various sources to help businesses and researchers make informed decisions.",1,1,1
+gemma3_4b,blogspot.com,1.0,uncertain,"Blogspot is a free blogging platform owned by Google, offering tools for creating and publishing websites and blogs.",1,1,1
+gemma3_4b,bgr.com,1.0,unreliable,BGR is a celebrity and entertainment news website known for its tabloid-style reporting and often sensationalized headlines.,0,0,1
+gemma3_4b,cbs8.com,1.0,uncertain,"CBS8 is a television station serving the San Diego, California area, providing local news, weather, and sports coverage.",1,1,1
+gemma3_4b,theweek.co.uk,1.0,uncertain,TheWeek.co.uk is a British online news aggregator and opinion website that presents a liberal perspective on current events.,1,0,1
+gemma3_4b,ibtimes.co.in,1.0,uncertain,"ibtimes.co.in is an Indian online news publication offering news and commentary on a variety of topics, including politics, business, and technology.",1,1,1
+gemma3_4b,metro.news,1.0,unreliable,"Metro.news is a privately-owned news website that focuses on local news and entertainment, often utilizing citizen journalists and social media for content.",0,0,0
+gemma3_4b,dailybuzzlive.com,1.0,unreliable,"DailyBuzzLive.com is a website that claims to provide breaking news and entertainment content, often focusing on celebrity gossip and sensationalized stories.",1,1,1
+gemma3_4b,cnn.com,1.0,uncertain,"CNN is a global news organization that provides 24-hour coverage of current events through television, websites, and mobile apps.",1,1,1
+gemma3_4b,aljazeera.com,1.0,uncertain,Al Jazeera English is an international news channel and website offering global news coverage with a Middle Eastern perspective.,1,1,1
+gemma3_4b,madison.com,1.0,uncertain,"Media Madison is a local news website covering news, sports, and events in Madison, Wisconsin.",1,1,1
+gemma3_4b,therightscoop.com,1.0,unreliable,"TheRightScoop is a celebrity gossip website known for its often-exclusive reporting and rapid dissemination of information, frequently focusing on Hollywood relationships and industry news.",0,0,1
+gemma3_4b,variety.com,1.0,uncertain,"Variety.com is a leading entertainment news website covering film, television, music, and theater.",1,1,1
+gemma3_4b,dailymail.co.uk,1.0,unreliable,Dailymail.co.uk is a British tabloid news website known for its sensationalist reporting and often controversial content.,1,1,1
+gemma3_4b,app.com,1.0,unreliable,"Media app.com is a website offering a vast library of free movies and TV shows, primarily through streaming and download, though its legality and current operational status are questionable.",0,0,0
+gemma3_4b,100percentfedup.com,1.0,unreliable,"100percentfedup.com is a website known for publishing conspiracy theories and unsubstantiated claims, often focusing on political and social issues.",1,1,0
+gemma3_4b,chicagotribune.com,1.0,uncertain,"The Chicago Tribune is a major American newspaper based in Chicago, Illinois, offering news, sports, opinion, and entertainment coverage.",1,1,1
+gemma3_4b,express.co.uk,1.0,unreliable,Media Express is a British tabloid news website known for its pro-Conservative political commentary and focus on Brexit and UKIP.,1,1,1
+gemma3_4b,amny.com,1.0,uncertain,"amny.com is a news aggregator and content curation site owned by the USA Today Network, focusing on local and regional news.",0,0,0
+gemma3_4b,thecommonsenseshow.com,1.0,uncertain,"The Commonsense Show is a YouTube channel and podcast hosted by Matt Wallace and his son, Jack, offering a conservative, libertarian perspective on current events and social issues.",0,0,1
+gemma3_4b,themoscowtimes.com,1.0,uncertain,"The Moscow Times is an English-language newspaper based in Moscow, Russia, that has faced significant challenges due to government pressure and sanctions.",1,0,1
+gemma3_4b,breitbart.com,1.0,unreliable,Breitbart News is a far-right American news and opinion website known for its controversial content and promotion of nationalist and populist viewpoints.,1,1,1
+gemma3_4b,bramptonguardian.com,1.0,uncertain,"The Brampton Guardian is a hyperlocal news website covering news and events in the city of Brampton, Ontario.",1,1,0
+gemma3_4b,dailystar.co.uk,1.0,unreliable,"The Daily Star is a British tabloid newspaper known for its celebrity gossip, sports coverage, and sensationalized news stories.",1,1,1
+gemma3_4b,rte.ie,1.0,reliable,"RTÉ (Raidió Teilifís Éireann) is the national public service broadcaster of Ireland, providing television, radio, and online content.",1,1,1
+gemma3_4b,thesun.co.uk,1.0,unreliable,The Sun is a British tabloid newspaper known for its sensationalist and often controversial reporting.,1,1,1
+gemma3_4b,fresnobee.com,1.0,uncertain,"The Fresno Bee is a daily newspaper serving Fresno, California, and the surrounding area, providing local news, sports, and opinion.",1,1,1
+gemma3_4b,wegotthiscovered.com,1.0,unreliable,"WeGotThisCovered is a website that provides celebrity gossip, entertainment news, and movie reviews, often with a focus on tabloid-style reporting.",1,1,1
+gemma3_4b,ajc.com,1.0,reliable,"AJC.com is the website of the *Atlanta Journal-Constitution*, a major daily newspaper serving the Atlanta metropolitan area.",1,1,1
+gemma3_4b,gaytimes.co.uk,1.0,uncertain,"Gaytimes.co.uk is a British LGBTQ+ news and lifestyle website offering articles, opinion pieces, and community features.",1,1,1
+gemma3_4b,neonnettle.com,1.0,uncertain,"Media Neonnettle is a website that provides news and analysis focused on the intersection of technology, politics, and culture, often with a critical perspective.",0,0,0
+gemma3_4b,sfgate.com,1.0,uncertain,"SFGate is the online news website of the San Francisco Chronicle, providing local and national news coverage.",1,0,1
+gemma3_4b,pagesix.com,1.0,unreliable,PageSix is a celebrity and entertainment news website known for its often gossip-focused reporting.,1,1,1
+gemma3_4b,news5cleveland.com,1.0,generally reliable,"News5Cleveland.com is the website for Cleveland’s Fox affiliate, WKYC, providing local news, weather, and sports coverage.",0,0,1
+gemma3_4b,gawker.com,1.0,unreliable,"Gawker was a popular online news and entertainment website known for its often provocative and humorous content, particularly celebrity gossip and internet culture commentary.",1,1,1

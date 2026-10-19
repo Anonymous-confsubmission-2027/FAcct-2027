@@ -1,0 +1,12 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact6646,politifact.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-901396,wstale.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact14815,helloforos.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,"fake
+",dailystar.co.uk,fake,fake,fake,fake
+gossipcop-7474271525,radaronline.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,real,real,fake,fake
+gossipcop-4908552205,dailymail.co.uk,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-1912691606,romper.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-898581,marriedbiography.com,real,themoscowtimes.com,real,real,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-858818,usmagazine.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake

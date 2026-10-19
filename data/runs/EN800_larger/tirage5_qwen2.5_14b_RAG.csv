@@ -1,0 +1,297 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14896,bluedotdaily.com,fake,rte.ie,fake,"fake
+
+The article text and the evidence provided do not match. The article text suggests that the tax bill is the worst legislation in American history and specifically mentions that police officers cannot deduct their uniforms, which is presented as an example of how unfair the bill is. However, the evidence provided does not support this claim. The evidence does not confirm that police officers cannot deduct their uniforms under the tax bill. Instead, it mentions that the bill includes provisions affecting public safety personnel, but does not specify that it prevents them from deducting work-related expenses. Therefore, the claim in the article appears to be exaggerated or misrepresentative based on the evidence provided.",thesun.co.uk,fake,"fake
+
+The article's tone and content are highly biased and include speculative statements not supported by the provided evidence. The evidence does not confirm that the tax bill is ""the single worst piece of legislation in the history of American politics"" or that it specifically penalizes police officers and firefighters in the manner described. The evidence suggests that there are changes affecting public safety personnel, but it does not support the claim that the bill is as detrimental or unfair as the article suggests.",fresnobee.com,fake,"fake
+
+The article contains hyperbolic and misleading statements about the tax bill and its impact on police officers and firefighters. While it is true that the Tax Cuts and Jobs Act of 2018 did eliminate some tax deductions for uniformed public safety workers, the claim that it is ""the single worst piece of legislation in the history of American politics"" is subjective and not supported by the evidence provided. Additionally, the claim that a wealthy CEO can deduct a private jet while a police officer cannot deduct their uniform is an oversimplification and does not accurately represent the complexity of the tax legislation. The tone and content of the article suggest a biased and exaggerated perspective rather than a factual analysis.",wegotthiscovered.com,fake,"fake
+
+The claim that the tax bill is the ""single worst piece of legislation in the history of American politics"" is an opinion and not a verifiable fact. Additionally, the specific claim about police officers not being able to deduct their uniforms while wealthy CEOs can deduct private jets is misleading. The actual tax legislation does not make such a distinction in this manner. The evidence provided does not support the claim as presented in the article, and the tone and content of the article suggest it is more of a critique or opinion piece rather than a factual report.",fake,"fake
+
+The article contains hyperbolic and exaggerated claims about the tax bill, including a statement that ""a wealthy CEO can deduct a private jet, but a police officer cannot deduct his/her uniform,"" which is not accurate. The evidence provided does not support the claim that the tax bill treats police officers and firefighters unfairly in this manner. Additionally, the article's tone and language are highly biased and do not provide factual evidence to support its claims."
+politifact8085,realclearpolitics.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact8371,tampabay.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact6646,politifact.com,real,rte.ie,real,"real
+
+The article discusses Paul Ryan's plan for Medicare reform, which is a real and well-known topic in U.S. politics. However, the instruction mentions that no evidence was found to verify the claim, which might suggest some skepticism. Given that Paul Ryan's Medicare reform plan is a factual part of U.S. political history and debate, the article appears to be reporting on a real issue. Without specific contradictory evidence, the claim in the article is considered real.",thesun.co.uk,indetermine,"real
+
+The article discusses Paul Ryan's plan for Medicare reform, which is a real and well-known topic in U.S. politics. However, the instruction mentions that no evidence was found on the web to verify the claim, which suggests a lack of corroborative sources. Despite this, the content of the article aligns with factual information about Paul Ryan's Medicare proposal, making it ""real"" rather than ""fake."" If no evidence is found, it typically means there's a lack of additional sources to verify, but the claim itself does not contradict known facts about Ryan's Medicare plan.",fresnobee.com,real,real,wegotthiscovered.com,real,"real
+
+The article discusses Paul Ryan's plan to reform Medicare, which is a factual topic related to U.S. politics and policy. The claim about Medicare ""cuts"" is a point of debate and interpretation, but the existence of the plan and its details are real. Without specific evidence to contradict the article's claims, and given the public nature of the debate around Ryan's Medicare proposal, the claim can be considered real.",real,"real
+
+The article discusses Paul Ryan's plan for Medicare reform, which is a real and well-known topic in U.S. politics. However, the instruction mentions that no evidence was found on the web to verify the claim, which might suggest some doubt. Given the public nature of Paul Ryan's Medicare reform proposal and its significant presence in political discourse, the claim is considered real based on general knowledge. If the lack of evidence specifically targets misinformation or falsehoods about the claim, further clarification would be needed. But based on the information provided and the public nature of the topic, the answer is ""real""."
+politifact627,thecaucus.blogs.nytimes.com,real,rte.ie,indetermine,"real
+
+The article is about Senator John McCain's activities in Colorado, which includes meeting with advisers and donors, giving a speech at the Aspen Institute, and participating in fundraising events. The evidence provided does not directly relate to the content of the article but rather seems to be about other individuals named McCain in Colorado. This does not contradict the article's claims and does not provide evidence to suggest the article is fake. Therefore, based on the information given, the article appears to be real.",thesun.co.uk,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, but the evidence provided does not support the claim. The evidence is about other individuals named McCain and does not relate to Senator John McCain's visit or activities in Colorado. Therefore, based on the given evidence, the claim appears to be fake.",fresnobee.com,real,"real
+
+The article is reporting on Senator John McCain's activities during his campaign, which includes meeting with advisers and donors, giving a speech at the Aspen Institute, and attending fundraising events. The evidence provided does not directly relate to the claims made in the article but rather seems to be about other individuals named McCain in Colorado. This does not contradict the article's content, and without further evidence suggesting the article is false, it can be considered real.",wegotthiscovered.com,fake,"fake
+
+The article mentions Senator John McCain meeting with his top campaign advisers and donors in Colorado, discussing various topics, and giving a speech at the Aspen Institute. However, the evidence provided does not support the claim made in the article. The evidence is about Michael McCain and Robert McCain, who are not the same person as Senator John McCain, and does not provide any information related to the activities of John McCain in Colorado as described in the article. Therefore, based on the given evidence, the claim appears to be fake.",fake,fake
+politifact11899,washingtonpost.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact15309,nrtonline.info,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,rte.ie,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a link to a transcript of a debate that occurred on September 12, 2019, which is not the same event. Therefore, the claim in the article is not accurate and can be considered fake.",thesun.co.uk,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. Therefore, the claim is not accurate and appears to be misleading or incorrect in its context.",fresnobee.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the last piece of evidence provided refers to a 3rd Democratic debate on September 12, 2019, which is a different event. This discrepancy suggests that the article is not accurately representing the specific event it claims to cover.",wegotthiscovered.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the last sentence mentions a ""third 2020 Democratic Debate"" which is a different event. This discrepancy suggests that the article is not accurately representing the event it claims to be covering, making it misleading or fake in the context of the original claim.",fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. Therefore, the claim in the article is not accurate and appears to be fake."
+politifact14862,ravinderbhalla.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-908446,people.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-855390,nydailynews.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact15592,opreminfo.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact439,abcnews.go.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14376,dailyfeed.news,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-856933,rap-up.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact15386,hotgazette.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-895969,time.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact8611,america.aljazeera.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-1773639736,metro.co.uk,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact7511,thehill.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact6932,politifact.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact408,mtv.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14114,economist.com,real,rte.ie,fake,"fake
+
+The provided text and context suggest an interview transcript from May 4th, 2017, with Donald Trump. However, the evidence found on the web includes references to interviews in 2024 and 2026, which are inconsistent with the original claim's date. Additionally, the format and content of the provided text do not match a typical interview transcript from a reputable source like The Economist. Therefore, the claim appears to be fake.",thesun.co.uk,fake,"fake
+
+The provided evidence does not support the claim that the article is from May 4th, 2017. The evidence suggests that there are transcripts from interviews with Donald Trump in 2024 and 2026, which indicates that the article provided might be fabricated or from a different context than stated.",fresnobee.com,fake,"fake
+
+The provided evidence does not support the claim that the article is from May 4th, 2017. The evidence suggests that there are transcripts from 2024 and 2026, which indicates that the article provided might be fabricated or from a fictional or alternate timeline context. Additionally, the format and content of the article seem incomplete and inconsistent with typical journalistic standards for a transcript from 2017.",wegotthiscovered.com,fake,"fake
+
+The provided evidence does not support the claim that the article is from May 4th, 2017. The evidence includes references to interviews and transcripts from 2024 and 2026, which are inconsistent with the original claim's date. Additionally, the format and content of the provided text do not match a typical interview transcript from 2017. Therefore, the claim appears to be false.",fake,"fake
+
+The provided text and context suggest a fabricated interview transcript, as the evidence found on the web indicates that the dates mentioned (e.g., Oct 1, 2026) are inconsistent with the actual timeline of Donald Trump's presidency, which ended in January 2021. Additionally, the content of the evidence does not align with the format or content of a genuine interview transcript from May 4th, 2017."
+politifact674,legis.state.ak.us,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-2220709136,express.co.uk,fake,rte.ie,fake,"fake
+
+The article contains inaccuracies and exaggerations. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to suggest that he specifically sought the approval of Kate Middleton. The claim that Kate Middleton acts as a mentor to Prince Harry and that Harry wanted her seal of approval before proposing to Meghan Markle is not supported by reliable sources.",thesun.co.uk,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is based on a single source (royal expert Katie Nicholl) and lacks substantial evidence. The additional evidence provided does not support this specific claim and instead mentions that Harry sought approval from the Queen. Therefore, the claim in the article seems to be an exaggeration or misinterpretation of the actual events.",fresnobee.com,fake,"fake
+
+The article contains inaccuracies and misleading information. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to support the claim that he specifically sought the approval of Kate Middleton. The article conflates different reports and presents them as a single, verified fact, which is not accurate based on the evidence provided.",wegotthiscovered.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, and while there are similar claims found on the web, the evidence provided does not directly support the specific claim made in the article. The evidence suggests that Harry sought approval from the Queen, not specifically from Kate Middleton. Therefore, the claim in the article appears to be an exaggeration or misrepresentation of the facts.",fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, and while there are reports suggesting this, the evidence provided also mentions that Harry sought the approval of his grandmother, Queen Elizabeth II, which is a formal requirement for members of the royal family before proposing to someone who will become a member of the royal family. The article does not clearly differentiate between these two approvals and seems to overemphasize Kate's role in the decision-making process, which is not substantiated by the provided evidence."
+gossipcop-3401078624,newidea.com.au,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact938,nytimes.com,real,rte.ie,fake,"fake
+
+The provided text does not match the claim about the peanut product recall needing the company's approval. The text appears to be about President Obama's comments on food safety and the announcement of a new FDA commissioner, rather than discussing the specific issue of the Peanut Corporation of America's role in delaying recalls due to needing the company's approval. The evidence provided does mention the issue of needing the company's approval for recalls, but the text given does not discuss this topic.",thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14310,quickening-spirit.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,rte.ie,fake,"fake
+
+The article text provided is a standard cookie policy notice and does not contain any information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is presented.",thesun.co.uk,fake,"fake
+
+The article text provided is a standard cookie policy notice and does not contain information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is presented.",fresnobee.com,fake,"fake
+
+The article text provided is a standard cookie policy notice and not an article about ""The Voice"" Season 15. The evidence provided does relate to ""The Voice"" Season 15, but it does not match the context of the given article text, which is about cookie policy. Therefore, the claim in the article is not true in the context it's presented.",wegotthiscovered.com,fake,"fake
+
+The article claims it is providing a first look at ""The Voice Season 15,"" but the evidence found on the web suggests that Season 15 is set for 2026 and involves Jennifer Hudson replacing Alicia Keys as a coach, which does not align with the claim of a current or upcoming season. Additionally, the claim mentions ""Returning champs Kelly Clarkson and Adam Levine,"" which is inconsistent with the information that Alicia Keys was not returning as a coach for this season. Therefore, the claim appears to be inaccurate or misleading based on the provided evidence.",fake,"fake
+
+The article text provided is a standard cookie policy statement and does not contain any information about ""The Voice Season 15"". The evidence found on the web seems to be about ""The Voice"" Season 15, but it does not match the content of the article text given. Therefore, the claim in the article is not about ""The Voice Season 15"" and is thus fake in the context of the question."
+politifact1067,foxnews.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact13677,newsbreakshere.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on her social media. However, the evidence provided does not support this claim. The evidence mentions a photo dump on Instagram that includes a selfie with her husband Brad Falchuk and rare photos of her kids, but it does not mention any bachelorette party photos or a trip to Cabo, Mexico. Additionally, the date mentioned in the evidence (September 1, 2025) is in the future as of now, which makes the claim highly unlikely to be true based on the current date. Therefore, the claim is fake.",fake,fake
+politifact13905,usnnetwork.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-875236,mtv.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact939,nytimes.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact13897,huzlers.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-6857674423,hindustantimes.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,"fake
+
+The article mentions that the divorce isn't final because of disagreements over the custody of their children and the location of filming for Brad Pitt. However, the evidence found on the web indicates that the divorce was finalized in 2024, and the ongoing legal disputes are related to the sale of their French château and other matters, not the custody of their children or the location of filming. Therefore, the claim in the article is not accurate based on the evidence provided.",fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14026,politicass.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-7190490486,usmagazine.com,fake,rte.ie,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, and the claim about him appearing on the show seems speculative and not based on any confirmed information. Therefore, the claim is fake.",thesun.co.uk,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, which makes the claim questionable. Therefore, the claim appears to be speculative and not based on current facts.",fresnobee.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti has stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, and the claim about him appearing on the show seems speculative and not based on any confirmed information. Therefore, the claim is fake.",wegotthiscovered.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article's claim about Colletti being married and expecting a child contradicts the idea of him appearing on a dating show. Therefore, the claim in the article appears to be inaccurate.",fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article mentions a future date of January 22, 2026, which is not accurate as of the current date, and there's no indication that Colletti is single or planning to appear on the show. Therefore, the claim in the article is not true."
+politifact15606,thegoldwater.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-942114,people.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-7440482567,popsugar.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-3016533567,msn.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,rte.ie,fake,fake,thesun.co.uk,fake,"fake
+
+The article's claim that Meghan Markle's Instagram was filled with intimate and revealing photos before she became engaged to Prince Harry is not substantiated by the evidence provided. The evidence suggests that while there are photos of Meghan Markle from before she became a royal, they do not specifically indicate that her Instagram was filled with intimate or revealing photos. Additionally, the article's claim about the disappearance of her Instagram page is not supported by the evidence, which does not provide clear information about the content of her Instagram before it was deleted.",fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14944,thehill.com,fake,rte.ie,fake,"fake
+
+The article mentions a government shutdown in 2026 and 2025, which is in the future as of 2023. This suggests that the article is not reporting on a current event but rather a fictional or future scenario. Therefore, the claim is not true based on the evidence provided.",thesun.co.uk,fake,"fake
+
+The dates mentioned in the evidence (2025, 2026) do not align with the current timeline, suggesting the article is not reporting on a current event but rather using future dates, which makes the claim seem fabricated or part of a fictional scenario.",fresnobee.com,fake,"fake
+
+The article appears to be referencing future dates (2025 and 2026) for events that are not currently happening, which suggests it is not reporting on a current government shutdown but rather speculative or fictional content. The most recent government shutdown occurred in 2018-2019, and there is no indication of a government shutdown in 2025 or 2026 based on the provided evidence.",wegotthiscovered.com,indetermine,"fake
+
+The article appears to be referencing future dates (2026) for events that have not yet occurred, which suggests it is not reporting on a current or past event but rather speculative or fictional content. The evidence provided also includes future dates that do not align with the current timeline, indicating the article is not based on real, recent events.",fake,"fake
+
+The article mentions a government shutdown in 2026, which is in the future as of now (2023), and the evidence provided includes dates in 2025 and 2026, suggesting the article is not about a past event but rather a fictional or speculative scenario. Therefore, the claim in the article is not true based on current facts."
+gossipcop-876260,rap-up.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14516,observeronline.news,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14855,www2.alabamavotes.gov,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,real,real,fake,fake
+gossipcop-862435,people.com,real,rte.ie,fake,"fake
+
+The article mentions an event from December 20, which seems to be a current event, but the evidence found on the web includes dates in 2025 and 2026, which are in the future as of now. Additionally, the article claims that Andy Cohen is expecting his first child via surrogate, but the provided evidence does not mention Andy Cohen or any similar event. Therefore, the claim appears to be fabricated or inaccurately dated.",thesun.co.uk,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the provided evidence dates from 2025 and 2026, which suggests the article is not from a reliable or current source. Additionally, the name of the host is not provided, and the claim about the specific episode and the host's age does not match any known public figures or verified information. Therefore, the claim appears to be fabricated or based on outdated and unreliable information.",fresnobee.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. Moreover, the sources provided are from 2025 and 2026, which are future dates relative to the current year (2023), and they list other celebrities who have used surrogacy but do not mention the host of Watch What Happens Live making such a revelation. Therefore, the claim in the article appears to be fabricated or inaccurately reported.",wegotthiscovered.com,fake,"fake
+
+The article mentions a December 20 episode of Bravo’s Watch What Happens Live where the host, who is described as 50 years old, reveals he is expecting his first child via surrogate. However, the provided evidence does not support this specific claim. The evidence talks about other celebrities using surrogacy but does not mention any recent announcements from a 50-year-old host on Watch What Happens Live. Additionally, the dates provided in the evidence (2025 and 2026) are in the future relative to the current date, which suggests the sources might be from a fictional or future context. Therefore, the claim appears to be fabricated or from a fictional scenario.",indetermine,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he is expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. The evidence talks about celebrities like Cameron Diaz, Kim Kardashian, Elton John, Nicole Kidman, Anderson Cooper, Priyanka Chopra, Aamir Khan, and Cristiano Ronaldo using surrogacy, but does not confirm the specific claim made in the article about the host of Watch What Happens Live. Additionally, the dates provided in the evidence (2025 and 2026) are in the future relative to the current date, which suggests that the article might be fabricated or set in a future context not aligned with real events. Therefore, based on the information provided, the claim appears to be fake."
+politifact14815,helloforos.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,rte.ie,fake,fake,thesun.co.uk,real,real,fresnobee.com,fake,fake,wegotthiscovered.com,real,real,fake,fake
+politifact15048,conservativedailypost.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact98,nymag.com,real,rte.ie,fake,"fake
+
+The article claims that Fred Thompson is the son of Lawrenceburg, Tennessee, but according to the evidence found on Wikipedia, Fred Thompson was actually born in Sheffield, Alabama. Therefore, the claim is fake.",thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14511,msnbc.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact13775,beforeitsnews.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact348,pollingreport.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-914034,movieweb.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact1454,msnbc.msn.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-915516,dailynews.news,real,rte.ie,indetermine,"fake
+
+The article seems to contain inaccuracies and anachronisms. The evidence provided does not support the claim that Luann de Lesseps is premiering her debut nightclub act titled #CountessAndFriends in 2023. The evidence suggests that she has already established herself as a cabaret headliner and that the article might be referencing a past event or is incorrectly dated. Additionally, the mention of ""The Real Housewives Ultimate Girls Trip: Ro"" in 2026 is not consistent with the current timeline and appears to be a future event or a hypothetical scenario. Therefore, the claim in the article is not supported by the evidence provided and seems to be inaccurate.",thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,rte.ie,fake,fake,thesun.co.uk,fake,"fake
+
+The article claims that Kris Jenner turned 62, but evidence found on the web indicates that she celebrated her 70th birthday in 2025, which contradicts the claim in the article. Additionally, the article's date suggests it was written in 2017, making the claim about her turning 62 incorrect based on the evidence provided.",fresnobee.com,fake,fake,wegotthiscovered.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with sweet Instagram tributes. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party. This contradicts the claim in the article, making it false.",fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake."
+gossipcop-877704,etonline.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact7293,kff.org,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact2128,abcnews.go.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-918819,etonline.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact15604,worldfactsftw.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-894897,foxnews.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,rte.ie,fake,fake,thesun.co.uk,real,real,fresnobee.com,fake,"fake
+
+The article appears to be referencing a situation that is outdated or entirely fabricated. The evidence found on the web suggests that Travis Scott and Kylie Jenner are no longer together, with their split occurring in 2023. Additionally, the article's content seems to be a mix of old information and possibly fabricated details, such as the mention of a ""GQ interview"" which does not align with the provided evidence or known public statements. Therefore, the claim in the article is not accurate and can be considered fake.",wegotthiscovered.com,fake,fake,fake,fake
+politifact14265,mainerepublicemailalert.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact13431,time.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact9576,blogs.rollcall.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,rte.ie,fake,"fake
+
+The provided text and title do not match. The text discusses Eminem's surprise album ""Kamikaze,"" while the title is about speculation regarding Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also focuses on Selena Gomez's music and its relation to Justin Bieber, not on Eminem's album or any involvement of the Secret Service. Therefore, the claim in the article as presented is fake.",thesun.co.uk,fake,"fake
+
+The article title and text do not match. The title is about Selena Gomez's new song possibly being about Justin Bieber or The Weeknd, while the text discusses Eminem's surprise album ""Kamikaze"". This mismatch suggests the article is not genuine or has been incorrectly presented.",fresnobee.com,fake,"fake
+
+The provided text and evidence do not match the title of the article which is about Selena Gomez's new song being potentially about Justin Bieber or The Weeknd. The text provided talks about Eminem's surprise album ""Kamikaze"" and does not discuss Selena Gomez's music or any claims about it being about Justin Bieber or The Weeknd. Therefore, the claim in the article title is not supported by the given text, making it fake.",wegotthiscovered.com,fake,"fake
+
+The provided text does not match the title and content suggested by the source URL and title. The text discusses Eminem's album ""Kamikaze,"" while the title and source suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. Therefore, the claim in the article as presented is not consistent with the actual content, making it ""fake.""",fake,"fake
+
+The article title and text do not match. The title talks about Selena Gomez's new song and its possible references to Justin Bieber or The Weeknd, while the text discusses Eminem's surprise album ""Kamikaze"" and his diss tracks against Trump. There is no evidence provided in the text that relates to the title's claim, making the article misleading and not coherent."
+gossipcop-4908552205,dailymail.co.uk,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-809485,instyle.com,real,rte.ie,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet.",thesun.co.uk,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",fresnobee.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",wegotthiscovered.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence suspicious and likely fabricated. Additionally, the article's claim about Kendall Jenner's versatility with jeans is exaggerated and not substantiated by the provided evidence, which focuses more on specific instances of her wearing straight-leg jeans and ballet flats, rather than her ability to pull off every type of jeans.",fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the provided evidence suspicious and likely fabricated. Additionally, the writing style and the context suggest this is a fictional or promotional piece rather than a factual article."
+gossipcop-874606,people.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-860551,today.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-943996,people.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-897260,elle.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact4433,fedupthebook.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,rte.ie,real,"real
+
+The article discusses the potential for conflict in Crimea, which aligns with historical and geopolitical concerns regarding the region. The evidence provided supports the idea that Crimea could become a focal point due to its strategic importance and the presence of Russian military forces there. The claims about demonstrators and the changing political dynamics in Crimea are consistent with the broader context of the Ukrainian crisis in 2014.",thesun.co.uk,real,"real
+
+The article discusses the potential for conflict in Crimea, which aligns with historical and geopolitical tensions in the region. The evidence provided supports the idea that Crimea could become a focal point due to its strategic importance and the presence of Russian military forces. The claims about demonstrators and the changing political dynamics in Crimea are consistent with the broader context of the Ukrainian crisis in 2014.",fresnobee.com,real,"real
+
+The article discusses the situation in Crimea during the Ukrainian crisis, which was a significant point of tension and conflict. The evidence provided supports the claim that Crimea was a focal point of concern and potential conflict, separate from the events in Kiev. The context of the article and the evidence align with historical events surrounding the Ukrainian crisis in 2014.",wegotthiscovered.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which aligns with historical events and concerns expressed by observers at the time. The evidence provided supports the claim that Crimea was a focal point of concern due to the possibility of conflict and the desire of some Crimean residents to align with Russia.",real,real
+politifact15301,bitcoingrower.life,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact15256,theglobalheadlines.net,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact1027,forbes.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact15626,maga2020.us,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact114,govtrack.us,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact285,time.com,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-936878,time.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,fake,"fake
+
+The article contains inaccuracies, such as stating that Oprah Winfrey left early on a bus, which is not supported by the evidence provided. Additionally, the Beckham's appearance is incorrectly referenced to a previous event (2011), not the 2018 wedding of Prince Harry and Meghan Markle. Therefore, the claim in the article is not entirely accurate based on the evidence provided."
+politifact4372,pbs.org,real,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,rte.ie,fake,fake,thesun.co.uk,fake,fake,fresnobee.com,fake,fake,wegotthiscovered.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+politifact11072,foxnews.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,rte.ie,real,real,thesun.co.uk,real,real,fresnobee.com,real,real,wegotthiscovered.com,real,real,real,real

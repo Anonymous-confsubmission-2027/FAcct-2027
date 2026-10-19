@@ -1,0 +1,191 @@
+modele,domaine,reponse,reponse_brute
+llama3.2:3b,fool.com,"Knowledge: yes
+Description: fool.com is a financial news and commentary website that provides analysis and commentary on the stock market, investing, and personal finance.
+Reliability: unreliable","Knowledge: yes
+Description: fool.com is a financial news and commentary website that provides analysis and commentary on the stock market, investing, and personal finance.
+Reliability: unreliable"
+llama3.2:3b,buzzfeednews.com,"Knowledge: yes
+Description: BuzzFeed News is a news website that aggregates and publishes news articles, often with a focus on pop culture, entertainment, and social issues.
+Reliability: unreliable","Knowledge: yes
+Description: BuzzFeed News is a news website that aggregates and publishes news articles, often with a focus on pop culture, entertainment, and social issues.
+Reliability: unreliable"
+llama3.2:3b,latimes.com,"Knowledge: yes
+Description: The Los Angeles Times is a daily newspaper published in Los Angeles, California, known for its in-depth coverage of local, national, and international news, as well as opinion, entertainment, and lifestyle sections.
+Reliability: reliable","Knowledge: yes
+Description: The Los Angeles Times is a daily newspaper published in Los Angeles, California, known for its in-depth coverage of local, national, and international news, as well as opinion, entertainment, and lifestyle sections.
+Reliability: reliable"
+llama3.2:3b,statista.com,"Knowledge: yes
+Description: Statista.com is a statistics portal that provides access to market research reports, industry statistics, and data visualizations on a wide range of topics, including business, finance, technology, and more.
+Reliability: reliable","Knowledge: yes
+Description: Statista.com is a statistics portal that provides access to market research reports, industry statistics, and data visualizations on a wide range of topics, including business, finance, technology, and more.
+Reliability: reliable"
+llama3.2:3b,blogspot.com,"Knowledge: yes
+Description: blogspot.com is a free blogging platform provided by Google, allowing users to create and host their own blogs.
+Reliability: reliable","Knowledge: yes
+Description: blogspot.com is a free blogging platform provided by Google, allowing users to create and host their own blogs.
+Reliability: reliable"
+llama3.2:3b,bgr.com,"Knowledge: yes
+Description: bgr.com is a technology news and opinion website that provides in-depth analysis and commentary on the latest developments in the tech industry.
+Reliability: unreliable","Knowledge: yes
+Description: bgr.com is a technology news and opinion website that provides in-depth analysis and commentary on the latest developments in the tech industry.
+Reliability: unreliable"
+llama3.2:3b,cbs8.com,"Knowledge: yes
+Description: CBS8.com is a news website that provides local news, weather, and sports coverage to the San Diego, California area.
+Reliability: reliable","Knowledge: yes
+Description: CBS8.com is a news website that provides local news, weather, and sports coverage to the San Diego, California area.
+Reliability: reliable"
+llama3.2:3b,theweek.co.uk,"Knowledge: yes
+Description: theweek.co.uk is a British online news and current affairs website that provides in-depth analysis and commentary on politics, culture, and society.
+Reliability: reliable","Knowledge: yes
+Description: theweek.co.uk is a British online news and current affairs website that provides in-depth analysis and commentary on politics, culture, and society.
+Reliability: reliable"
+llama3.2:3b,ibtimes.co.in,"Knowledge: yes
+Description: ibtimes.co.in is an Indian online news portal that provides news and information on various topics, including politics, business, sports, and entertainment.
+Reliability: unreliable","Knowledge: yes
+Description: ibtimes.co.in is an Indian online news portal that provides news and information on various topics, including politics, business, sports, and entertainment.
+Reliability: unreliable"
+llama3.2:3b,metro.news,"Knowledge: yes
+Description: metro.news is a Russian online news portal that provides news and information on various topics, including politics, economy, sports, and entertainment.
+Reliability: unreliable","Knowledge: yes
+Description: metro.news is a Russian online news portal that provides news and information on various topics, including politics, economy, sports, and entertainment.
+Reliability: unreliable"
+llama3.2:3b,dailybuzzlive.com,"Knowledge: yes
+Description: dailyBuzzLive.com is a live streaming and video-on-demand platform that features a mix of news, politics, and entertainment content, often with a conservative or libertarian perspective.
+Reliability: unreliable","Knowledge: yes
+Description: dailyBuzzLive.com is a live streaming and video-on-demand platform that features a mix of news, politics, and entertainment content, often with a conservative or libertarian perspective.
+Reliability: unreliable"
+llama3.2:3b,cnn.com,"Knowledge: yes
+Description: CNN.com is a news website and online television network that provides breaking news, in-depth reporting, and analysis on current events from around the world.
+Reliability: unreliable","Knowledge: yes
+Description: CNN.com is a news website and online television network that provides breaking news, in-depth reporting, and analysis on current events from around the world.
+Reliability: unreliable"
+llama3.2:3b,aljazeera.com,"Knowledge: yes
+Description: aljazeera.com is a Qatari-based international news organization that provides news coverage on a wide range of topics, including politics, business, sports, and culture.
+Reliability: unreliable","Knowledge: yes
+Description: aljazeera.com is a Qatari-based international news organization that provides news coverage on a wide range of topics, including politics, business, sports, and culture.
+Reliability: unreliable"
+llama3.2:3b,madison.com,"Knowledge: yes
+Description: madison.com is a local online news website serving the Madison, Wisconsin area, providing news, sports, and community information to its readers.
+Reliability: reliable","Knowledge: yes
+Description: madison.com is a local online news website serving the Madison, Wisconsin area, providing news, sports, and community information to its readers.
+Reliability: reliable"
+llama3.2:3b,therightscoop.com,"Knowledge: yes
+Description: The Right Scoop is a conservative news and opinion website founded by Steven Crowder, offering commentary and analysis on current events, politics, and culture.
+Reliability: unreliable","Knowledge: yes
+Description: The Right Scoop is a conservative news and opinion website founded by Steven Crowder, offering commentary and analysis on current events, politics, and culture.
+Reliability: unreliable"
+llama3.2:3b,variety.com,"Knowledge: yes
+Description: variety.com is a leading online publication that provides news, analysis, and commentary on the entertainment industry, including film, television, theater, and music.
+Reliability: reliable","Knowledge: yes
+Description: variety.com is a leading online publication that provides news, analysis, and commentary on the entertainment industry, including film, television, theater, and music.
+Reliability: reliable"
+llama3.2:3b,dailymail.co.uk,"Knowledge: yes
+Description: dailymail.co.uk is a British online news website that aggregates and publishes news articles from various sources, often with a focus on sensational and provocative headlines.
+Reliability: unreliable","Knowledge: yes
+Description: dailymail.co.uk is a British online news website that aggregates and publishes news articles from various sources, often with a focus on sensational and provocative headlines.
+Reliability: unreliable"
+llama3.2:3b,app.com,"Knowledge: yes
+Description: app.com is a media app that provides news, sports, and entertainment content from various sources, including The Cincinnati Enquirer and other local publications.
+Reliability: reliable","Knowledge: yes
+Description: app.com is a media app that provides news, sports, and entertainment content from various sources, including The Cincinnati Enquirer and other local publications.
+Reliability: reliable"
+llama3.2:3b,100percentfedup.com,"Knowledge: yes
+Description: 100percentfedup.com is a conservative news website and blog founded by Michael Knowles, known for its right-wing commentary and criticism of liberal policies and culture.
+Reliability: unreliable","Knowledge: yes
+Description: 100percentfedup.com is a conservative news website and blog founded by Michael Knowles, known for its right-wing commentary and criticism of liberal policies and culture.
+Reliability: unreliable"
+llama3.2:3b,chicagotribune.com,"Knowledge: yes
+Description: chicagotribune.com is a online news website that provides local and national news, sports, and weather coverage to the Chicago metropolitan area.
+Reliability: reliable","Knowledge: yes
+Description: chicagotribune.com is a online news website that provides local and national news, sports, and weather coverage to the Chicago metropolitan area.
+Reliability: reliable"
+llama3.2:3b,express.co.uk,"Knowledge: yes
+Description: express.co.uk is a British online news website that primarily focuses on sensationalist and tabloid-style reporting, often with a right-wing and pro-Brexit bias.
+Reliability: unreliable","Knowledge: yes
+Description: express.co.uk is a British online news website that primarily focuses on sensationalist and tabloid-style reporting, often with a right-wing and pro-Brexit bias.
+Reliability: unreliable"
+llama3.2:3b,amny.com,"Knowledge: yes
+Description: amny.com is a news website that covers local news, sports, and events in the Tulsa, Oklahoma area.
+Reliability: unreliable","Knowledge: yes
+Description: amny.com is a news website that covers local news, sports, and events in the Tulsa, Oklahoma area.
+Reliability: unreliable"
+llama3.2:3b,thecommonsenseshow.com,"Knowledge: yes
+Description: The Commonsense Show is a satirical news and commentary website that critiques modern society, politics, and culture from a conservative perspective.
+Reliability: unreliable","Knowledge: yes
+Description: The Commonsense Show is a satirical news and commentary website that critiques modern society, politics, and culture from a conservative perspective.
+Reliability: unreliable"
+llama3.2:3b,themoscowtimes.com,"Knowledge: yes
+Description: moscowtimes.com is a Russian-language online newspaper that provides news, analysis, and commentary on current events, politics, and social issues from a conservative and pro-Russian perspective.
+Reliability: unreliable","Knowledge: yes
+Description: moscowtimes.com is a Russian-language online newspaper that provides news, analysis, and commentary on current events, politics, and social issues from a conservative and pro-Russian perspective.
+Reliability: unreliable"
+llama3.2:3b,breitbart.com,"Knowledge: yes
+Description: Breitbart.com is a far-right American news and opinion website founded by Andrew Breitbart in 2007, known for its conservative and nationalist views.
+Reliability: unreliable","Knowledge: yes
+Description: Breitbart.com is a far-right American news and opinion website founded by Andrew Breitbart in 2007, known for its conservative and nationalist views.
+Reliability: unreliable"
+llama3.2:3b,bramptonguardian.com,"Knowledge: yes
+Description: Brampton Guardian is a local online newspaper serving Brampton, Ontario, Canada, providing news, sports, and community coverage to the region.
+Reliability: unreliable","Knowledge: yes
+Description: Brampton Guardian is a local online newspaper serving Brampton, Ontario, Canada, providing news, sports, and community coverage to the region.
+Reliability: unreliable"
+llama3.2:3b,dailystar.co.uk,"Knowledge: yes
+Description: Daily Star is a British tabloid newspaper that focuses on celebrity news, gossip, and entertainment.
+Reliability: unreliable","Knowledge: yes
+Description: Daily Star is a British tabloid newspaper that focuses on celebrity news, gossip, and entertainment.
+Reliability: unreliable"
+llama3.2:3b,rte.ie,"Knowledge: yes
+Description: rte.ie is the official website of Raidió Teilifís Éireann (RTÉ), Ireland's national public service broadcaster.
+Reliability: reliable","Knowledge: yes
+Description: rte.ie is the official website of Raidió Teilifís Éireann (RTÉ), Ireland's national public service broadcaster.
+Reliability: reliable"
+llama3.2:3b,thesun.co.uk,"Knowledge: yes
+Description: The Sun is a British tabloid newspaper that focuses on sensationalized and often provocative news, entertainment, and lifestyle content.
+Reliability: unreliable","Knowledge: yes
+Description: The Sun is a British tabloid newspaper that focuses on sensationalized and often provocative news, entertainment, and lifestyle content.
+Reliability: unreliable"
+llama3.2:3b,fresnobee.com,"Knowledge: yes
+Description: fresnobee.com is a news website that covers local news, politics, and events in Fresno, California, and the surrounding Central Valley region.
+Reliability: unreliable","Knowledge: yes
+Description: fresnobee.com is a news website that covers local news, politics, and events in Fresno, California, and the surrounding Central Valley region.
+Reliability: unreliable"
+llama3.2:3b,wegotthiscovered.com,"Knowledge: yes
+Description: wegotthiscovered.com appears to be a news and media website that covers a wide range of topics, including politics, entertainment, and social issues.
+Reliability: unreliable","Knowledge: yes
+Description: wegotthiscovered.com appears to be a news and media website that covers a wide range of topics, including politics, entertainment, and social issues.
+Reliability: unreliable"
+llama3.2:3b,ajc.com,"Knowledge: yes
+Description: ajc.com is a news website that serves as the online presence of the Atlanta Journal-Constitution, a daily newspaper based in Atlanta, Georgia.
+Reliability: reliable","Knowledge: yes
+Description: ajc.com is a news website that serves as the online presence of the Atlanta Journal-Constitution, a daily newspaper based in Atlanta, Georgia.
+Reliability: reliable"
+llama3.2:3b,gaytimes.co.uk,"Knowledge: yes
+Description: gaytimes.co.uk is a British online magazine and website that focuses on news, entertainment, and lifestyle for the LGBTQ+ community.
+Reliability: reliable","Knowledge: yes
+Description: gaytimes.co.uk is a British online magazine and website that focuses on news, entertainment, and lifestyle for the LGBTQ+ community.
+Reliability: reliable"
+llama3.2:3b,neonnettle.com,"Knowledge: yes
+Description: neonnettle.com is a news and information website that covers a wide range of topics, including health, wellness, and alternative medicine.
+Reliability: unreliable","Knowledge: yes
+Description: neonnettle.com is a news and information website that covers a wide range of topics, including health, wellness, and alternative medicine.
+Reliability: unreliable"
+llama3.2:3b,sfgate.com,"Knowledge: yes
+Description: sfgate.com is a San Francisco-based online newspaper that provides local news, sports, and entertainment coverage to the Bay Area and beyond.
+Reliability: reliable","Knowledge: yes
+Description: sfgate.com is a San Francisco-based online newspaper that provides local news, sports, and entertainment coverage to the Bay Area and beyond.
+Reliability: reliable"
+llama3.2:3b,pagesix.com,"Knowledge: yes
+Description: pagesix.com is a popular American celebrity news and gossip website that provides up-to-date information on entertainment, lifestyle, and culture.
+Reliability: unreliable","Knowledge: yes
+Description: pagesix.com is a popular American celebrity news and gossip website that provides up-to-date information on entertainment, lifestyle, and culture.
+Reliability: unreliable"
+llama3.2:3b,news5cleveland.com,"Knowledge: yes
+Description: news5cleveland.com is a local online news website that provides coverage of news, sports, and weather in the Cleveland, Ohio area.
+Reliability: reliable","Knowledge: yes
+Description: news5cleveland.com is a local online news website that provides coverage of news, sports, and weather in the Cleveland, Ohio area.
+Reliability: reliable"
+llama3.2:3b,gawker.com,"Knowledge: yes
+Description: Gawker.com was a popular American blog and online news publication that focused on celebrity gossip, entertainment news, and social issues, but it ceased operations in 2016 after a court-ordered shutdown.
+Reliability: unreliable","Knowledge: yes
+Description: Gawker.com was a popular American blog and online news publication that focused on celebrity gossip, entertainment news, and social issues, but it ceased operations in 2016 after a court-ordered shutdown.
+Reliability: unreliable"

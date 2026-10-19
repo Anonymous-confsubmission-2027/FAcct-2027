@@ -1,0 +1,11 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,chicagotribune.com,real,Real.,express.co.uk,real,Real.,amny.com,real,Real.,thecommonsenseshow.com,fake,Fake,real,Real.
+politifact6646,politifact.com,real,chicagotribune.com,real,Real.,express.co.uk,real,Real.,amny.com,real,Real.,thecommonsenseshow.com,real,Real.,real,Real.
+gossipcop-901396,wstale.com,real,chicagotribune.com,fake,Fake,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake
+politifact14815,helloforos.com,fake,chicagotribune.com,fake,Fake,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake
+gossipcop-7474271525,radaronline.com,fake,chicagotribune.com,fake,Fake,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake
+gossipcop-3549119927,hollywoodlife.com,fake,chicagotribune.com,fake,Fake,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake
+gossipcop-4908552205,dailymail.co.uk,fake,chicagotribune.com,fake,Fake,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake
+gossipcop-1912691606,romper.com,fake,chicagotribune.com,real,Real.,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake
+gossipcop-898581,marriedbiography.com,real,chicagotribune.com,fake,Fake,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake
+gossipcop-858818,usmagazine.com,real,chicagotribune.com,fake,Fake,express.co.uk,fake,Fake,amny.com,fake,Fake,thecommonsenseshow.com,fake,Fake,fake,Fake

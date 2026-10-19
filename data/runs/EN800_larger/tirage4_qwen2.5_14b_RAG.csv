@@ -1,0 +1,313 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14896,bluedotdaily.com,fake,themoscowtimes.com,fake,"fake
+
+The article contains hyperbolic and misleading statements about the tax bill and its impact on police officers and firefighters. While it is true that the Tax Cuts and Jobs Act of 2018 did eliminate some deductions for uniformed public safety workers, the claim that a wealthy CEO can deduct a private jet while a police officer cannot deduct their uniform is an oversimplification and exaggeration. The article also references a future date (2025) which does not align with the context provided. Therefore, the overall tone and specific claims in the article are more aligned with opinion and hyperbole rather than factual reporting.",breitbart.com,fake,"fake
+
+The article makes several exaggerated and misleading claims about the tax bill, including the assertion that it is ""the single worst piece of legislation in the history of American politics"" and that it prevents police officers from deducting their uniforms, which is not accurate based on the provided evidence. The evidence suggests that the tax bill includes provisions that affect public safety personnel, but it does not support the specific claim made in the article.",bramptonguardian.com,fake,"fake
+
+The article contains hyperbolic and misleading statements about the tax bill and its impact on police officers and firefighters. While it is true that the Tax Cuts and Jobs Act of 2018 did eliminate some deductions for uniformed public safety workers, the claim that it is ""the single worst piece of legislation in the history of American politics"" is subjective and not supported by the evidence provided. Additionally, the claim that a wealthy CEO can deduct a private jet while a police officer cannot deduct their uniform is an oversimplification and does not accurately represent the complexity of the tax legislation. The evidence provided does not support the extreme claims made in the article.",dailystar.co.uk,fake,"fake
+
+The article contains hyperbolic and misleading statements about the tax bill and its impact on police officers and firefighters. While it is true that the Tax Cuts and Jobs Act of 2018 did change some tax deductions for certain groups, the claim that a wealthy CEO can deduct a private jet while a police officer cannot deduct their uniform is an oversimplification and exaggeration. The article also references a future date (2025) which does not align with the current context and seems to be a mix-up or fabrication. The tone and content of the article are more aligned with opinion pieces rather than factual reporting.",fake,"fake
+
+The article contains hyperbolic and exaggerated claims about the tax bill, including a statement that ""a wealthy CEO can deduct a private jet, but a police officer cannot deduct his/her uniform,"" which is not accurate. The evidence provided does not support the claim that the tax bill treats police officers and firefighters unfairly in this manner. Additionally, the article's tone and language are highly biased and do not provide factual evidence to support its claims."
+politifact8085,realclearpolitics.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact8371,tampabay.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact6646,politifact.com,real,themoscowtimes.com,real,real,breitbart.com,real,"real
+
+The article discusses Paul Ryan's plan for Medicare reform, which has been a subject of political debate. While the evidence provided does not offer direct verification, the claim is based on factual political events and policy proposals that have been widely reported and discussed in the media and political spheres. Therefore, without evidence to the contrary, the claim is considered real.",bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,"real
+
+The article discusses Paul Ryan's plan for Medicare reform, which is a real and well-known topic in U.S. politics. However, the instruction mentions that no evidence was found on the web to verify the claim, which might suggest some doubt. Given the public nature of Paul Ryan's Medicare reform proposal and its significant presence in political discourse, the claim is considered real based on general knowledge. If the lack of evidence specifically targets misinformation or falsehoods about the claim, further clarification would be needed. But based on the information provided and the public nature of the topic, the answer is ""real""."
+politifact627,thecaucus.blogs.nytimes.com,real,themoscowtimes.com,real,real,breitbart.com,fake,"fake
+
+The provided evidence does not support the claim made in the article. The evidence refers to individuals named Michael McCain and Robert McCain in Colorado, which does not relate to Senator John McCain meeting with his campaign advisers and donors as described in the article. The article appears to be about a political event involving a well-known figure, while the evidence is about individuals with similar names but no connection to the political context of the article.",bramptonguardian.com,indetermine,"real
+
+The article is about Senator John McCain's activities in Colorado, which includes meeting with advisers and donors, giving a speech at the Aspen Institute, and attending fundraising events. The evidence provided does not directly relate to the content of the article but rather to other individuals with the surname McCain in Colorado. This does not contradict the article's claims and does not provide evidence to suggest the article is fake. Therefore, based on the information given, the article appears to be real.",dailystar.co.uk,indetermine,"real
+
+The article is about Senator John McCain's activities in Colorado, which includes meeting with advisers and donors, giving a speech at the Aspen Institute, and attending fundraising events. The evidence provided does not directly relate to the content of the article but rather seems to be about other individuals named McCain in Colorado. This does not contradict the article's claims and does not provide evidence to suggest the article is fake. Therefore, based on the information given, the article appears to be real.",fake,fake
+politifact11899,washingtonpost.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact15423,usbreakingnews.net,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact9107,wfpl.org,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact15309,nrtonline.info,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,themoscowtimes.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a link to a transcript of a debate that occurred on September 12, 2019, which is not the same event. Therefore, the claim in the article is not accurate and can be considered fake.",breitbart.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate which took place on December 19, 2015, but the last piece of evidence provided refers to a 3rd Democratic debate on September 12, 2019, which is a different event. This discrepancy suggests that the article is not accurately representing the specific event it claims to be covering.",bramptonguardian.com,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. Therefore, the claim is false.",dailystar.co.uk,fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. This suggests that the article is not accurately representing the event it claims to cover and may be misleading or incorrect in its context.",fake,"fake
+
+The article claims to be about the 3rd Democratic debate that took place on December 19, 2015, but the evidence provided includes a reference to a transcript from September 12, 2019, which is not related to the 2015 debate. Therefore, the claim in the article is not accurate and appears to be fake."
+politifact14862,ravinderbhalla.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-908446,people.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-855390,nydailynews.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact15592,opreminfo.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact439,abcnews.go.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact14376,dailyfeed.news,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-856933,rap-up.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact15386,hotgazette.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-895969,time.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact8611,america.aljazeera.com,real,themoscowtimes.com,real,real,breitbart.com,fake,"fake
+
+The article's claim that Israel should welcome Rouhani's election victory is not supported by the evidence provided. The evidence suggests that Israel has greeted Rouhani's victory with hostility due to concerns about Iran's nuclear program and the potential lifting of sanctions. The article's premise seems to be misleading or incorrect based on the context provided.",bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-1773639736,metro.co.uk,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,fake,"fake
+
+The article's date (December 30, 2017) and the evidence provided (mentioning an event in August 2026) indicate that the evidence is not relevant to the claim and suggests the article might be outdated or part of a fabricated context. Additionally, the evidence provided seems to be about more recent events involving Kendall Jenner, which do not align with the specific claim made in the article about the December 2017 incident. Therefore, the claim appears to be based on outdated or fabricated information.",dailystar.co.uk,real,real,real,real
+politifact7511,thehill.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact6932,politifact.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact408,mtv.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14114,economist.com,real,themoscowtimes.com,fake,"fake
+
+The provided text and context suggest an interview transcript from May 4th, 2017, with Donald Trump, Steve Mnuchin, and Gary Cohn. However, the evidence found on the web includes references to interviews and transcripts from dates after Trump's presidency (2024 and 2026), which makes the original claim seem inconsistent and likely fabricated. Additionally, the format and content of the provided text do not match typical journalistic standards for an interview transcript, suggesting it may be a fabricated or fictional piece.",breitbart.com,fake,"fake
+
+The provided evidence does not support the claim that the article is from May 4th, 2017. The evidence suggests that there were interviews conducted in 2024 and 2026, which are after Trump's presidency ended. Therefore, the claim in the Breitbart article is likely fake.",bramptonguardian.com,indetermine,"fake
+
+The provided evidence does not support the claim that the article is real. The dates mentioned in the evidence (2024 and 2026) are in the future relative to the time when Trump was actually the President (2017-2021), and the content of the evidence does not match the context of the article provided. Additionally, the article's content seems to be a fabricated setup for an interview that never actually took place according to historical records.",dailystar.co.uk,fake,"fake
+
+The provided evidence does not support the claim that the article is from May 4th, 2017. The evidence includes references to interviews and transcripts from 2024 and 2026, which are inconsistent with the original claim's date. Additionally, the mention of a second-term agenda in 2024 is not aligned with the timeline of the original claim, as Trump left office in January 2021. Therefore, the article appears to be fabricated or inaccurately dated.",fake,"fake
+
+The provided text and context suggest a fabricated interview transcript, as the evidence found on the web indicates that the dates mentioned (e.g., Oct 1, 2026) are inconsistent with the actual timeline of Donald Trump's presidency, which ended in January 2021. Additionally, the content of the evidence does not align with the format or content of a genuine interview transcript from May 4th, 2017."
+politifact674,legis.state.ak.us,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-2220709136,express.co.uk,fake,themoscowtimes.com,fake,"fake
+
+The article contains inaccuracies and exaggerations. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no concrete evidence to support the claim that he specifically sought Kate Middleton's approval. The closeness of their relationship and the respect Harry has for Kate are acknowledged, but the specific claim of seeking her approval before proposing is not substantiated by reliable sources.",breitbart.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not entirely accurate based on the evidence provided. The evidence suggests that Harry sought permission from Queen Elizabeth II, not Kate Middleton. Therefore, the claim in the article is not supported by the evidence and can be considered fake.",bramptonguardian.com,fake,"fake
+
+The article mixes up different aspects of Prince Harry's actions before proposing to Meghan Markle. While it is reported that Harry sought the Queen's formal consent, the claim that he specifically sought Kate Middleton's approval is not substantiated by the provided evidence. The evidence suggests that Harry's actions were more focused on gaining the Queen's approval rather than Kate's. Therefore, the claim in the article is not supported by the evidence provided and can be considered fake.",dailystar.co.uk,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not supported by the evidence provided. The evidence suggests that Harry sought the Queen's formal consent, which is a standard royal protocol, and does not mention Kate Middleton's approval. Therefore, the claim in the article is not verified by the provided sources and appears to be an embellishment or misrepresentation of the facts.",fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, and while there are reports suggesting this, the evidence provided also mentions that Harry sought the approval of his grandmother, Queen Elizabeth II, which is a formal requirement for members of the royal family before proposing to someone who will become a member of the royal family. The article does not clearly differentiate between these two approvals and seems to overemphasize Kate's role in the decision-making process, which is not substantiated by the provided evidence."
+gossipcop-3401078624,newidea.com.au,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact938,nytimes.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,fake,"fake
+
+The provided text and context do not match the claim about the peanut product recall needing the company's approval. The text appears to be about food safety concerns and a potential new FDA commissioner but does not directly address the specific claim about the Peanut Corporation of America's recall process. The evidence provided does suggest that there was an issue with needing the company's approval for the recall, which contradicts the given text. Therefore, the article as presented seems to be fake in relation to the claim.",dailystar.co.uk,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14310,quickening-spirit.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,themoscowtimes.com,fake,"fake
+
+The article text does not match the content related to ""The Voice Season 15"" found on the web. The provided text is a general statement about the use of cookies on a website, not an article about ""The Voice"" television show. Therefore, the claim in the article is fake.",breitbart.com,fake,"fake
+
+The article's title and content do not match. The title suggests it is about ""The Voice Season 15,"" but the text is a generic cookie policy statement unrelated to the TV show. The evidence provided also does not support the claim that the article is about ""The Voice Season 15."" Therefore, the claim is fake.",bramptonguardian.com,fake,"fake
+
+The article text provided is a standard cookie policy notice and does not contain any information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is presented.",dailystar.co.uk,fake,"fake
+
+The article text provided is a standard cookie policy notice and does not contain any information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is presented.",fake,"fake
+
+The article text provided is a standard cookie policy statement and does not contain any information about ""The Voice Season 15"". The evidence found on the web seems to be about ""The Voice"" Season 15, but it does not match the content of the article text given. Therefore, the claim in the article is not about ""The Voice Season 15"" and is thus fake in the context of the question."
+politifact1067,foxnews.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact13677,newsbreakshere.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact15210,americatb.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-927338,ktvb.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on her Instagram. However, the evidence provided does not support this claim. The Instagram dump mentioned in the evidence occurred on September 1, and the content described does not match the specific claim about a bachelorette party photo. Additionally, the date mentioned in the second piece of evidence (September 3, 2025) seems to be incorrect or a future date, which does not align with the context of the article. Therefore, the claim appears to be fabricated or inaccurately reported.",fake,fake
+politifact13905,usnnetwork.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,themoscowtimes.com,fake,fake,breitbart.com,real,"real
+
+The article appears to be a legitimate piece from a celebrity and lifestyle website, WAGS Atlanta, discussing Kaylin Jurrjens, who is the wife of former professional baseball player Jair Jurrjens. The claim is not inherently false or misleading based on the information provided, and it seems to be a typical piece of entertainment news. However, the instruction to find evidence on the web did not yield any contradicting information, which is not surprising for such specific and niche content. Therefore, based on the context and nature of the article, it can be considered real.",bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-875236,mtv.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact939,nytimes.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact13897,huzlers.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,"fake
+
+The article mentions that George H.W. Bush died peacefully in his afternoon nap in Maine, but the evidence found on the web indicates that he died in Houston, Texas, on November 30, 2018, due to vascular Parkinson's syndrome. The discrepancy in the location of his death makes the claim in the article inaccurate.",bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-6857674423,hindustantimes.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,"fake
+
+The article mentions that the divorce isn't final two years after the split in 2016, but the evidence found on the web indicates that the divorce was finalized in 2024, which contradicts the claim in the article. Therefore, the claim is not accurate.",bramptonguardian.com,fake,fake,dailystar.co.uk,fake,"fake
+
+The article claims that the Brad Pitt and Angelina Jolie divorce isn't final because they haven't agreed on terms about their children, and it mentions a specific situation regarding filming in Los Angeles. However, the evidence found on the web indicates that their divorce was finalized in 2024, and they are still engaged in legal disputes over their French château and other matters. This contradicts the claim that their divorce isn't final due to disagreements about their children's custody and living arrangements.",fake,fake
+politifact14026,politicass.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-7190490486,usmagazine.com,fake,themoscowtimes.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions a future date of January 22, 2026, which is not current, and there is no indication that Colletti is single or planning to appear on the show. Therefore, the claim in the article appears to be speculative and not based on current facts.",breitbart.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, which makes the claim questionable. Therefore, the claim appears to be speculative and not based on current facts, making it ""fake.""",bramptonguardian.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article mentions a future date of January 22, 2026, which is not current, and there's no indication that Colletti is single or planning to appear on the show. Therefore, the claim in the article is not accurate based on the evidence provided.",dailystar.co.uk,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article's date (January 22, 2026) is in the future as of now, which makes the claim questionable. Therefore, the claim is fake.",fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence provided shows that Colletti explicitly stated he wouldn't go on the show. Additionally, the article mentions a future date of January 22, 2026, which is not accurate as of the current date, and there's no indication that Colletti is single or planning to appear on the show. Therefore, the claim in the article is not true."
+politifact15606,thegoldwater.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-942114,people.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-7440482567,popsugar.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-3016533567,msn.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,"fake
+
+The article's claim that Meghan Markle's Instagram was filled with intimate and revealing photos before she married Prince Harry is not substantiated by the evidence provided. The evidence suggests that while there are photos of Meghan Markle from before she became a royal, they do not specifically indicate that her Instagram was filled with intimate or revealing photos. Additionally, the article's date format (Aug 14, 2026) is suspicious and not credible.",bramptonguardian.com,fake,fake,dailystar.co.uk,fake,"fake
+
+The article's claim that Meghan Markle's Instagram was filled with intimate and revealing photos before she became engaged to Prince Harry is not substantiated by the evidence provided. The evidence suggests that while there are photos of Meghan Markle from before she became a royal, they do not indicate that her Instagram was filled with intimate or revealing content. The claim seems to be an exaggeration or misrepresentation of the available evidence.",fake,fake
+politifact14944,thehill.com,fake,themoscowtimes.com,indetermine,"fake
+
+The article appears to be referencing future dates (2026) for events that have not yet occurred, which suggests it is not reporting on current or past events but rather speculative or fictional content. The sources provided also indicate future dates, which further supports the idea that the article is not reporting on real, current events.",breitbart.com,fake,"fake
+
+The dates mentioned in the evidence (2025, 2026) do not align with the current timeline, suggesting the article is not reporting on a current event but rather using future dates which are inconsistent with the present context. Additionally, the article's content does not match the typical format or tone of Breitbart News, which usually focuses on political news and conservative viewpoints. The provided evidence does not support the claim that the article is reporting on a current government shutdown.",bramptonguardian.com,fake,"fake
+
+The article mentions a government shutdown in 2026, which is in the future as of now (2023), and there is no indication of an actual shutdown happening in 2026. The evidence provided includes dates in 2026, which suggests the article is not reporting on a current event but rather a hypothetical or fictional scenario.",dailystar.co.uk,indetermine,"fake
+
+The article appears to be referencing future dates (2026) for events that have not yet occurred, which suggests it is not reporting on current or past events accurately. The sources provided also indicate future dates, which further supports that the article is not reporting on real, current events but rather speculative or fictional scenarios.",fake,"fake
+
+The article mentions a government shutdown in 2026, which is in the future as of now (2023), and the evidence provided includes dates in 2025 and 2026, suggesting the article is not about a past event but rather a fictional or speculative scenario. Therefore, the claim in the article is not true based on current facts."
+gossipcop-876260,rap-up.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14516,observeronline.news,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact379,nytimes.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact14855,www2.alabamavotes.gov,fake,themoscowtimes.com,fake,fake,breitbart.com,real,real,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-862435,people.com,real,themoscowtimes.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. Additionally, the sources provided are from the year 2025 and 2026, which suggests that the article itself might be from the future or inaccurately dated. The article's content does not match the provided evidence, and there is no specific mention of a 50-year-old host of Watch What Happens Live making such a revelation. Therefore, based on the information given, the claim appears to be fake.",breitbart.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this specific claim. The sources provided discuss celebrities who have used surrogacy but do not mention any recent announcements from a 50-year-old host on Watch What Happens Live. Additionally, the sources provided are from 2025 and 2026, which is inconsistent with the claim being made in the article. Therefore, the claim appears to be fabricated or inaccurately reported.",bramptonguardian.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is described as 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this claim. The sources provided are about other celebrities using surrogacy but do not mention the specific claim about the host of Watch What Happens Live. Additionally, the sources provided have dates in 2025 and 2026, which are in the future as of now, making it unlikely that these sources are accurate for a claim from a past date. Therefore, based on the information given, the claim appears to be fake.",dailystar.co.uk,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this specific claim. The dates mentioned in the evidence (Sep 16, 2026, May 7, 2026, and Feb 1, 2025) are in the future relative to the current date, indicating that the article itself might be from a future or fictional context. Additionally, the article does not provide any specific names or verifiable details about the host or the episode, making it difficult to confirm the authenticity of the claim. Therefore, based on the information provided, the claim appears to be fake.",indetermine,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he is expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. The evidence talks about celebrities like Cameron Diaz, Kim Kardashian, Elton John, Nicole Kidman, Anderson Cooper, Priyanka Chopra, Aamir Khan, and Cristiano Ronaldo using surrogacy, but does not confirm the specific claim made in the article about the host of Watch What Happens Live. Additionally, the dates provided in the evidence (2025 and 2026) are in the future relative to the current date, which suggests that the article might be fabricated or set in a future context not aligned with real events. Therefore, based on the information provided, the claim appears to be fake."
+politifact14815,helloforos.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,themoscowtimes.com,fake,fake,breitbart.com,real,real,bramptonguardian.com,fake,fake,dailystar.co.uk,real,real,fake,fake
+politifact15048,conservativedailypost.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact98,nymag.com,real,themoscowtimes.com,fake,"fake
+
+The article claims that Fred Thompson is from Lawrenceburg, Tennessee, but according to the evidence found on Wikipedia, Fred Thompson was actually born in Sheffield, Alabama. Therefore, the claim is fake.",breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14511,msnbc.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact13775,beforeitsnews.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact348,pollingreport.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-914034,movieweb.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact1454,msnbc.msn.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-915516,dailynews.news,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-891912,people.com,real,themoscowtimes.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated her birthday with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025, which contradicts the claim in the article. Therefore, the claim is fake.",breitbart.com,fake,"fake
+
+The article claims that Kris Jenner turned 62, but evidence found on the web indicates that she celebrated her 70th birthday in 2025, which contradicts the claim in the article. Additionally, the article's content about the birthday celebration seems to be a mix-up with a previous event or a future one, making the claim inaccurate.",bramptonguardian.com,fake,"fake
+
+The article claims that Kris Jenner turned 62, but evidence found on the web indicates that she celebrated her 70th birthday in 2025, which contradicts the claim in the article. Additionally, the article's content about the birthday celebration seems to be a mix-up with a previous event or a future one, making the claim inconsistent with the provided evidence.",dailystar.co.uk,fake,"fake
+
+The article claims that Kris Jenner turned 62, but evidence found on the web indicates that she celebrated her 70th birthday in 2025, which contradicts the claim in the article. Additionally, the article's content about the birthday celebration seems to be a mix-up with a previous event or a future one, making the claim inaccurate.",fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake."
+gossipcop-877704,etonline.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact7293,kff.org,real,themoscowtimes.com,fake,"fake
+
+The article's title and content do not match. The title suggests a summary of the Affordable Care Act, but the content appears to be a description of the Patient Protection and Affordable Care Act (PPACA), which is indeed the Affordable Care Act. However, the content is incomplete and contains inaccuracies, such as the income range for premium and cost-sharing credits being incorrectly stated as 133-400% of the federal poverty level, when in fact, subsidies are available for those with incomes between 100% and 400% of the federal poverty level. Additionally, the article's source is ""themoscowtimes.com,"" which is a news site focused on Russia, and it is unusual for such a site to publish an article about the U.S. Affordable Care Act without context or commentary related to Russia. Therefore, the claim is likely fake due to the mismatch between the title and content, and the inaccuracies within the content.",breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact2128,abcnews.go.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14155,patriotcrier.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-918819,etonline.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-3449648617,today.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-919535,perezhilton.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact15604,worldfactsftw.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-894897,foxnews.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,themoscowtimes.com,fake,"fake
+
+The article mentions events and quotes from a GQ interview that do not align with the timeline provided in the evidence. Specifically, the evidence suggests that Travis Scott and Kylie Jenner had split by 2023, which contradicts the article's implication that they are still a couple and managing their relationship by keeping it private. Additionally, the evidence from 2026 indicates that Travis Scott is not in a relationship with anyone, further contradicting the article's claims.",breitbart.com,fake,fake,bramptonguardian.com,fake,"fake
+
+The article appears to contain inaccuracies and misleading information. The evidence found on the web suggests that Travis Scott and Kylie Jenner had already split by 2023, which contradicts the article's premise that they are a couple with a child and are trying to keep their relationship private. Additionally, the article's claim about the GQ interview does not align with the timeline provided in the evidence, which suggests that the relationship status of Scott and Jenner has changed since the article's claims.",dailystar.co.uk,fake,"fake
+
+The article mentions events and quotes from a specific interview with GQ, but the evidence found on the web indicates that Travis Scott and Kylie Jenner reportedly split in 2023, which contradicts the premise of the article that they are still a couple and new parents to a daughter named Stormi Webster. Additionally, the dates in the evidence suggest that the article might be referencing outdated information or is inaccurately reporting on a situation that has since changed.",fake,fake
+politifact14265,mainerepublicemailalert.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact13431,time.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-6159229395,variety.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact9576,blogs.rollcall.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact14452,forfreedomworld.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-936572,people.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,themoscowtimes.com,fake,"fake
+
+The provided text and evidence do not match the title and content of the article mentioned. The article title and text suggest a discussion about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. However, the evidence provided discusses Eminem's album ""Kamikaze"" and does not relate to Selena Gomez's music or any claims about it being about Justin Bieber or The Weeknd. Therefore, the claim in the article seems to be fake based on the mismatched evidence provided.",breitbart.com,fake,"fake
+
+The provided text does not match the title and content suggested by the source (breitbart.com). The text discusses Eminem's album ""Kamikaze,"" while the title and context suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also does not align with the text given, as it discusses Gomez's music and its relation to Bieber. Therefore, the claim in the article as presented is fake.",bramptonguardian.com,fake,"fake
+
+The provided text and evidence do not match. The text mentions an article about speculation regarding Selena Gomez's new song being about Justin Bieber or The Weeknd, but the evidence provided talks about Eminem's surprise album ""Kamikaze"" and does not relate to the original claim about Selena Gomez's song. Therefore, the claim in the article seems to be fake based on the mismatched evidence provided.",dailystar.co.uk,fake,"fake
+
+The provided text does not match the title and content suggested by the source (dailystar.co.uk). The text discusses Eminem's album ""Kamikaze,"" while the title and source suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also focuses on Selena Gomez's music and its relation to Justin Bieber, not on Eminem's album or any visit by the Secret Service. Therefore, the claim in the article as presented is fake.",fake,"fake
+
+The article title and text do not match. The title talks about Selena Gomez's new song and its possible references to Justin Bieber or The Weeknd, while the text discusses Eminem's surprise album ""Kamikaze"" and his diss tracks against Trump. There is no evidence provided in the text that relates to the title's claim, making the article misleading and not coherent."
+gossipcop-4908552205,dailymail.co.uk,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact1180,nytimes.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-809485,instyle.com,real,themoscowtimes.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet.",breitbart.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence suspicious and likely fabricated. Additionally, the writing style and the context suggest this is a satirical or fabricated article rather than a genuine news piece.",bramptonguardian.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future, which makes the evidence itself unreliable or fabricated, as it is not possible to have articles from the future at the time of this query. Therefore, the claim in the article appears to be fake based on this evidence.",dailystar.co.uk,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the provided evidence suspicious and likely fabricated. Additionally, the writing style and the context suggest this is a fictional or promotional piece rather than a factual article."
+gossipcop-874606,people.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-860551,today.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-1912691606,romper.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-943996,people.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-897260,elle.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact4433,fedupthebook.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,themoscowtimes.com,real,"real
+
+The article discusses the potential for conflict in Crimea, which aligns with historical and geopolitical tensions between Russia and Ukraine over the region. The evidence provided supports the claim that Crimea could become a focal point for significant events, given the political and military dynamics described.",breitbart.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which aligns with historical events and concerns expressed during the 2014 Ukrainian crisis. The evidence provided supports the claim that Crimea was a focal point of anxiety and potential conflict, given its strategic and political significance.",bramptonguardian.com,real,"real
+
+The article discusses the situation in Crimea during a period of political tension in Ukraine, which aligns with historical events and concerns about the region's status and the potential for conflict. The evidence provided supports the claim that Crimea could become a focal point for significant events due to its strategic and political importance.",dailystar.co.uk,real,real,real,real
+politifact15301,bitcoingrower.life,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact13283,politifact.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-3821132681,people.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact15256,theglobalheadlines.net,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact14384,nymag.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact1027,forbes.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-858818,usmagazine.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact15626,maga2020.us,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact114,govtrack.us,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact285,time.com,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-936878,time.com,real,themoscowtimes.com,fake,"fake
+
+The article contains inaccuracies, such as stating that Oprah Winfrey left early on a bus, which is not supported by the evidence provided. Additionally, the image shown is from a different event (the wedding of Prince William and Kate Middleton in 2011) rather than the wedding of Prince Harry and Meghan Markle in 2018. Therefore, the claim in this article is not entirely accurate.",breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,fake,"fake
+
+The article contains inaccuracies, such as stating that Oprah Winfrey left early on a bus, which is not supported by the evidence provided. Additionally, the Beckham's appearance is incorrectly referenced to a previous event (2011), not the 2018 wedding of Prince Harry and Meghan Markle. Therefore, the claim in the article is not entirely accurate based on the evidence provided."
+politifact4372,pbs.org,real,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,themoscowtimes.com,fake,fake,breitbart.com,fake,fake,bramptonguardian.com,fake,fake,dailystar.co.uk,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+politifact11072,foxnews.com,real,themoscowtimes.com,real,real,breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,themoscowtimes.com,fake,"fake
+
+The source provided, ""themoscowtimes.com,"" appears to be a news site about Moscow and Russia, which is an unlikely source for an article about Hailey Baldwin's fashion choices. Additionally, the evidence provided does not match the claimed source, and the content seems to be more aligned with fashion and entertainment news rather than Moscow Times' typical content. Therefore, the claim appears to be false or at least the source is not credible for this type of content.",breitbart.com,real,real,bramptonguardian.com,real,real,dailystar.co.uk,real,real,real,real

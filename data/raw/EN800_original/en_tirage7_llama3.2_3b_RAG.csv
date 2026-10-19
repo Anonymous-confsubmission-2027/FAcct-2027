@@ -1,0 +1,193 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,fake,news5cleveland.com,fake,fake,gawker.com,fake,fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14896,bluedotdaily.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact8085,realclearpolitics.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact8371,tampabay.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact6646,politifact.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact627,thecaucus.blogs.nytimes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact11899,washingtonpost.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15423,usbreakingnews.net,fake,sfgate.com,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,pagesix.com,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,news5cleveland.com,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,gawker.com,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?,indetermine,I cannot verify the claim that Obama paid FBI informant Stefan Halper $1 million to spy on Trump. Is there anything else I can help you with?
+politifact15379,thebreakingdawn.site,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact9107,wfpl.org,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15309,nrtonline.info,fake,sfgate.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,pagesix.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,news5cleveland.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,gawker.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?
+politifact11709,washingtonpost.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14862,ravinderbhalla.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-908446,people.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-875558,thedailybeast.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-886414,whowhatwear.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-855390,nydailynews.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15592,opreminfo.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact439,abcnews.go.com,real,sfgate.com,indetermine,"I cannot verify the claim based on the provided evidence. However, I can suggest some steps to verify the claim further. 
+
+To verify the claim, you can try the following:
+
+1. Check the official website of the Iraqi government or the Dohuk province to see if they have made any official statements about the case.
+2. Look for reputable news sources that have reported on the case and see if they have any information about the suspect or the investigation.
+3. Check social media and online news platforms to see if there are any updates or developments on the case.
+
+If you have any more information or context about the claim, I may be able to help you verify it further.",pagesix.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,news5cleveland.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,gawker.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,indetermine,"I cannot verify the claim in the article. However, I can tell you that without more information, it is difficult to say whether the claim is true or false. 
+
+If you provide more context or information about the article, I can try to help you verify the claim."
+politifact14376,dailyfeed.news,fake,sfgate.com,indetermine,I can't verify the claim as true. The article appears to be based on a false tweet that was debunked by PolitiFact and other sources.,pagesix.com,fake,"I can't verify the claim as true. The article appears to be based on a false claim and contains several red flags, including a parody website and a fake news story.",news5cleveland.com,indetermine,I can't verify the claim as true. The article appears to be based on a false tweet that was debunked by PolitiFact and other sources.,gawker.com,indetermine,"I can't verify the claim as stated in the article. The article appears to be based on a false claim, and the evidence provided suggests that the claim is a fabrication.",fake,"I can't verify that the article is true. The article appears to be based on a false claim and contains several red flags, including a parody website and a fake news story."
+gossipcop-846028,zerchoo.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-856933,rap-up.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15386,hotgazette.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-895969,time.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact8611,america.aljazeera.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-1773639736,metro.co.uk,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-532752162,usmagazine.com,fake,sfgate.com,real,real.,pagesix.com,real,real.,news5cleveland.com,real,real,gawker.com,real,Real.,real,real.
+politifact7511,thehill.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact6932,politifact.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact408,mtv.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14114,economist.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact674,legis.state.ak.us,real,sfgate.com,fake,Fake,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-2220709136,express.co.uk,fake,sfgate.com,fake,Fake.,pagesix.com,fake,Fake.,news5cleveland.com,real,Real.,gawker.com,fake,Fake.,fake,Fake.
+gossipcop-3401078624,newidea.com.au,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-898992,reuters.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact938,nytimes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-3433548691,dailymail.co.uk,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14310,quickening-spirit.com,fake,sfgate.com,indetermine,I cannot verify the claim as true. The article appears to be based on recycled parody and does not provide credible evidence to support the claim.,pagesix.com,indetermine,I cannot verify the claim as true. The article appears to be based on recycled parody and does not provide credible evidence to support the claim.,news5cleveland.com,indetermine,I cannot verify the claim as true. The article appears to be based on recycled parody and appears to be false. Is there anything else I can help you with?,gawker.com,indetermine,I cannot verify the claim as true. The article appears to be based on recycled parody and does not provide credible evidence to support the claim.,indetermine,I cannot verify that Fareed Zakaria called for the rape of white women. Is there anything else I can help you with?
+gossipcop-1599038586,inquisitr.com,fake,sfgate.com,indetermine,"I can't verify the claim in the article as true or false. The evidence provided appears to be from 2025 and 2026, while the article claims the information is from an unspecified date.",pagesix.com,indetermine,"I can't verify the claim in the article as true or false. The evidence provided appears to be from various news articles and websites, but it does not provide direct confirmation or denial of the claim. Without direct confirmation from a credible source, it is difficult to determine the accuracy of the claim.",news5cleveland.com,indetermine,I can't verify the claim that Kanye West doesn't work out with his personal trainer. Is there anything else I can help you with?,gawker.com,indetermine,"I can't verify the claim in the article as true or false. The evidence provided appears to be from 2025 and 2026, while the article claims the incident occurred recently, without specifying the exact date.",fake,Fake
+gossipcop-919774,nbc.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact1067,foxnews.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact13677,newsbreakshere.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+politifact15210,americatb.com,fake,sfgate.com,indetermine,"I cannot verify the claim as true or false without more information. The article appears to be based on outdated information, as the dates mentioned (2025, 2026) are in the future and may not reflect the current situation. I recommend checking with reputable news sources for the most up-to-date information on this topic.",pagesix.com,indetermine,"I cannot verify the claim as true or false without more information. The articles you provided appear to be from 2018, while the article you shared is from an unknown date in 2026. Can I help you with anything else?",news5cleveland.com,indetermine,"I cannot verify the claim as true or false without more information. The article appears to be based on outdated information, as the dates mentioned (2025, 2026) are in the past. I recommend checking with more recent sources for accurate information. Is there anything else I can help you with?",gawker.com,indetermine,"I cannot verify the claim as true or false without more information. The articles you provided appear to be from 2018, while the article you shared is from an unknown date. Can I help you with anything else?",indetermine,I cannot verify the claim as true or false without more information. The evidence provided appears to be outdated and may not reflect the current situation. I recommend checking with reputable news sources for the most up-to-date information on this topic.
+gossipcop-1968675605,thesun.co.uk,fake,sfgate.com,indetermine,I can't verify the claim that Bella Hadid flashed her underboob at Travis Scott's birthday bash.,pagesix.com,indetermine,I can't verify the claim based on the provided evidence.,news5cleveland.com,indetermine,I can't verify the claim that Bella Hadid flashed her underboob at Travis Scott's birthday bash. Is there anything else I can help you with?,gawker.com,indetermine,I can't verify the claim based on the provided evidence.,indetermine,I can't verify the claim based on the provided evidence.
+gossipcop-927338,ktvb.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact13905,usnnetwork.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake.,fake,Fake
+gossipcop-1026488145,ipopla.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,fake,gawker.com,fake,Fake,fake,Fake
+politifact13854,zimbabwe-today.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-901396,wstale.com,real,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-875236,mtv.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact939,nytimes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact13897,huzlers.com,fake,sfgate.com,fake,Fake.,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake.,gawker.com,fake,Fake.,fake,Fake.
+politifact15562,nytiwes.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-6857674423,hindustantimes.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14026,politicass.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-497081980,latimes.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-7190490486,usmagazine.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15606,thegoldwater.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-4514188480,townandcountrymag.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-942114,people.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-5382417683,news.com.au,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-7440482567,popsugar.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-3016533567,msn.com,fake,sfgate.com,fake,fake,pagesix.com,fake,fake,news5cleveland.com,fake,fake,gawker.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-4241531514,okmagazine.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-2723098494,mirror.co.uk,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14944,thehill.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-876260,rap-up.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14516,observeronline.news,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+politifact379,nytimes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-900207,dailymail.co.uk,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-5310842420,hellomagazine.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14855,www2.alabamavotes.gov,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-862435,people.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14815,helloforos.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+politifact15419,jumboreport.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake.,gawker.com,real,Real.,real,Real.
+gossipcop-929657,cosmopolitan.com,real,sfgate.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,pagesix.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,news5cleveland.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,gawker.com,indetermine,I cannot verify the claim based on the provided evidence. Is there anything else I can help you with?,indetermine,"I cannot verify the claim based on the provided evidence. However, I can tell you that the evidence appears to be from various websites that host nude content, including Kim Kardashian. 
+
+If you would like me to help with anything else, feel free to ask."
+politifact15048,conservativedailypost.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-9204805299,allthingsoneplace.me,fake,sfgate.com,indetermine,I cannot verify the claim in the article as true or false. Is there anything else I can help you with?,pagesix.com,indetermine,"I cannot verify the claim in the article as true or false. The article appears to be based on unverified rumors and speculation, and I couldn't find any credible sources to support the claims made about Camilla Parker Bowles' attitude towards Meghan Markle.",news5cleveland.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,gawker.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without more information. Is there anything else I can help you with?",indetermine,I cannot verify the claim in the article as true or false. Is there anything else I can help you with?
+politifact1770,huffingtonpost.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact98,nymag.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14511,msnbc.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact13775,beforeitsnews.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-6559744284,gobankingrates.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact348,pollingreport.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-5112442905,hollywoodlife.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-914034,movieweb.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact1454,msnbc.msn.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-915516,dailynews.news,real,sfgate.com,real,Real.,pagesix.com,real,real,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-1247336364,hollywoodlife.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-891912,people.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-877704,etonline.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact7293,kff.org,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact2128,abcnews.go.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14155,patriotcrier.com,fake,sfgate.com,indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. The article appears to be based on conspiracy theories and unverified claims, and I couldn't find any credible sources to support the assertion that James Comey knew Seth Rich was a WikiLeaks source and covered it up for Hillary Clinton.",pagesix.com,indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. The article appears to be based on conspiracy theories and unverified claims, and I couldn't find any credible sources to support the claim that James Comey knew Seth Rich was a WikiLeaks source and covered it up for Hillary Clinton.",news5cleveland.com,indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. However, I can provide an analysis of the evidence.
+
+The article claims that James Comey knew that Seth Rich, a Democratic National Committee staffer, was a WikiLeaks source and covered it up for Hillary Clinton. The evidence provided includes:
+
+* A Wikipedia article stating that Julian Assange knew that Rich was not his source for hacked party emails and was in active contact with his real sources in Russia's GRU.
+* A PolitiFact article debunking a conspiracy theory that Comey hid Rich's identity as a WikiLeaks source.
+* A PolitiFact article debunking a conspiracy theory that Comey covered up the source of leaked Democratic National Committee emails for Hillary Clinton.
+
+However, there is no credible evidence to support the claim that Comey knew that Rich was a WikiLeaks source and covered it up for Clinton. The PolitiFact articles mentioned above debunk the conspiracy theories, and there is no reliable source that suggests Comey was aware of Rich's involvement with WikiLeaks.
+
+Therefore, based on the available evidence, I would conclude that the claim in the article is likely ""fake"".",gawker.com,indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. However, I can provide an analysis of the evidence.
+
+The article claims that James Comey knew that Seth Rich, a Democratic National Committee staffer, was a WikiLeaks source and covered it up for Hillary Clinton. The evidence provided includes:
+
+* A Wikipedia article stating that Julian Assange knew that Rich was not his source for hacked party emails and was in active contact with his real sources in Russia's GRU.
+* A PolitiFact article debunking a conspiracy theory that Comey hid Rich's identity as a WikiLeaks source.
+* A PolitiFact article debunking a conspiracy theory that Comey covered up the source of leaked Democratic National Committee emails for Hillary Clinton.
+
+However, there is no credible evidence to support the claim that Comey knew Rich was a WikiLeaks source and covered it up for Clinton. The PolitiFact articles mentioned above debunk the conspiracy theories, and there is no reliable source that suggests Comey was aware of Rich's involvement with WikiLeaks.
+
+Therefore, based on the available evidence, I would say that the claim is ""fake"".",indetermine,"I can't verify the claim as ""real"" or ""fake"" without more context. However, I can provide an analysis of the evidence.
+
+The article claims that James Comey knew that Seth Rich, a murdered DNC staffer, was a WikiLeaks source and covered it up for Hillary Clinton. The evidence cited includes:
+
+* A Wikipedia article stating that Julian Assange knew that Rich was not his source for hacked party emails.
+* A PolitiFact article debunking a conspiracy theory that Comey hid Rich's identity as a WikiLeaks source.
+* A PolitiFact article debunking a conspiracy theory that Comey covered up the source of leaked Democratic National Committee emails for Hillary Clinton.
+
+However, there is no credible evidence to support the claim that Comey knew Rich was a WikiLeaks source and covered it up for Clinton. The PolitiFact articles cited debunk the conspiracy theories, and there is no reliable source that suggests Comey was aware of Rich's connection to WikiLeaks.
+
+Therefore, based on the available evidence, I would say that the claim is ""fake""."
+politifact1176,washingtonpost.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-918819,etonline.com,real,sfgate.com,real,Real.,pagesix.com,real,real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-3449648617,today.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-919535,perezhilton.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14859,polls.trendolizer.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15604,worldfactsftw.com,fake,sfgate.com,fake,Fake.,pagesix.com,fake,Fake.,news5cleveland.com,fake,Fake.,gawker.com,fake,Fake.,fake,Fake.
+gossipcop-894897,foxnews.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-7474271525,radaronline.com,fake,sfgate.com,fake,Fake.,pagesix.com,fake,Fake.,news5cleveland.com,fake,Fake.,gawker.com,fake,Fake.,fake,Fake
+gossipcop-3004058768,newsweek.com,fake,sfgate.com,fake,Fake.,pagesix.com,fake,Fake.,news5cleveland.com,fake,Fake.,gawker.com,fake,Fake.,fake,Fake.
+politifact14265,mainerepublicemailalert.com,fake,sfgate.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,pagesix.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,news5cleveland.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,gawker.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,indetermine,I cannot verify the claim as true or false without further investigation. Is there anything else I can help you with?
+gossipcop-3549119927,hollywoodlife.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+politifact13431,time.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15570,diamondandsilk.americandailynews.org,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake.,news5cleveland.com,fake,Fake,gawker.com,fake,Fake.,fake,Fake
+politifact14207,higherperspectives.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-910928,usmagazine.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-6159229395,variety.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact9576,blogs.rollcall.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14452,forfreedomworld.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-8882451342,refinery29.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-4908552205,dailymail.co.uk,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake.
+politifact1180,nytimes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-809485,instyle.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-874606,people.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-860551,today.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-1912691606,romper.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-943996,people.com,real,sfgate.com,fake,Fake,pagesix.com,real,Real.,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-897260,elle.com,real,sfgate.com,indetermine,"I can't verify the claim based on the provided evidence. The evidence appears to be from 2018 and 2025, but it does not provide any information about a specific date or event that matches the article.",pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,indetermine,"I can't verify the claim based on the provided evidence. The evidence appears to be from 2018 and 2025, but it doesn't provide any concrete information about a recent date night between Justin Bieber and Selena Gomez.",indetermine,I can't verify the claim in this article.
+politifact4433,fedupthebook.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-9576408647,wikinow.co,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14386,nbcnews.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-2986942414,dmgnews.com,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake.,news5cleveland.com,fake,Fake.,gawker.com,fake,Fake,fake,Fake
+gossipcop-898581,marriedbiography.com,real,sfgate.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the specific episode of WAGS LA or further information. Is there anything else I can help you with?",pagesix.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the specific episode of WAGS LA or further information. Is there anything else I can help you with?",news5cleveland.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the specific episode of WAGS LA or further information. However, I can tell you that the lack of evidence found on the web suggests that the claim may be unverified or unsubstantiated.",gawker.com,indetermine,"I cannot verify the claim as ""real"" or ""fake"" without access to the E! reality series WAGS LA and the specific episode in question. Is there anything else I can help you with?",indetermine,"I cannot verify the claim in this article. The article appears to be based on unverified information, and I couldn't find any evidence to support the claim that Barbie Blank confronted Sasha Gates about stealing an allegation on Nicole Williams' Bachelorette party."
+politifact8989,themoscowtimes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15301,bitcoingrower.life,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact13283,politifact.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-4507576256,okmagazine.com,fake,sfgate.com,fake,Fake,pagesix.com,real,Real.,news5cleveland.com,fake,Fake,gawker.com,real,Real.,real,Real.
+gossipcop-859786,variety.com,real,sfgate.com,real,Real.,pagesix.com,real,real,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-3821132681,people.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact15256,theglobalheadlines.net,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact14384,nymag.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact1027,forbes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-858818,usmagazine.com,real,sfgate.com,fake,Fake,pagesix.com,fake,Fake.,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+politifact15626,maga2020.us,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+politifact14621,observeronline.news,fake,sfgate.com,fake,Fake,pagesix.com,fake,Fake,news5cleveland.com,fake,Fake,gawker.com,fake,Fake,fake,Fake
+gossipcop-863739,variety.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact114,govtrack.us,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact285,time.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-936878,time.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact4372,pbs.org,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-4769457532,vanityfair.com,fake,sfgate.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,pagesix.com,indetermine,"I cannot verify the claim in the article. However, I can tell you that the article appears to be based on unverified sources and rumors, which are often unreliable and untrustworthy.",news5cleveland.com,fake,Fake,gawker.com,indetermine,I cannot verify the claim as true or false without more information. Is there anything else I can help you with?,fake,Fake
+gossipcop-3316804883,people.com,fake,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+politifact11072,foxnews.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.
+gossipcop-907021,buycelebrityclothes.com,real,sfgate.com,real,Real.,pagesix.com,real,Real.,news5cleveland.com,real,Real.,gawker.com,real,Real.,real,Real.

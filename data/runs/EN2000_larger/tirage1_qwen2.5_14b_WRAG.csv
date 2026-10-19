@@ -1,0 +1,299 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,fake,fake,real,real
+gossipcop-1812612510,instyle.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14896,bluedotdaily.com,fake,cnn.com,real,"real
+
+The article discusses the impact of the Tax Cuts and Jobs Act of 2018 on certain groups of taxpayers, particularly police officers, firefighters, and other first responders. The claim that these individuals will no longer be able to deduct certain job-related expenses is accurate based on the provisions of the tax bill. However, the tone and some of the language used in the article are quite biased and critical of the legislation and its proponents.",aljazeera.com,real,"real
+
+The article discusses the impact of the Tax Cuts and Jobs Act of 2018 on certain groups of taxpayers, particularly police officers, firefighters, and other first responders. The claim that these individuals will no longer be able to deduct certain job-related expenses is accurate based on the provisions of the tax bill. However, the tone and language used in the article are quite opinionated and critical of the legislation and its sponsors.",madison.com,real,"real
+
+The article discusses the impact of the Tax Cuts and Jobs Act of 2018 on certain groups of taxpayers, particularly focusing on the elimination of miscellaneous itemized deductions, which includes deductions for work-related expenses such as uniforms, dry cleaning, and union dues for police officers and other first responders. This information is factual and aligns with the content of the actual tax legislation. However, the tone and language used in the article are highly critical and biased against the legislation and its proponents, which is typical of opinion pieces or news articles with a clear political stance.",therightscoop.com,real,"real
+
+The article discusses the impact of the Tax Cuts and Jobs Act of 2018 on certain groups of taxpayers, particularly focusing on the elimination of miscellaneous itemized deductions, which includes deductions for work-related expenses such as uniforms, dry cleaning, and union dues for police officers and other first responders. This information is factual and can be verified through official tax legislation and reports from reputable news sources.",real,real
+politifact8085,realclearpolitics.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact8371,tampabay.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,fake,"fake
+
+The article contains several inaccuracies and misleading statements. For example, it incorrectly attributes the government shutdown to unreasonable behavior by President Obama and Senate Majority Leader Harry Reid without acknowledging the role of the Republican-controlled House in refusing to fund the government unless Obamacare was defunded or delayed. Additionally, the claim that shutting down the government would have an impact on Obamacare was a Republican strategy, but the article suggests that the failure of this strategy is due to Democratic inaction, which is not accurate."
+politifact6646,politifact.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,"real
+
+The article discusses a political debate about Medicare reform and the claims made by Stephanie Cutter regarding Paul Ryan's stance on Medicare cuts. The context provided is factual and aligns with the political discourse during that period. Therefore, the claim in the article is real.",real,"real
+
+The article discusses a political debate about Medicare reform and the claims made by both sides regarding cuts to Medicare. Stephanie Cutter's statement is part of the political discourse and is factually correct in the context that Paul Ryan's budget plans did include the same $700 billion in Medicare savings as the Affordable Care Act (ACA), although the methods and impacts of these savings differ significantly between the two plans. Therefore, the claim is real."
+politifact627,thecaucus.blogs.nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact11899,washingtonpost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15309,nrtonline.info,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14862,ravinderbhalla.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-908446,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-855390,nydailynews.com,real,cnn.com,fake,"fake
+
+The provided text does not match the title and seems to be unrelated to the topic mentioned in the title, which is about a 'Bachelorette' contestant making a transphobic comment. The text provided talks about engagement, which does not align with the title's claim about a transphobic comment. Therefore, the claim in the article as described in the text provided appears to be fake.",aljazeera.com,fake,"fake
+
+The provided text does not match the title and seems to be unrelated to the topic of a 'Bachelorette' contestant making a transphobic comment. The text mentions engagement news which does not connect to the title's claim about a transphobic comment. Therefore, this appears to be fake in the context of verifying the claim made in the title.",madison.com,fake,"fake
+
+The provided text does not match the title of the article. The title suggests that there is a discussion about a transphobic comment made by a contestant on ""The Bachelorette,"" while the text discusses engagement news which seems unrelated to the title. Therefore, the claim in the article as presented appears to be fake or at least misleading due to the mismatch between the title and the content.",therightscoop.com,fake,"fake
+
+The provided text does not match the title and seems to be unrelated to the topic of a 'Bachelorette' contestant making a transphobic comment. The text mentions an engagement which does not connect to the issue of transphobia or a specific contestant's comment on the show. Therefore, the claim appears to be false based on the given information.",fake,fake
+politifact15592,opreminfo.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact439,abcnews.go.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,"fake
+
+The title and text provided do not match the source mentioned (madison.com). The title suggests it is from ABC News, but the content description does not align with a typical ABC News article format or content. Additionally, the URL in the title is incorrect and does not lead to a valid ABC News page. Therefore, this appears to be a fabricated or misleading representation of a news article.",therightscoop.com,fake,fake,real,real
+politifact14376,dailyfeed.news,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-856933,rap-up.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15386,hotgazette.com,fake,cnn.com,real,"real
+
+The article discusses Rudy Giuliani's resignation from his law firm, Greenberg Traurig, to focus on his work for President Trump. This aligns with known events from the time period discussed, making the claim appear to be based on real news. However, the tone and some phrasing, such as ""throwaway lawyer,"" suggest it may be an opinion piece or a summary with a particular bias. Despite this, the factual claims about Giuliani's resignation are likely accurate based on the context provided.",aljazeera.com,real,"real
+
+The article discusses Rudy Giuliani's resignation from his law firm, Greenberg Traurig, to focus on his work for former President Donald Trump. This aligns with known events and public statements from the time. However, the tone and some specific phrasing suggest it might be an opinion piece or a summary with a particular perspective. Nonetheless, the factual claims about Giuliani's resignation are accurate based on public records and statements from the time.",madison.com,real,"real
+
+The article discusses Rudy Giuliani's resignation from his law firm, Greenberg Traurig, to focus on his work for President Trump. This aligns with known events from the time period described. However, the tone and some specific phrasing suggest it might be from a more opinionated or satirical source rather than a strictly factual news report. Despite this, the core claims about Giuliani's resignation are based on real events.",therightscoop.com,real,"real
+
+The article discusses Rudy Giuliani's resignation from his law firm, Greenberg Traurig, to focus on his work for President Trump. This information aligns with public events and statements made at the time regarding Giuliani's involvement in the Trump legal team. However, the tone and framing of the article suggest a bias against Giuliani and Trump, which should be noted when evaluating its credibility.",fake,"fake
+
+The article contains inaccuracies and misleading information. For example, John Dowd did not contradict Trump's story regarding the hush payment to Stormy Daniels; rather, it was Rudy Giuliani who made statements that contradicted Trump's narrative. Additionally, the claim that Trump is desperate enough to need Rudy Giuliani as a ""throwaway lawyer"" is an opinion and not a factual statement. The article also misrepresents the nature of Giuliani's involvement and his resignation from his law firm, suggesting a narrative that is not supported by the facts."
+gossipcop-895969,time.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact8611,america.aljazeera.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-1773639736,metro.co.uk,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact7511,thehill.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact6932,politifact.com,real,cnn.com,real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's stance on coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the Obama campaign's claim that Romney had previously condemned coal-fired plants as harmful to public health. This information is based on historical records and statements, making the claim real.",aljazeera.com,real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's past statements about coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the Obama campaign's claim that Romney once condemned coal-fired plants as killers. This information is based on historical records and public statements, making the claim real.",madison.com,real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's past statements about coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the Obama campaign's claim. This information is based on historical records and public statements, making the claim verifiable and real.",therightscoop.com,real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's stance on coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the Obama campaign's claim that Romney had previously condemned coal-fired plants as harmful to public health. This information is based on historical records and public statements, making the claim verifiable and real.",real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's stance on coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the claim that he once condemned coal-fired plants as killers. This information is based on historical records and is considered factual. Therefore, the claim is real."
+politifact408,mtv.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14114,economist.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,indetermine,"fake
+
+The provided text does not match any known transcript of an interview with Donald Trump that includes the exact wording and context given. Additionally, the format and content of the text suggest it is a fabricated or fictional representation rather than an accurate transcript of a real interview. The abrupt ending and the inclusion of promotional text (""Get our daily newsletter"") further indicate that this is not a genuine transcript."
+politifact674,legis.state.ak.us,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-2220709136,express.co.uk,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-3401078624,newidea.com.au,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact938,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14310,quickening-spirit.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact1067,foxnews.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact13677,newsbreakshere.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact13905,usnnetwork.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,cnn.com,real,real,aljazeera.com,real,"real
+
+The article appears to be a legitimate piece from WAGS Atlanta, a reality television show, discussing Kaylin Jurrjens, who is the wife of former professional baseball player Jair Jurrjens. The mention of her being a former Miss Georgia USA and her husband's lengthy professional baseball career aligns with factual information available about them. However, the claim about their 11 bathrooms seems to be a sensationalized detail often used in reality TV show teasers or articles to attract viewership or readership.",madison.com,real,"real
+
+The article appears to be about a reality TV show called WAGS Atlanta, featuring Kaylin Jurrjens, who is described as a former Miss Georgia USA, and her husband Jair (J.J.) Jurrjens, who has a career in professional baseball. The content seems to be genuine reality TV show promotional material.",therightscoop.com,real,"real
+
+The article appears to be about a reality TV show called ""WAGS Atlanta"" and mentions Kaylin Jurrjens, who was Miss Georgia USA, and her husband Jair (J.J.) Jurrjens, who has had a career in professional baseball. The claim seems to be based on factual information about a reality TV show and its participants, so it is ""real"". However, the specific details about the number of bathrooms or the exact content of the clip would need to be verified against official sources for complete accuracy.",real,real
+gossipcop-875236,mtv.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact939,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact13897,huzlers.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,fake,"fake
+
+The article appears to be a mix of accurate and inaccurate information, but the source and format suggest it's not a legitimate news article. The title and source indicate it's supposed to be from ""madison.com"" but the content seems to be a mix-up with another news source, likely ""New York"" as mentioned in the title. Additionally, the format and phrasing are not consistent with professional journalism. Former President George H.W. Bush did pass away in 2018, but the details provided in this article do not align with the accurate reports of his death. Therefore, based on the inconsistencies and the format, the claim in this article is ""fake"".",therightscoop.com,fake,"fake
+
+Note: The provided text appears to be a mix of accurate and inaccurate information, but the source and format suggest it is not a reliable news article. The actual death of George H.W. Bush occurred on November 30, 2018, and the details provided in the text do not align with the factual reporting of his death. The article seems to be a fabricated or outdated piece.",real,real
+gossipcop-6857674423,hindustantimes.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14026,politicass.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,cnn.com,fake,"fake
+
+The provided text does not match the title and seems to be discussing the Grammy nominations for the rap categories, which is not related to Taylor Swift being shut out from the top 2018 Grammy categories as suggested by the title. Therefore, the claim in the article as presented is not true based on the given text.",aljazeera.com,fake,"fake
+
+The provided text does not match the title and seems to be discussing the Grammy nominations for rap categories rather than explaining why Taylor Swift was shut out from the top 2018 Grammy categories. Therefore, the claim in the article as suggested by the title does not align with the content provided, making it appear as a mismatch or fake context.",madison.com,fake,"fake
+
+The provided text does not match the title and description given. The title and description suggest the article is about Taylor Swift being shut out from the top 2018 Grammy categories, but the text provided is about Kendrick Lamar's potential sweep of the rap Grammy categories. Therefore, the claim in the article as described does not match the content provided, making it ""fake"".",therightscoop.com,fake,"fake
+
+The provided text does not match the title or the claim made in the title. The title suggests an explanation for Taylor Swift being shut out from the top 2018 Grammy categories, but the text provided discusses Kendrick Lamar's potential sweep of the rap Grammy categories, with no mention of Taylor Swift or her Grammy nominations. Therefore, the claim in the article as presented is not true to its title and appears to be misleading or incorrect in context.",fake,"fake
+
+The article text does not match the title. The title suggests an explanation for why Taylor Swift was shut out from the top 2018 Grammy categories, but the text discusses Kendrick Lamar's potential sweep of the rap Grammy categories. There is no mention of Taylor Swift or her Grammy nominations in the provided text."
+gossipcop-7190490486,usmagazine.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15606,thegoldwater.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-942114,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,fake,"fake
+
+The article appears to be a mix of information about Jennifer Lawrence's film ""Mother!"" and a fabricated quote where she attributes the recent hurricanes to ""Mother Nature’s rage and wrath"" directed at Donald Trump's election. This kind of sensationalized statement is not typical of the way celebrities generally address such serious issues, and it seems to be an exaggeration or misrepresentation of what Jennifer Lawrence might have actually said in an interview. Additionally, attributing natural disasters to political outcomes is not a scientifically supported viewpoint and is unlikely to be something a professional actress would publicly claim.",fake,"fake
+
+The article mixes up two different topics: the plot summary of the movie ""Mother!"" and Jennifer Lawrence's comments about hurricanes and climate change. The first paragraph is a plot summary for the movie, while the rest of the text discusses Lawrence's comments on political and environmental issues. The claim that Jennifer Lawrence suggested hurricanes were signs of ""Mother Nature’s rage and wrath"" at America for electing Donald Trump is not a direct quote and seems to be an interpretation or exaggeration of her actual comments. The article also abruptly ends without completing Lawrence's quote, which suggests it might not be a full or accurate representation of the interview."
+gossipcop-7440482567,popsugar.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3016533567,msn.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,cnn.com,indetermine,"fake
+
+The article contains inaccuracies and speculative statements about Meghan Markle's Instagram account and her behavior before and after joining the Royal Family. It also includes a factual error, stating Meghan's real name is Rachel, which is incorrect as her full name is actually Meghan Markle (née Markle).",aljazeera.com,real,"real
+
+The article discusses the transformation of Meghan Markle's Instagram account before and after her engagement and marriage to Prince Harry. This is a factual account based on public observations and media reports, making it real. However, the tone and some of the details are speculative and somewhat exaggerated for entertainment value.",madison.com,fake,"fake
+
+The article contains inaccuracies and sensationalist claims about Meghan Markle's Instagram account and her behavior before and after joining the Royal Family. It includes speculative and exaggerated statements that are not supported by factual evidence.",therightscoop.com,fake,"fake
+
+The article contains inaccuracies and sensationalist claims about Meghan Markle's Instagram account and her behavior before and after joining the royal family. It also includes speculative and exaggerated statements that are not supported by factual evidence.",fake,"fake
+
+The article contains inaccuracies and sensationalist claims about Meghan Markle's Instagram account and her behavior before and after joining the royal family. It also includes speculative and exaggerated statements that are not supported by factual evidence."
+politifact14944,thehill.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-876260,rap-up.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,fake,"fake
+
+The article contains inaccuracies and misleading information. The 2017 MTV Video Music Awards did not take place on August 27; it was held on August 27, 2017, but the year is correctly stated as 2017 in the article. However, the main issue is that the article suggests Remy Ma and Nicki Minaj reignited their feud at the VMAs, but there is no widely reported evidence of a direct confrontation or interaction between the two at the event. Additionally, the specific details about Remy Ma teasing a segment with Terrence J and the lyrics from ""Swish Swish"" are not supported by reliable sources. Therefore, the claim in the article is not entirely accurate and can be considered fake.",therightscoop.com,real,real,fake,"fake
+
+The article contains inaccuracies and misleading information. The 2017 MTV Video Music Awards did not take place on August 27; it was held on August 27, 2017, but the year is correctly stated as 2017 in the article. However, the main issue is that there is no widely reported evidence of Remy Ma and Nicki Minaj reigniting their feud at the 2017 VMAs as described. The article suggests specific interactions and performances that did not occur as stated."
+politifact14516,observeronline.news,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,cnn.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in a spy movie. Pitt and Jolie dated and then married after both were separated from their previous spouses. There was no spy movie they starred in together.",aljazeera.com,fake,"fake
+
+The article contains inaccuracies and misleading information. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in a spy movie. Pitt and Jolie dated after they met on the set of ""Mr. & Mrs. Smith,"" not a spy movie together. Additionally, the claim that they shared six children is true, but the context provided about their relationship timeline is incorrect.",madison.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in ""Mr. & Mrs. Smith"" (where he played a spy). He separated from Jennifer Aniston in 2005, shortly before the release of ""Mr. & Mrs. Smith,"" and began dating Angelina Jolie during the filming of the movie. They were not married until 2014, and their relationship was not concurrent with Brad Pitt's marriage to Jennifer Aniston.",therightscoop.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie. He dated and later married Angelina Jolie after his divorce from Jennifer Aniston.",fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie. He dated and later married Angelina Jolie after his divorce from Jennifer Aniston."
+politifact14855,www2.alabamavotes.gov,fake,cnn.com,fake,"fake
+
+The provided text is too brief and lacks context to be a full article from cnn.com about Alabama's Secretary of State. It appears to be a generic election notice and does not contain specific information or reporting that would be expected in a news article from a reputable source like CNN. Therefore, based on the limited information given, it seems unlikely to be a genuine article from CNN.",aljazeera.com,fake,"fake
+
+The provided text is too brief and lacks context to be a full article from a reputable source like Al Jazeera. The content appears to be a generic election notice and does not match the title ""Alabama Secretary of State,"" which suggests the text might be incorrectly attributed or the source information is incomplete. Therefore, based on the given information, the claim seems to be false.",madison.com,fake,"fake
+
+The title and content do not match. The title mentions ""Alabama Secretary of State,"" but the text is a generic statement about polls closing and election results being updated, which does not specifically relate to the Alabama Secretary of State. This mismatch suggests the article might be fake or at least improperly titled.",therightscoop.com,real,real,real,real
+gossipcop-862435,people.com,real,cnn.com,fake,"fake
+
+The article text does not match the title. The title suggests an article about celebrities who have used gestational surrogates, but the text is specifically about Andy Cohen's personal announcement. The text does not provide information about other celebrities using surrogates, making it inconsistent with the title.",aljazeera.com,indetermine,"fake
+
+The article appears to be a fabricated or altered version of a real event. The source article from Al Jazeera does not exist as described, and the quote and context provided do not match any known public statements by Andy Cohen or any other celebrity. The phrasing and details suggest a mix-up or fabrication.",madison.com,fake,"fake
+
+The article text does not match the title. The title suggests an article about multiple celebrities who have used gestational surrogates, but the text is focused on one specific celebrity, Andy Cohen, and does not mention other celebrities. Additionally, the article text does not provide a comprehensive list or discussion of celebrities who have used surrogates as the title suggests. Therefore, the claim in the article does not align with its title, making it seem like the article is fabricated or misleading in its representation.",therightscoop.com,fake,"fake
+
+The article appears to be fabricated or at least contains inaccuracies. Andy Cohen, the host of ""Watch What Happens Live,"" is openly gay and has never expressed a desire to become a biological father. Additionally, the article does not accurately reflect any known public statements or announcements made by Andy Cohen regarding becoming a father through surrogacy. Therefore, the claim in this article is not supported by reliable sources and seems to be false.",fake,"fake
+
+The article mentions an episode of Bravo’s ""Watch What Happens Live"" where the executive producer and host, who is 50 years old, reveals he is expecting his first child via surrogate. However, the executive producer and host of ""Watch What Happens Live"" is actually Andy Cohen, who is known for discussing his personal life on the show, but there is no public record of him using a surrogate to have a child. The article seems to be mixing up details or creating a fictional scenario. Therefore, the claim in this article is not supported by known facts and appears to be fake."
+politifact14815,helloforos.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact15048,conservativedailypost.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact98,nymag.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14511,msnbc.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact13775,beforeitsnews.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact348,pollingreport.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,cnn.com,real,"real
+
+The article appears to be a typical celebrity gossip piece, which is common on entertainment news websites like CNN's entertainment section or other similar sites. While the accuracy of such claims can often be questionable, the format and content of the article are consistent with real celebrity news reporting. Therefore, based on the information provided, it seems to be a real article. However, the accuracy of the specific claims about Kylie Jenner's personal life and pregnancy is not verifiable here.",aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-914034,movieweb.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,fake,fake
+politifact1454,msnbc.msn.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,real,real
+gossipcop-915516,dailynews.news,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-877704,etonline.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact7293,kff.org,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact2128,abcnews.go.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-918819,etonline.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,cnn.com,fake,"fake
+
+The text provided does not contain the actual content of the article titled ""Alabama State Police Arrest 3 Poll Workers In Birmingham"". Instead, it appears to be information about Trendolizer™, a tool that tracks trending content on the internet. Therefore, the claim in the article cannot be verified from the given text, suggesting that the provided text is not the actual article content.",aljazeera.com,fake,"fake
+
+The provided text does not contain an article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the title is not supported by the given text, making it a fake claim based on the information provided.",madison.com,fake,"fake
+
+The provided text does not contain an article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the title is not supported by the given text, making it a fake claim based on the information provided.",therightscoop.com,fake,"fake
+
+The provided text does not contain an article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the title is not supported by the given text, and there is no actual article content to verify the claim's truthfulness.",fake,fake
+politifact15604,worldfactsftw.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,"real
+
+However, it's important to note that while the article is based on a real NASA study, the tone and some of the details are exaggerated for effect. The study is indeed real, but the conditions and compensation are part of a scientific research program, not a casual job opportunity.",real,real
+gossipcop-894897,foxnews.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14265,mainerepublicemailalert.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact13431,time.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact9576,blogs.rollcall.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,cnn.com,fake,"fake
+
+The provided text does not match the title and source given. The title mentions Selena Gomez and her new song possibly being about Justin Bieber or The Weeknd, while the text discusses Eminem's surprise album ""Kamikaze"" and does not relate to Selena Gomez or the mentioned artists. Therefore, the claim appears to be false as it seems the text and title do not correspond to the same article.",aljazeera.com,fake,"fake
+
+The provided text does not match the title and source given. The title and text are about different topics (Selena Gomez's song and Eminem's album, respectively), and the text does not seem to be from Al Jazeera or related to the title's content. Therefore, the claim appears to be false or the text is not correctly associated with the provided source and title.",madison.com,fake,"fake
+
+The provided text does not match the title and seems to be unrelated. The title mentions Selena Gomez and her new song, while the text discusses Eminem's album ""Kamikaze"". There is no mention of Selena Gomez or Justin Bieber/The Weeknd in the given text, making the connection between the title and the content unclear and likely incorrect. Additionally, there is no credible information suggesting that the Secret Service visited Eminem after the release of his album. Therefore, the claim in the article appears to be fake.",therightscoop.com,fake,fake,fake,fake
+gossipcop-4908552205,dailymail.co.uk,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-809485,instyle.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-874606,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-860551,today.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-943996,people.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-897260,elle.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,fake,fake,real,real
+politifact4433,fedupthebook.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,cnn.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which is a factual historical context. The events and statements described align with known historical and political developments in the region.",aljazeera.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which is a factual historical context. The events and statements described align with known historical and political developments, including the presence of Russian military in Crimea and the sentiments of some Crimean residents leaning towards Russia. However, the personal anecdote about the author's birth certificate is a specific detail that would need verification, but does not necessarily invalidate the overall factual nature of the article's claims about the political situation.",madison.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which is a factual historical context. The events and claims made in the article align with known historical and political developments, including the presence of Russian military in Crimea and the sentiments of some Crimean residents leaning towards Russia. However, the personal anecdote about the author's birth certificate is specific and would require verification against official records, but does not inherently contradict the factual nature of the article's main claims.",therightscoop.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which is a factual historical context. However, the specific claims about demonstrators' actions and the strategic positioning of Russian troops should be verified against official sources for complete accuracy, but the overall narrative aligns with known historical and political events.",real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which aligns with historical and geopolitical events. The content reflects the complex relationship between Russia and Ukraine over the control of Crimea, including the presence of Russian military forces and the sentiments of the local population. However, for a more precise verification, one would need to cross-reference with reliable news sources and official statements from the time the article was written."
+politifact15301,bitcoingrower.life,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15256,theglobalheadlines.net,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact1027,forbes.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,cnn.com,real,real,aljazeera.com,indetermine,"fake
+
+The article appears to be a fabricated version of a real event, as it includes a call to action to sign up for a newsletter from Us Weekly, which is not aligned with the source mentioned (Al Jazeera). Additionally, the format and content of the article seem inconsistent with Al Jazeera's typical journalistic style. Therefore, the claim is likely false due to the inclusion of promotional content and the mismatched source.",madison.com,real,real,therightscoop.com,real,real,real,real
+politifact15626,maga2020.us,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact114,govtrack.us,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact285,time.com,real,cnn.com,fake,"fake
+
+The text provided does not match the title ""AUTOS: The Dinosaur Hunter"" and does not seem to be related to the content suggested by the title. The text appears to be a generic warning about using the ""Remember me"" feature on a website, likely TIME.com, and does not pertain to an article about dinosaurs or automobiles. Therefore, the claim that this text is an article about a dinosaur hunter in the context of autos is false.",aljazeera.com,fake,fake,madison.com,fake,"fake
+
+The text provided does not match the title and context of the article mentioned (""AUTOS: The Dinosaur Hunter""). The text appears to be a generic warning about using the ""Remember me"" feature on a website, which does not relate to the given title or suggest it is an autos or dinosaur-related article. Therefore, the claim in the article as presented is fake.",therightscoop.com,fake,"fake
+
+The provided text does not match the title ""AUTOS: The Dinosaur Hunter"" and seems to be unrelated information about a website's login feature and privacy policy. The content appears to be a snippet from a different context, likely a disclaimer or instruction on a website, and does not correspond to an article about ""The Dinosaur Hunter"" related to autos. Therefore, the claim in the article as presented is fake.",fake,fake
+gossipcop-936878,time.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,fake,"fake
+
+The article contains inaccuracies, such as mentioning Victoria and David Beckham's appearance at Westminster Abbey on April 29, 2011, which is unrelated to the 2018 wedding of Prince Harry and Meghan Markle. Additionally, the text cuts off at ""Tom Ha"" without completing the sentence, suggesting it might be incomplete or incorrectly formatted."
+politifact4372,pbs.org,real,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,cnn.com,fake,fake,aljazeera.com,fake,fake,madison.com,fake,fake,therightscoop.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+politifact11072,foxnews.com,real,cnn.com,real,real,aljazeera.com,real,real,madison.com,real,real,therightscoop.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,cnn.com,real,real,aljazeera.com,fake,fake,madison.com,real,real,therightscoop.com,fake,fake,fake,fake

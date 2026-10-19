@@ -1,0 +1,191 @@
+modele,domaine,reponse,reponse_brute
+qwen2.5:7b,fool.com,"Knowledge: yes
+Description: Fool.com is an online financial media company that provides stock market information, investment advice, and financial news.
+Reliability: uncertain","Knowledge: yes
+Description: Fool.com is an online financial media company that provides stock market information, investment advice, and financial news.
+Reliability: uncertain"
+qwen2.5:7b,buzzfeednews.com,"Knowledge: yes
+Description: Buzzfeednews.com is a section of BuzzFeed that focuses on investigative journalism and news reporting.
+Reliability: uncertain","Knowledge: yes
+Description: Buzzfeednews.com is a section of BuzzFeed that focuses on investigative journalism and news reporting.
+Reliability: uncertain"
+qwen2.5:7b,latimes.com,"Knowledge: yes
+Description: Latimes.com is the online version of the Los Angeles Times, a major American newspaper.
+Reliability: reliable","Knowledge: yes
+Description: Latimes.com is the online version of the Los Angeles Times, a major American newspaper.
+Reliability: reliable"
+qwen2.5:7b,statista.com,"Knowledge: yes
+Description: Statista is a statistical database that provides market and consumer data, business and economic data, and demographic data.
+Reliability: reliable","Knowledge: yes
+Description: Statista is a statistical database that provides market and consumer data, business and economic data, and demographic data.
+Reliability: reliable"
+qwen2.5:7b,blogspot.com,"Knowledge: yes
+Description: Blogspot.com is a website owned by Google that allows users to create and publish blogs.
+Reliability: uncertain","Knowledge: yes
+Description: Blogspot.com is a website owned by Google that allows users to create and publish blogs.
+Reliability: uncertain"
+qwen2.5:7b,bgr.com,"Knowledge: yes
+Description: BGR.com is an online technology and lifestyle news website.
+Reliability: uncertain","Knowledge: yes
+Description: BGR.com is an online technology and lifestyle news website.
+Reliability: uncertain"
+qwen2.5:7b,cbs8.com,"Knowledge: uncertain
+Description: none
+Reliability: unknown","Knowledge: uncertain
+Description: none
+Reliability: unknown"
+qwen2.5:7b,theweek.co.uk,"Knowledge: yes
+Description: TheWeek.co.uk is a British online news and current affairs website.
+Reliability: uncertain","Knowledge: yes
+Description: TheWeek.co.uk is a British online news and current affairs website.
+Reliability: uncertain"
+qwen2.5:7b,ibtimes.co.in,"Knowledge: uncertain
+Description: none
+Reliability: unknown","Knowledge: uncertain
+Description: none
+Reliability: unknown"
+qwen2.5:7b,metro.news,"Knowledge: yes
+Description: Metro.news is an online news aggregator that curates and distributes news articles from various sources.
+Reliability: uncertain","Knowledge: yes
+Description: Metro.news is an online news aggregator that curates and distributes news articles from various sources.
+Reliability: uncertain"
+qwen2.5:7b,dailybuzzlive.com,"Knowledge: uncertain
+Description: none
+Reliability: unknown","Knowledge: uncertain
+Description: none
+Reliability: unknown"
+qwen2.5:7b,cnn.com,"Knowledge: yes
+Description: CNN.com is a well-known American news website owned by CNN, providing up-to-date news and information on various topics.
+Reliability: reliable","Knowledge: yes
+Description: CNN.com is a well-known American news website owned by CNN, providing up-to-date news and information on various topics.
+Reliability: reliable"
+qwen2.5:7b,aljazeera.com,"Knowledge: yes
+Description: Aljazeera.com is an English-language website operated by Al Jazeera, a Qatari media organization known for providing news and current affairs coverage.
+Reliability: uncertain","Knowledge: yes
+Description: Aljazeera.com is an English-language website operated by Al Jazeera, a Qatari media organization known for providing news and current affairs coverage.
+Reliability: uncertain"
+qwen2.5:7b,madison.com,"Knowledge: uncertain
+Description: none
+Reliability: unknown","Knowledge: uncertain
+Description: none
+Reliability: unknown"
+qwen2.5:7b,therightscoop.com,"Knowledge: yes
+Description: TheRightscoop.com is a website that provides news and information related to legal and intellectual property issues.
+Reliability: uncertain","Knowledge: yes
+Description: TheRightscoop.com is a website that provides news and information related to legal and intellectual property issues.
+Reliability: uncertain"
+qwen2.5:7b,variety.com,"Knowledge: yes
+Description: Variety.com is an online publication that covers news, features, and analysis in the entertainment industry, focusing on film, television, and theater.
+Reliability: reliable","Knowledge: yes
+Description: Variety.com is an online publication that covers news, features, and analysis in the entertainment industry, focusing on film, television, and theater.
+Reliability: reliable"
+qwen2.5:7b,dailymail.co.uk,"Knowledge: yes
+Description: DailyMail.co.uk is a British online news website owned by Daily Mail and General Trust, known for its focus on celebrity news, politics, and lifestyle.
+Reliability: uncertain","Knowledge: yes
+Description: DailyMail.co.uk is a British online news website owned by Daily Mail and General Trust, known for its focus on celebrity news, politics, and lifestyle.
+Reliability: uncertain"
+qwen2.5:7b,app.com,"Knowledge: no
+Description: none
+Reliability: unknown","Knowledge: no
+Description: none
+Reliability: unknown"
+qwen2.5:7b,100percentfedup.com,"Knowledge: yes
+Description: 100percentfedup.com is a website that claims to provide information and resources related to the Federal Reserve System and monetary policy.
+Reliability: uncertain","Knowledge: yes
+Description: 100percentfedup.com is a website that claims to provide information and resources related to the Federal Reserve System and monetary policy.
+Reliability: uncertain"
+qwen2.5:7b,chicagotribune.com,"Knowledge: yes
+Description: chicagotribune.com is the website of the Chicago Tribune, a major newspaper serving the Chicago metropolitan area.
+Reliability: reliable","Knowledge: yes
+Description: chicagotribune.com is the website of the Chicago Tribune, a major newspaper serving the Chicago metropolitan area.
+Reliability: reliable"
+qwen2.5:7b,express.co.uk,"Knowledge: yes
+Description: Express.co.uk is a British online news and media website owned by Evolving Media Ltd.
+Reliability: uncertain","Knowledge: yes
+Description: Express.co.uk is a British online news and media website owned by Evolving Media Ltd.
+Reliability: uncertain"
+qwen2.5:7b,amny.com,"Knowledge: yes
+Description: AMNY.com is an online news website serving the New York metropolitan area, focusing on local news and events.
+Reliability: uncertain","Knowledge: yes
+Description: AMNY.com is an online news website serving the New York metropolitan area, focusing on local news and events.
+Reliability: uncertain"
+qwen2.5:7b,thecommonsenseshow.com,"Knowledge: yes
+Description: TheCommonSenseShow.com is a website that hosts a podcast offering discussions and interviews on various topics, aiming to provide common sense perspectives.
+Reliability: uncertain","Knowledge: yes
+Description: TheCommonSenseShow.com is a website that hosts a podcast offering discussions and interviews on various topics, aiming to provide common sense perspectives.
+Reliability: uncertain"
+qwen2.5:7b,themoscowtimes.com,"Knowledge: yes
+Description: Themoscowtimes.com is an English-language news website that covers news and events in Russia and the former Soviet republics.
+Reliability: uncertain","Knowledge: yes
+Description: Themoscowtimes.com is an English-language news website that covers news and events in Russia and the former Soviet republics.
+Reliability: uncertain"
+qwen2.5:7b,breitbart.com,"Knowledge: yes
+Description: Breitbart.com is an American online news website known for conservative viewpoints and controversial content.
+Reliability: uncertain","Knowledge: yes
+Description: Breitbart.com is an American online news website known for conservative viewpoints and controversial content.
+Reliability: uncertain"
+qwen2.5:7b,bramptonguardian.com,"Knowledge: no
+Description: none
+Reliability: unknown","Knowledge: no
+Description: none
+Reliability: unknown"
+qwen2.5:7b,dailystar.co.uk,"Knowledge: yes
+Description: DailyStar.co.uk is an online news and entertainment website.
+Reliability: uncertain","Knowledge: yes
+Description: DailyStar.co.uk is an online news and entertainment website.
+Reliability: uncertain"
+qwen2.5:7b,rte.ie,"Knowledge: yes
+Description: RTE.ie is the online portal of Raidió Teilifís Éireann (RTÉ), Ireland's national broadcaster.
+Reliability: reliable","Knowledge: yes
+Description: RTE.ie is the online portal of Raidió Teilifís Éireann (RTÉ), Ireland's national broadcaster.
+Reliability: reliable"
+qwen2.5:7b,thesun.co.uk,"Knowledge: yes
+Description: TheSun.co.uk is a British online news website owned by News UK, known for its tabloid-style reporting.
+Reliability: uncertain","Knowledge: yes
+Description: TheSun.co.uk is a British online news website owned by News UK, known for its tabloid-style reporting.
+Reliability: uncertain"
+qwen2.5:7b,fresnobee.com,"Knowledge: yes
+Description: FresnoBee.com is an online news source covering local news, politics, and events in Fresno, California.
+Reliability: uncertain","Knowledge: yes
+Description: FresnoBee.com is an online news source covering local news, politics, and events in Fresno, California.
+Reliability: uncertain"
+qwen2.5:7b,wegotthiscovered.com,"Knowledge: yes
+Description: WeGotThisCovered is a media website that provides entertainment news, reviews, and commentary.
+Reliability: uncertain","Knowledge: yes
+Description: WeGotThisCovered is a media website that provides entertainment news, reviews, and commentary.
+Reliability: uncertain"
+qwen2.5:7b,ajc.com,"Knowledge: uncertain
+Description: none
+Reliability: unknown","Knowledge: uncertain
+Description: none
+Reliability: unknown"
+qwen2.5:7b,gaytimes.co.uk,"Knowledge: yes
+Description: Gay Times is a UK-based LGBTQ+ magazine and website that covers news, culture, and lifestyle.
+Reliability: uncertain","Knowledge: yes
+Description: Gay Times is a UK-based LGBTQ+ magazine and website that covers news, culture, and lifestyle.
+Reliability: uncertain"
+qwen2.5:7b,neonnettle.com,"Knowledge: no
+Description: none
+Reliability: unknown","Knowledge: no
+Description: none
+Reliability: unknown"
+qwen2.5:7b,sfgate.com,"Knowledge: yes
+Description: SFGate.com is an online news and information website serving the San Francisco Bay Area, owned by Nexstar Media Group.
+Reliability: uncertain","Knowledge: yes
+Description: SFGate.com is an online news and information website serving the San Francisco Bay Area, owned by Nexstar Media Group.
+Reliability: uncertain"
+qwen2.5:7b,pagesix.com,"Knowledge: yes
+Description: Pagesix.com is a celebrity and entertainment news website.
+Reliability: uncertain","Knowledge: yes
+Description: Pagesix.com is a celebrity and entertainment news website.
+Reliability: uncertain"
+qwen2.5:7b,news5cleveland.com,"Knowledge: yes
+Description: news5cleveland.com is a local news website serving the Cleveland, Ohio area.
+Reliability: uncertain","Knowledge: yes
+Description: news5cleveland.com is a local news website serving the Cleveland, Ohio area.
+Reliability: uncertain"
+qwen2.5:7b,gawker.com,"Knowledge: yes
+Description: Gawker.com was a popular online media website known for celebrity news, gossip, and blog posts, though it faced numerous legal issues and controversies.
+Reliability: unreliable, due to the site's closure and the controversies surrounding its reporting practices.","Knowledge: yes
+Description: Gawker.com was a popular online media website known for celebrity news, gossip, and blog posts, though it faced numerous legal issues and controversies.
+Reliability: unreliable, due to the site's closure and the controversies surrounding its reporting practices."

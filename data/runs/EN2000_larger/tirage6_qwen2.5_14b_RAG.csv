@@ -1,0 +1,337 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14896,bluedotdaily.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact8085,realclearpolitics.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact8371,tampabay.com,real,buzzfeednews.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and beyond, far beyond the context of the original article which seems to be discussing a much earlier period. The specific claims about President Obama and Senator Harry Reid are also inconsistent with the provided evidence, which does not mention these individuals or events from their era.",ajc.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and 2026. The article's content seems to be describing a situation from 2013, which is inconsistent with the evidence provided. Therefore, the claim in the article is not supported by the given evidence and appears to be outdated or fabricated in the context of the provided information.",gaytimes.co.uk,fake,"fake
+
+The article appears to be a fabricated political statement, as the cited evidence dates from 2025 and 2026, which is inconsistent with the context provided in the article that seems to be referencing a much earlier period related to the Obama presidency and the Affordable Care Act debates. The content of the article also does not align with the provided evidence, which discusses more recent political contexts and proposals.",neonnettle.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not current or accurate based on the provided evidence. The evidence suggests discussions and votes related to government funding and shutdowns are occurring in 2025 and 2026, which are future dates relative to the context implied by the article's content, which seems to be referring to a past event. Additionally, the specific claims about President Obama and Senator Harry Reid are not relevant to the provided evidence dates, indicating the article is not about current events but rather about a past situation inaccurately presented as current.",fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns occurring in 2025 and 2026, far beyond the context implied in the article's text which seems to be referring to a much earlier period, likely around 2013 when there was a significant government shutdown. The content of the article also seems to be a typical Republican stance during the Obama administration regarding the Affordable Care Act (Obamacare) and government funding, which does not align with the future dates provided in the evidence."
+politifact6646,politifact.com,real,buzzfeednews.com,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget plans did indeed include significant changes to Medicare, which could be characterized as cuts by some, including the Obama campaign. The article discusses the political debate around these Medicare changes and how both sides have used the $700 billion figure to criticize each other's plans. However, without additional evidence to support or refute the specific claim about Ryan protecting the $700 billion in Medicare cuts, the statement is presented as a factual claim within the political context. Therefore, based on the information given, the claim is real in the sense that it reflects the political discourse at the time.",ajc.com,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget plans did indeed include significant changes to Medicare, which included reductions in Medicare spending. The article discusses the political debate around these changes and how both sides have used the term ""cuts"" to Medicare to criticize each other's plans. However, the evidence requested was not found, which means there isn't additional web evidence to further verify or refute the claim beyond the context given in the article. Given the information in the article, the claim appears to be accurate in the context of the political debate.",gaytimes.co.uk,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget did indeed include the same amount of Medicare savings as the Affordable Care Act (ACA), though the methods and impacts of these savings differ significantly between the two plans. The article discusses the political debate around Medicare reform and the specific point made by Cutter regarding the $700 billion in Medicare savings. Without additional evidence to contradict this claim, it stands as accurate within the context of the political discourse at the time.",neonnettle.com,real,"real
+
+The claim made by Stephanie Cutter is referencing a factual point about Paul Ryan's budget proposals and their relationship to Medicare funding. While the article does not provide direct evidence to verify the claim, the context and the nature of political discourse suggest that Cutter is likely referring to Paul Ryan's budget proposals that include significant changes to Medicare, which are often characterized as cuts by critics. The claim is part of a broader political debate and is presented as a factual statement within the context of the article. Therefore, based on the information provided and the nature of political discourse, the claim appears to be real.",real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget plans did indeed include significant changes to Medicare, which included the reduction of funds that were also targeted by the Affordable Care Act (often referred to as Obamacare). The $700 billion figure is often cited in discussions about both the ACA and Ryan's budget proposals, as both aimed to reduce Medicare spending in different ways. However, the term ""cuts"" can be misleading as it does not necessarily mean reduced services for beneficiaries but rather changes in how Medicare is funded and structured."
+politifact627,thecaucus.blogs.nytimes.com,real,buzzfeednews.com,real,real,ajc.com,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, which seem to be related to his presidential campaign. However, the evidence provided does not support the claim made in the article. The evidence given is about Michael McCain and Robert McCain, who are not the focus of the article. The article is about Senator John McCain's activities, and the evidence provided does not relate to those activities or the context of the article. Therefore, based on the mismatch between the article's content and the provided evidence, the claim appears to be fake.",gaytimes.co.uk,fake,"fake
+
+The article appears to be about Senator John McCain's activities in Colorado, but the evidence provided does not support the claim. The evidence given is about individuals named Michael McCain and Robert McCain, which seems unrelated to the article's content about Senator John McCain's political activities. Therefore, based on the provided evidence, the claim in the article cannot be verified as true, suggesting it might be misleading or fake in the context of the given evidence.",neonnettle.com,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, which seem to be related to his 2008 presidential campaign. However, the evidence provided does not support the claims made in the article. The evidence given is about Michael McCain and Robert McCain, who are not the focus of the article. The article is about Senator John McCain's activities, and the evidence provided does not relate to those activities or the context of the article. Therefore, based on the mismatch between the article's content and the provided evidence, the claim in the article cannot be verified by the given evidence, suggesting it might be fabricated or the evidence is irrelevant.",real,real
+politifact11899,washingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15309,nrtonline.info,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14862,ravinderbhalla.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-908446,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-855390,nydailynews.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15592,opreminfo.com,fake,buzzfeednews.com,fake,fake,ajc.com,real,real,gaytimes.co.uk,fake,fake,neonnettle.com,real,real,real,real
+politifact439,abcnews.go.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14376,dailyfeed.news,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-856933,rap-up.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15386,hotgazette.com,fake,buzzfeednews.com,fake,"fake
+
+The article's claim about Rudy Giuliani resigning from Greenberg Traurig and his role as Trump's lawyer is based on incorrect dates and timelines. The evidence provided indicates that Giuliani resigned from Greenberg Traurig in April 2021, not in the context of a recent event as the article suggests. Additionally, the article's tone and content seem exaggerated and not aligned with factual reporting.",ajc.com,fake,"fake
+
+The article's claim about Rudy Giuliani resigning from Greenberg Traurig and his role as Trump's lawyer is set in a future date (April 19th, with the resignation effective May 9th), which does not align with the evidence found on the web indicating that Giuliani resigned as Trump's lawyer in April 2021. Additionally, the article's tone and content seem exaggerated and speculative, suggesting it is not a factual report but rather a piece of speculative or satirical writing.",gaytimes.co.uk,fake,"fake
+
+The article's claim about Rudy Giuliani resigning from Greenberg Traurig and his role as Trump's lawyer is based on incorrect dates. The evidence provided indicates that Giuliani resigned from Greenberg Traurig in April 2021, not in 2026 as mentioned in the article. Additionally, the article's tone and context suggest it is from a source that may not be reliable for factual news reporting, such as a site focused on LGBTQ+ news, which might skew the information for a specific audience or perspective. Therefore, the claim is not accurate based on the evidence provided.",neonnettle.com,fake,"fake
+
+The article mentions events and dates that do not align with historical facts. For example, the article states that Rudy Giuliani resigned as Trump's lawyer in 2021, but it incorrectly references future dates such as June 29, 2026, in the evidence provided. Additionally, the article's timeline and details do not match the actual events that occurred. Therefore, the claim in the article is not accurate based on the evidence provided.",fake,"fake
+
+The article contains several inaccuracies and anachronisms. The dates mentioned (e.g., June 29, 2026) are in the future, and the events described do not align with the actual timeline of events. Additionally, the article mixes up names and events, such as mentioning John Dowd, which is not consistent with the actual timeline of Trump's legal team changes. The evidence provided also indicates that the resignation occurred in April 2021, not in the future dates mentioned in the article."
+gossipcop-895969,time.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact8611,america.aljazeera.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-1773639736,metro.co.uk,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact7511,thehill.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact6932,politifact.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact408,mtv.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14114,economist.com,real,buzzfeednews.com,fake,"fake
+
+The provided evidence suggests that the dates mentioned in the references (2024 and 2026) are inconsistent with the actual presidency of Donald Trump, which was from 2017 to 2021. Additionally, the content of the article appears to be a fabricated transcript, as there is no credible source confirming the exact conversation as described. Therefore, based on the provided information and the context, the claim in the article is fake.",ajc.com,fake,"fake
+
+The provided text and context suggest a fabricated or fictional scenario, particularly given the mention of future dates (e.g., Oct 1, 2026) and the overall structure which does not align with factual records of Donald Trump's presidency or known interviews. Additionally, the specific mention of future interviews and the unusual format of the text indicate that this is not a genuine transcript from May 4th, 2017.",gaytimes.co.uk,fake,"fake
+
+The provided text and context suggest a fabricated or altered scenario, particularly given the mention of future dates (e.g., Oct 1, 2026) and the inconsistency with known facts about Donald Trump's presidency and the existence of such interviews with The Economist. Additionally, the specific mention of future dates and the unusual phrasing suggest this is not a genuine transcript from May 4th, 2017.",neonnettle.com,fake,fake,fake,fake
+politifact674,legis.state.ak.us,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-2220709136,express.co.uk,fake,buzzfeednews.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not entirely accurate based on the evidence provided. The evidence suggests that Harry sought permission from Queen Elizabeth II, which is a formal requirement for members of the royal family before proposing to someone who will become a member of the royal family. There is no concrete evidence provided to support the claim that Harry specifically sought Kate's approval.",ajc.com,fake,"fake
+
+The article contains inaccuracies and misleading information. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to support the claim that he specifically sought the approval of Kate Middleton. The article conflates different reports and presents them as a single, verified fact, which is not supported by reliable sources.",gaytimes.co.uk,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not supported by the evidence provided. The evidence suggests that Harry sought the Queen's formal consent, which is a standard royal protocol, rather than Kate's approval. There is no concrete evidence provided to support the claim that Harry specifically sought Kate's approval.",neonnettle.com,fake,"fake
+
+The article makes claims about Prince Harry seeking Kate Middleton's approval before proposing to Meghan Markle, which is not supported by the evidence provided. The evidence suggests that Harry sought the Queen's formal consent, which is a standard royal protocol, and does not mention Kate Middleton's approval. Therefore, the claim in the article is not substantiated by the evidence and appears to be an exaggeration or fabrication.",fake,"fake
+
+The article contains inaccuracies and exaggerations. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to suggest that he specifically sought the approval of Kate Middleton. The claim that Kate Middleton is like a mentor to Harry and that he wanted her seal of approval the most is not supported by reliable sources."
+gossipcop-3401078624,newidea.com.au,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact938,nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14310,quickening-spirit.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,buzzfeednews.com,fake,"fake
+
+The article text provided is a standard cookie policy notice and does not contain any information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is presented.",ajc.com,fake,"fake
+
+The article text does not match the content related to The Voice Season 15. The text provided is a standard disclaimer about cookie usage on a website, not an article about The Voice Season 15. The evidence found on the web is related to The Voice Season 15, but it does not confirm that the initial text is an article about the show. Therefore, the claim in the article is fake.",gaytimes.co.uk,fake,"fake
+
+The article text does not match the content related to The Voice Season 15. The provided text is a general statement about the use of cookies on the website, not an article about The Voice Season 15. The evidence found on the web suggests that there is indeed a Season 15 of The Voice, but the given article text does not discuss this at all.",neonnettle.com,fake,"fake
+
+The article title and text suggest a review or preview of ""The Voice"" Season 15, but the evidence provided indicates that Season 15 is set for 2026 and mentions Jennifer Hudson as a returning coach, which does not align with the claim of a current season premiere. Additionally, the article text is actually a cookie policy statement, not a review or preview of ""The Voice"" Season 15. Therefore, the claim is fake.",fake,"fake
+
+The article text provided is a standard cookie policy statement and does not contain any information about ""The Voice Season 15."" The evidence found on the web seems to be about ""The Voice"" Season 15, but it does not match the content of the article text given. Therefore, the claim in the article is not about ""The Voice Season 15"" and is thus fake in the context of the question."
+politifact1067,foxnews.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact13677,newsbreakshere.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on her Instagram. However, the evidence provided does not support the specific claim about a bachelorette party photo. The Instagram evidence shows that Paltrow has shared bikini photos, but there is no mention of a bachelorette party photo or a trip to Cabo, Mexico. Additionally, the article mentions a future date (September 3, 2025) which is not relevant to the current timeline. Therefore, the claim appears to be fabricated or misreported."
+politifact13905,usnnetwork.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-875236,mtv.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact939,nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact13897,huzlers.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,buzzfeednews.com,real,real,ajc.com,fake,"fake
+
+The article provided appears to be reporting on the death of George H.W. Bush, but the evidence found on the web indicates that George H.W. Bush died on November 30, 2018. The article's details about Bush's most recent hospitalization and the timing of his death do not align with the verified date of his death. Therefore, the claim in the article is not accurate and can be considered fake.",gaytimes.co.uk,fake,"fake
+
+The article mentions that George H.W. Bush died peacefully in his afternoon nap in Maine, but the evidence found on the web indicates that he died on November 30, 2018, at his home in Houston, Texas, due to vascular Parkinson's syndrome. The article appears to be reporting on an event that had already occurred, and the details provided do not match the verified information available.",neonnettle.com,fake,"fake
+
+The article mentions that George H.W. Bush died in Maine, but according to verified sources, he died at his home in Houston, Texas, on November 30, 2018. The article appears to be reporting on an event that had already occurred and does not match the accurate details of Bush's death.",fake,fake
+gossipcop-6857674423,hindustantimes.com,fake,buzzfeednews.com,real,real,ajc.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a 2016 timeframe. However, the evidence indicates that the divorce was finalized in 2024, and the legal disputes after the divorce relate to the sale of their French château and other matters, not the custody of the children or travel plans as of 2026. Therefore, the claim in the article is not accurate based on the provided evidence.",gaytimes.co.uk,real,real,neonnettle.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a 2016 timeframe. However, the evidence indicates that the divorce was finalized in 2024, and the legal disputes after the divorce relate to the sale of property and other matters, not the custody of the children as the article suggests. Therefore, the claim in the article is not accurate based on the provided evidence.",fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a split in September 2016. However, the evidence provided indicates that the divorce was finalized in 2024, and the current disputes are related to the sale of their French château and other legal matters, not the custody of their children or travel plans. Therefore, the claim in the article is not accurate based on the evidence provided."
+politifact14026,politicass.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-7190490486,usmagazine.com,fake,buzzfeednews.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for love, but recent evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate.",ajc.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has a wife, Alex Weaver, whom he married in October 2025. This contradicts the article's claim that Colletti is still looking for love and considering appearing on ""The Bachelor."" Additionally, the article's date (January 22, 2026) seems to be incorrect as it mentions Colletti's marriage and pregnancy announcements which occurred in 2025 and early 2026, respectively. Therefore, the claim in the article is not accurate.",gaytimes.co.uk,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti is married to Alex Weaver and they are expecting their first baby. This contradicts the claim that Colletti is still looking for love and considering ""The Bachelor.""",neonnettle.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for love, but recent evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate.",fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for love, but evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate."
+politifact15606,thegoldwater.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-942114,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,"real
+
+The article is based on a real event where Jennifer Lawrence made comments during an interview that suggested the hurricanes were a sign of Mother Nature's reaction to the election of Donald Trump. However, it's important to note that while the article accurately reports what Lawrence said, her comments were controversial and she later expressed regret over them.",real,"real
+
+The article describes a situation where Jennifer Lawrence made comments suggesting that the hurricanes were a sign of Mother Nature's anger towards the election of Donald Trump and the denial of climate change. This aligns with the evidence found online, which confirms that Lawrence did make such statements and later expressed regret over them. However, the specific claim about the hurricanes being a sign of Mother Nature's rage is a direct quote from Lawrence, making the article's content real."
+gossipcop-7440482567,popsugar.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-3016533567,msn.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,buzzfeednews.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became engaged to Prince Harry. The claim is supported by evidence found on the web, which confirms that Meghan Markle's Instagram account was filled with personal and intimate photos before she became a member of the Royal Family. The article's content aligns with the evidence provided, indicating that the claim is real.",ajc.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. However, the exact dates and some specific details might not be entirely accurate or verifiable without direct access to her old Instagram account. The overall narrative of the article is plausible and consistent with the public perception of her transition from a private citizen to a royal figure.",gaytimes.co.uk,real,real,neonnettle.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. However, the specific details and exact phrasing should be cross-referenced with reliable sources for complete accuracy. The overall claim that her Instagram became less personal and eventually was deleted after she joined the Royal Family is considered real based on available evidence.",real,"real
+
+The article describes a change in Meghan Markle's social media presence and personal life after she became engaged to and married Prince Harry. The claim that her Instagram page used to be filled with personal and intimate photos before she joined the Royal Family is supported by evidence found on the web. However, the article includes some speculative and exaggerated elements, such as the implication that Kate Middleton should have a similar Instagram account, which is not factual. Overall, the core claim about Meghan Markle's Instagram before joining the Royal Family is real."
+politifact14944,thehill.com,fake,buzzfeednews.com,fake,"fake
+
+The article appears to be set in a future context (2025-2026) and discusses a government shutdown that has not occurred as of my last update in 2023. The sources provided also seem to be fabricated or from a fictional future scenario, as they reference dates and events that have not taken place. Therefore, the claim in the article cannot be verified as true based on current information.",ajc.com,indetermine,"fake
+
+The article appears to be set in a future context (2025-2026) and discusses events that have not occurred in reality. The sources provided also seem to be fabricated or from a fictional future timeline, as there have not been any government shutdowns in the years 2025 or 2026 in the real world. Therefore, the claim in this article cannot be verified as true based on real-world events.",gaytimes.co.uk,indetermine,"fake
+
+The article appears to be set in a future context (2025-2026) and discusses events that have not occurred in reality. The sources provided also seem to be fabricated or from a fictional future timeline, as there have not been any government shutdowns in the years 2025 or 2026 in the real world. Therefore, the claim in the article cannot be verified as true based on real-world evidence.",neonnettle.com,fake,"fake
+
+The article appears to be referencing future dates (2026) for events that have not occurred and seem to be speculative or fictional based on the current timeline. The most recent government shutdown occurred in 2013, and the article's content about a shutdown in 2026 is not supported by factual evidence from reliable sources.",fake,"fake
+
+The article mentions dates and events that are not consistent with recent history, such as a government shutdown in 2026, which has not occurred and is not relevant to current events. The most recent government shutdown happened in 2018-2019, not in 2026 as the article suggests. Therefore, the claim in this article is not true based on the provided evidence."
+gossipcop-876260,rap-up.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14516,observeronline.news,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14855,www2.alabamavotes.gov,fake,buzzfeednews.com,fake,fake,ajc.com,real,real,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-862435,people.com,real,buzzfeednews.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this specific claim. The dates mentioned in the evidence (Sep 16, 2026, May 7, 2026, and Feb 1, 2025) are in the future relative to the current date, indicating that the article itself might be from a future or fictional context. Additionally, the article does not provide any specific names or verifiable details about the host or the episode, making it difficult to confirm the authenticity of the claim. Therefore, based on the information provided, the claim appears to be fake.",ajc.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. Additionally, the sources provided are from 2025 and 2026, which are future dates relative to the current year (2023), and do not specifically mention the host of Watch What Happens Live making such a revelation. Therefore, the claim in the article appears to be fabricated or inaccurately reported.",gaytimes.co.uk,fake,"fake
+
+The article mentions an episode of ""Watch What Happens Live"" from December 20, which is not consistent with the provided evidence from 2025 and 2026. Additionally, the article incorrectly attributes the quote to a 50-year-old host, which does not match any known public figure making such a statement in the provided context. The evidence provided does not support the claim made in the article, suggesting it is not accurate.",neonnettle.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the executive producer and host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this claim. The sources provided are about other celebrities using surrogacy but do not mention anyone fitting the description given in the article. Additionally, the sources provided have dates in 2025 and 2026, which are in the future as of now, and do not match the context of the article. Therefore, the claim in the article appears to be fabricated.",fake,"fake
+
+The article mentions an episode of ""Watch What Happens Live"" from December 20, which claims that the host (referred to as 50) is expecting his first child via surrogate. However, the evidence provided includes references to surrogacy news from 2025 and 2026, which are in the future relative to the article's date. Additionally, the article does not specify the host's name or provide any other verifiable details that would confirm the claim. Given the future dates of the evidence and the lack of specific details in the article, the claim appears to be fabricated or incorrectly dated."
+politifact14815,helloforos.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,real,real,neonnettle.com,fake,fake,fake,fake
+politifact15048,conservativedailypost.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact98,nymag.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14511,msnbc.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact13775,beforeitsnews.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,buzzfeednews.com,fake,"fake
+
+The article claims Ellen DeGeneres' net worth is $400 million as of her 60th birthday, but the evidence found on the web suggests her net worth is closer to $500 million in 2026. Additionally, the article's content seems to be a mix of accurate information about Ellen's career and financial success, but the specific net worth figure and the context of her 60th birthday celebration details appear outdated or fabricated. Therefore, the claim in the article is not entirely accurate based on the evidence provided.",ajc.com,fake,"fake
+
+The article claims Ellen DeGeneres' net worth is $400 million as of her 60th birthday, but the evidence found on the web suggests her net worth is closer to $500 million in 2026. Additionally, the article's claim about her net worth is based on outdated information from 2015 and 2026, which is not consistent with the current context of the article being about her 60th birthday. Therefore, the claim is not accurate and should be considered fake.",gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact348,pollingreport.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-914034,movieweb.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact1454,msnbc.msn.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-915516,dailynews.news,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,buzzfeednews.com,fake,"fake
+
+The article mentions Kris Jenner's 62nd birthday celebration in 2017, but the evidence found on the web refers to her 70th birthday party in 2025, which is not possible as it would mean time travel or an error in the article's timeline and details. Therefore, the claim in the article seems to be inconsistent with the evidence provided.",ajc.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated her birthday with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party. Therefore, the claim in the article is not accurate and should be considered fake.",gaytimes.co.uk,fake,"fake
+
+The article mentions Kris Jenner's 62nd birthday celebration, but the evidence found on the web refers to her 70th birthday party, which is a different event. Therefore, the claim in the article is not consistent with the evidence provided.",neonnettle.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party. Therefore, the claim in the article is not accurate and can be considered fake."
+gossipcop-877704,etonline.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact7293,kff.org,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article appears to be about the Patient Protection and Affordable Care Act (ACA), but it is not from the source mentioned (gaytimes.co.uk) and the content does not match the typical focus of that website, which is generally related to LGBTQ+ issues. Additionally, the content of the article seems to be a summary of the ACA, but it is not clear if it is an accurate or complete summary, and it does not align with the typical format or content of articles on the mentioned source. The evidence provided points to the ACA being discussed on official government websites and other reputable health policy sites, not on a site primarily focused on LGBTQ+ issues. Therefore, the claim that this is an article from gaytimes.co.uk appears to be false.",neonnettle.com,real,real,real,real
+politifact2128,abcnews.go.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article discusses the idea that a public option isn't necessary for health-care reform to be effective, citing examples from Switzerland and the Netherlands. However, the source and title of the article provided do not match the content, which appears to be about U.S. health-care reform rather than gay rights or LGBTQ+ issues as might be expected from the source domain (gaytimes.co.uk). Additionally, the article's content seems to be a fabricated or altered piece, as the source domain does not typically publish such content. Therefore, the claim in this article is ""fake.""",neonnettle.com,real,real,real,real
+gossipcop-918819,etonline.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15604,worldfactsftw.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-894897,foxnews.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14265,mainerepublicemailalert.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact13431,time.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact9576,blogs.rollcall.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,buzzfeednews.com,fake,"fake
+
+The provided text does not match the title or content suggested by the source (buzzfeednews.com) and appears to be unrelated to the topic of Selena Gomez's new song potentially being about Justin Bieber or The Weeknd. The text instead mentions Eminem's album ""Kamikaze,"" which is not the focus of the supposed article's title and content. Therefore, the claim in the article as presented here is fake.",ajc.com,fake,"fake
+
+The article title and text do not match. The title is about Selena Gomez's new song possibly being about Justin Bieber or The Weeknd, while the text discusses Eminem's surprise album ""Kamikaze"" and his diss tracks against Trump. The provided evidence also does not support the content of the article text, indicating that the article is not about the topic suggested in its title and text.",gaytimes.co.uk,fake,"fake
+
+The provided text and evidence do not match the title and content of the article mentioned. The article title is about Selena Gomez's new song being about Justin Bieber or The Weeknd, but the text provided talks about Eminem's surprise album ""Kamikaze"" and does not relate to Selena Gomez's music or the claim made in the article title. Therefore, the claim in the article seems to be misrepresented or the article text is not correctly associated with the title, making it ""fake"".",neonnettle.com,fake,"fake
+
+The provided text does not match the title or content suggested by the source URL and title. The text discusses Eminem's album ""Kamikaze,"" while the title and source suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also relates to Selena Gomez's music and its connection to Justin Bieber, not to Eminem's album or any involvement of the Secret Service. Therefore, the claim in the article as presented is fake.",fake,"fake
+
+The provided text does not match the title and content suggested by the evidence found. The evidence is about speculation regarding Selena Gomez's new song being about Justin Bieber, while the text provided talks about Eminem's surprise album ""Kamikaze"" and mentions the Secret Service, which is not related to the evidence provided. Therefore, the claim in the article does not align with the evidence, making it fake."
+gossipcop-4908552205,dailymail.co.uk,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-809485,instyle.com,real,buzzfeednews.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",ajc.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",gaytimes.co.uk,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",neonnettle.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet.",fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet."
+gossipcop-874606,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-860551,today.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,buzzfeednews.com,real,"real
+
+The article discusses the relationship between Prince Harry and Meghan Markle, including their long-distance relationship and the fact that they lived together before their marriage. This information is consistent with public reports and interviews from the time, making the claim in the article real. However, without specific evidence provided in the article or the instruction to verify every detail, the overall claim about the couple living together before marriage is considered factual based on public knowledge and royal family practices.",ajc.com,real,"real
+
+The article discusses the relationship between Prince Harry and Meghan Markle, including their long-distance relationship and the fact that they lived together before their marriage. This information is consistent with public knowledge and media reports at the time. However, without specific evidence to verify every detail, the safest conclusion based on the content and context is that it is real, as it aligns with known facts about the couple's relationship and royal protocol adjustments.",gaytimes.co.uk,real,"real
+
+The article discusses the relationship between Prince Harry and Meghan Markle, including their long-distance relationship and the fact that they lived together before their marriage. This information is consistent with public knowledge and media reports at the time. However, without specific evidence to verify every detail, the safest conclusion based on the content and context is that it is real, as it aligns with known facts about the couple's relationship and royal protocol adjustments.",neonnettle.com,fake,"fake
+
+The article contains inaccuracies and speculative information not supported by reliable sources. For example, the claim that Meghan Markle ""practically moved in"" with Prince Harry is not substantiated by credible evidence. Additionally, the article includes details and quotes from unnamed sources, which are often unreliable. Therefore, based on the lack of verifiable evidence and the speculative nature of the content, the claim in this article is ""fake"".",fake,"fake
+
+The article contains inaccuracies and speculative information not supported by reliable sources. For example, the claim that Meghan Markle ""practically moved in"" with Prince Harry is not substantiated by credible evidence. Additionally, the article includes details and quotes from unnamed sources, which are often unreliable. The article also mixes factual information with speculative statements, making it difficult to verify the truthfulness of the claim that Prince Harry and Meghan Markle are living together."
+gossipcop-943996,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-897260,elle.com,real,buzzfeednews.com,indetermine,"fake
+
+The article appears to be a celebrity gossip piece and the date mentioned in the context (Aug 31, 2025) is in the future as of now, which makes it highly unlikely to be real. Celebrity news can often be speculative and not always factual, especially when it includes future dates or overly detailed scenarios without concrete evidence.",ajc.com,indetermine,"fake
+
+The article appears to be a celebrity gossip piece and the date mentioned in the context (""Aug 31, 2025"") is in the future, which makes it seem like a fabricated or fictional piece rather than a real news article. Additionally, the use of ""#Jelena"" and the detailed descriptions of their interactions suggest it is more of a fan speculation or gossip rather than a factual news report.",gaytimes.co.uk,indetermine,"fake
+
+The article appears to be a celebrity gossip piece and the date mentioned in the context (""Aug 31, 2025"") is in the future, which makes it seem like a fabricated or fictional piece rather than a real news article. Additionally, the use of ""#Jelena"" and the detailed descriptions of their interactions suggest it is more of a fan-created content or a speculative piece rather than a factual report.",neonnettle.com,fake,fake,fake,fake
+politifact4433,fedupthebook.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,indetermine,"fake
+
+The article appears to be a fabricated event announcement for a book signing of ""Fed Up! Our Fight to Save America from Washington"" by Rick Perry. The book is real, but the specific event details provided in the article do not match any verified information and seem to be created for promotional purposes or as part of a fictional scenario.",neonnettle.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15301,bitcoingrower.life,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,buzzfeednews.com,indetermine,"fake
+
+The provided evidence suggests that the dates mentioned in the article (such as May 8, 2025) are incorrect or from a fictional context, as the article is supposedly from 2025, which is not the current timeline. Additionally, the article's content seems to be a mix of real and fabricated details, making it difficult to verify its claims accurately based on the provided evidence. Therefore, the claim appears to be fake.",ajc.com,indetermine,"fake
+
+The dates mentioned in the evidence found on the web (June 3, 2025) are in the future relative to the present time, which indicates that the information provided is not real and is likely fabricated or from a fictional context. Additionally, the article discusses events that are not consistent with known facts about Joe Alwyn and Taylor Swift, such as the Instagram posts and the timeline of events described. Therefore, the claim in the article is not true.",gaytimes.co.uk,indetermine,"fake
+
+The dates mentioned in the evidence found on the web (June 3, 2025) are in the future relative to the present time, which indicates that the information provided is not real and is likely part of a fictional scenario or a future prediction rather than an actual event. Therefore, the claim in the article appears to be based on fabricated or fictional information.",neonnettle.com,fake,"fake
+
+The provided evidence suggests that the article's content is from a future date (June 3, 2025), which contradicts the context of the article that seems to be set in the present or recent past. Additionally, the article mentions events and dates that do not align with the evidence provided, indicating that the article may be fabricated or inaccurately dated.",fake,"fake
+
+The provided evidence suggests that the article's content is from a future date (June 3, 2025), which contradicts the context of the article that seems to be set in the present or recent past. Additionally, the article mentions events and dates that do not align with the evidence provided, such as the cactus post and the Reputation tour, which are not referenced in the evidence. Therefore, the claim in the article appears to be fabricated or inaccurately reported."
+politifact15256,theglobalheadlines.net,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact1027,forbes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15626,maga2020.us,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact114,govtrack.us,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact285,time.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-936878,time.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact4372,pbs.org,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact11072,foxnews.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The source provided (gaytimes.co.uk) is not a credible source for political news, especially regarding U.S. politics. The content appears to be a transcript from ""Fox News Sunday,"" but the domain and context suggest it's out of place and likely a mix-up. Additionally, the evidence provided does not match the context of the article, which seems to be from 2015, while the evidence dates from 2026 and beyond, indicating a mismatch or error in the provided information.",neonnettle.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real

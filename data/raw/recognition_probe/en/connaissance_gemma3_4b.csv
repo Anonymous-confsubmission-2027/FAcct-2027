@@ -1,0 +1,191 @@
+modele,domaine,reponse,reponse_brute
+gemma3:4b,fool.com,"Knowledge: yes
+Description: MediaFool.com is a website that provides news and analysis focused on the cryptocurrency and blockchain space, often with a critical and skeptical perspective.
+Reliability: unreliable","Knowledge: yes
+Description: MediaFool.com is a website that provides news and analysis focused on the cryptocurrency and blockchain space, often with a critical and skeptical perspective.
+Reliability: unreliable"
+gemma3:4b,buzzfeednews.com,"Knowledge: yes
+Description: Buzzfeed News is a digital news publication owned by BuzzFeed, known for its listicles, quizzes, and millennial-focused content.
+Reliability: uncertain","Knowledge: yes
+Description: Buzzfeed News is a digital news publication owned by BuzzFeed, known for its listicles, quizzes, and millennial-focused content.
+Reliability: uncertain"
+gemma3:4b,latimes.com,"Knowledge: yes
+Description: The Los Angeles Times is a major American newspaper offering news, opinion, and multimedia content covering California and national issues.
+Reliability: reliable","Knowledge: yes
+Description: The Los Angeles Times is a major American newspaper offering news, opinion, and multimedia content covering California and national issues.
+Reliability: reliable"
+gemma3:4b,statista.com,"Knowledge: yes
+Description: Statista.com is a statistics portal providing data, reports, and analysis from various sources to help businesses and researchers make informed decisions.
+Reliability: reliable","Knowledge: yes
+Description: Statista.com is a statistics portal providing data, reports, and analysis from various sources to help businesses and researchers make informed decisions.
+Reliability: reliable"
+gemma3:4b,blogspot.com,"Knowledge: yes
+Description: Blogspot is a free blogging platform owned by Google, offering tools for creating and publishing websites and blogs.
+Reliability: uncertain","Knowledge: yes
+Description: Blogspot is a free blogging platform owned by Google, offering tools for creating and publishing websites and blogs.
+Reliability: uncertain"
+gemma3:4b,bgr.com,"Knowledge: yes
+Description: BGR is a celebrity and entertainment news website known for its tabloid-style reporting and often sensationalized headlines.
+Reliability: unreliable","Knowledge: yes
+Description: BGR is a celebrity and entertainment news website known for its tabloid-style reporting and often sensationalized headlines.
+Reliability: unreliable"
+gemma3:4b,cbs8.com,"Knowledge: yes
+Description: CBS8 is a television station serving the San Diego, California area, providing local news, weather, and sports coverage.
+Reliability: uncertain","Knowledge: yes
+Description: CBS8 is a television station serving the San Diego, California area, providing local news, weather, and sports coverage.
+Reliability: uncertain"
+gemma3:4b,theweek.co.uk,"Knowledge: yes
+Description: TheWeek.co.uk is a British online news aggregator and opinion website that presents a liberal perspective on current events.
+Reliability: uncertain","Knowledge: yes
+Description: TheWeek.co.uk is a British online news aggregator and opinion website that presents a liberal perspective on current events.
+Reliability: uncertain"
+gemma3:4b,ibtimes.co.in,"Knowledge: yes
+Description: ibtimes.co.in is an Indian online news publication offering news and commentary on a variety of topics, including politics, business, and technology.
+Reliability: uncertain","Knowledge: yes
+Description: ibtimes.co.in is an Indian online news publication offering news and commentary on a variety of topics, including politics, business, and technology.
+Reliability: uncertain"
+gemma3:4b,metro.news,"Knowledge: yes
+Description: Metro.news is a privately-owned news website that focuses on local news and entertainment, often utilizing citizen journalists and social media for content.
+Reliability: unreliable","Knowledge: yes
+Description: Metro.news is a privately-owned news website that focuses on local news and entertainment, often utilizing citizen journalists and social media for content.
+Reliability: unreliable"
+gemma3:4b,dailybuzzlive.com,"Knowledge: yes
+Description: DailyBuzzLive.com is a website that claims to provide breaking news and entertainment content, often focusing on celebrity gossip and sensationalized stories.
+Reliability: unreliable","Knowledge: yes
+Description: DailyBuzzLive.com is a website that claims to provide breaking news and entertainment content, often focusing on celebrity gossip and sensationalized stories.
+Reliability: unreliable"
+gemma3:4b,cnn.com,"Knowledge: yes
+Description: CNN is a global news organization that provides 24-hour coverage of current events through television, websites, and mobile apps.
+Reliability: uncertain","Knowledge: yes
+Description: CNN is a global news organization that provides 24-hour coverage of current events through television, websites, and mobile apps.
+Reliability: uncertain"
+gemma3:4b,aljazeera.com,"Knowledge: yes
+Description: Al Jazeera English is an international news channel and website offering global news coverage with a Middle Eastern perspective.
+Reliability: uncertain","Knowledge: yes
+Description: Al Jazeera English is an international news channel and website offering global news coverage with a Middle Eastern perspective.
+Reliability: uncertain"
+gemma3:4b,madison.com,"Knowledge: yes
+Description: Media Madison is a local news website covering news, sports, and events in Madison, Wisconsin.
+Reliability: uncertain","Knowledge: yes
+Description: Media Madison is a local news website covering news, sports, and events in Madison, Wisconsin.
+Reliability: uncertain"
+gemma3:4b,therightscoop.com,"Knowledge: yes
+Description: TheRightScoop is a celebrity gossip website known for its often-exclusive reporting and rapid dissemination of information, frequently focusing on Hollywood relationships and industry news.
+Reliability: unreliable","Knowledge: yes
+Description: TheRightScoop is a celebrity gossip website known for its often-exclusive reporting and rapid dissemination of information, frequently focusing on Hollywood relationships and industry news.
+Reliability: unreliable"
+gemma3:4b,variety.com,"Knowledge: yes
+Description: Variety.com is a leading entertainment news website covering film, television, music, and theater.
+Reliability: uncertain","Knowledge: yes
+Description: Variety.com is a leading entertainment news website covering film, television, music, and theater.
+Reliability: uncertain"
+gemma3:4b,dailymail.co.uk,"Knowledge: yes
+Description: Dailymail.co.uk is a British tabloid news website known for its sensationalist reporting and often controversial content.
+Reliability: unreliable","Knowledge: yes
+Description: Dailymail.co.uk is a British tabloid news website known for its sensationalist reporting and often controversial content.
+Reliability: unreliable"
+gemma3:4b,app.com,"Knowledge: yes
+Description: Media app.com is a website offering a vast library of free movies and TV shows, primarily through streaming and download, though its legality and current operational status are questionable.
+Reliability: unreliable","Knowledge: yes
+Description: Media app.com is a website offering a vast library of free movies and TV shows, primarily through streaming and download, though its legality and current operational status are questionable.
+Reliability: unreliable"
+gemma3:4b,100percentfedup.com,"Knowledge: yes
+Description: 100percentfedup.com is a website known for publishing conspiracy theories and unsubstantiated claims, often focusing on political and social issues.
+Reliability: unreliable","Knowledge: yes
+Description: 100percentfedup.com is a website known for publishing conspiracy theories and unsubstantiated claims, often focusing on political and social issues.
+Reliability: unreliable"
+gemma3:4b,chicagotribune.com,"Knowledge: yes
+Description: The Chicago Tribune is a major American newspaper based in Chicago, Illinois, offering news, sports, opinion, and entertainment coverage.
+Reliability: uncertain","Knowledge: yes
+Description: The Chicago Tribune is a major American newspaper based in Chicago, Illinois, offering news, sports, opinion, and entertainment coverage.
+Reliability: uncertain"
+gemma3:4b,express.co.uk,"Knowledge: yes
+Description: Media Express is a British tabloid news website known for its pro-Conservative political commentary and focus on Brexit and UKIP.
+Reliability: unreliable","Knowledge: yes
+Description: Media Express is a British tabloid news website known for its pro-Conservative political commentary and focus on Brexit and UKIP.
+Reliability: unreliable"
+gemma3:4b,amny.com,"Knowledge: yes
+Description: amny.com is a news aggregator and content curation site owned by the USA Today Network, focusing on local and regional news.
+Reliability: uncertain","Knowledge: yes
+Description: amny.com is a news aggregator and content curation site owned by the USA Today Network, focusing on local and regional news.
+Reliability: uncertain"
+gemma3:4b,thecommonsenseshow.com,"Knowledge: yes
+Description: The Commonsense Show is a YouTube channel and podcast hosted by Matt Wallace and his son, Jack, offering a conservative, libertarian perspective on current events and social issues.
+Reliability: uncertain","Knowledge: yes
+Description: The Commonsense Show is a YouTube channel and podcast hosted by Matt Wallace and his son, Jack, offering a conservative, libertarian perspective on current events and social issues.
+Reliability: uncertain"
+gemma3:4b,themoscowtimes.com,"Knowledge: yes
+Description: The Moscow Times is an English-language newspaper based in Moscow, Russia, that has faced significant challenges due to government pressure and sanctions.
+Reliability: uncertain","Knowledge: yes
+Description: The Moscow Times is an English-language newspaper based in Moscow, Russia, that has faced significant challenges due to government pressure and sanctions.
+Reliability: uncertain"
+gemma3:4b,breitbart.com,"Knowledge: yes
+Description: Breitbart News is a far-right American news and opinion website known for its controversial content and promotion of nationalist and populist viewpoints.
+Reliability: unreliable","Knowledge: yes
+Description: Breitbart News is a far-right American news and opinion website known for its controversial content and promotion of nationalist and populist viewpoints.
+Reliability: unreliable"
+gemma3:4b,bramptonguardian.com,"Knowledge: yes
+Description: The Brampton Guardian is a hyperlocal news website covering news and events in the city of Brampton, Ontario.
+Reliability: uncertain","Knowledge: yes
+Description: The Brampton Guardian is a hyperlocal news website covering news and events in the city of Brampton, Ontario.
+Reliability: uncertain"
+gemma3:4b,dailystar.co.uk,"Knowledge: yes
+Description: The Daily Star is a British tabloid newspaper known for its celebrity gossip, sports coverage, and sensationalized news stories.
+Reliability: unreliable","Knowledge: yes
+Description: The Daily Star is a British tabloid newspaper known for its celebrity gossip, sports coverage, and sensationalized news stories.
+Reliability: unreliable"
+gemma3:4b,rte.ie,"Knowledge: yes
+Description: RTÉ (Raidió Teilifís Éireann) is the national public service broadcaster of Ireland, providing television, radio, and online content.
+Reliability: reliable","Knowledge: yes
+Description: RTÉ (Raidió Teilifís Éireann) is the national public service broadcaster of Ireland, providing television, radio, and online content.
+Reliability: reliable"
+gemma3:4b,thesun.co.uk,"Knowledge: yes
+Description: The Sun is a British tabloid newspaper known for its sensationalist and often controversial reporting.
+Reliability: unreliable","Knowledge: yes
+Description: The Sun is a British tabloid newspaper known for its sensationalist and often controversial reporting.
+Reliability: unreliable"
+gemma3:4b,fresnobee.com,"Knowledge: yes
+Description: The Fresno Bee is a daily newspaper serving Fresno, California, and the surrounding area, providing local news, sports, and opinion.
+Reliability: uncertain","Knowledge: yes
+Description: The Fresno Bee is a daily newspaper serving Fresno, California, and the surrounding area, providing local news, sports, and opinion.
+Reliability: uncertain"
+gemma3:4b,wegotthiscovered.com,"Knowledge: yes
+Description: WeGotThisCovered is a website that provides celebrity gossip, entertainment news, and movie reviews, often with a focus on tabloid-style reporting.
+Reliability: unreliable","Knowledge: yes
+Description: WeGotThisCovered is a website that provides celebrity gossip, entertainment news, and movie reviews, often with a focus on tabloid-style reporting.
+Reliability: unreliable"
+gemma3:4b,ajc.com,"Knowledge: yes
+Description: AJC.com is the website of the *Atlanta Journal-Constitution*, a major daily newspaper serving the Atlanta metropolitan area.
+Reliability: reliable","Knowledge: yes
+Description: AJC.com is the website of the *Atlanta Journal-Constitution*, a major daily newspaper serving the Atlanta metropolitan area.
+Reliability: reliable"
+gemma3:4b,gaytimes.co.uk,"Knowledge: yes
+Description: Gaytimes.co.uk is a British LGBTQ+ news and lifestyle website offering articles, opinion pieces, and community features.
+Reliability: uncertain","Knowledge: yes
+Description: Gaytimes.co.uk is a British LGBTQ+ news and lifestyle website offering articles, opinion pieces, and community features.
+Reliability: uncertain"
+gemma3:4b,neonnettle.com,"Knowledge: yes
+Description: Media Neonnettle is a website that provides news and analysis focused on the intersection of technology, politics, and culture, often with a critical perspective.
+Reliability: uncertain","Knowledge: yes
+Description: Media Neonnettle is a website that provides news and analysis focused on the intersection of technology, politics, and culture, often with a critical perspective.
+Reliability: uncertain"
+gemma3:4b,sfgate.com,"Knowledge: yes
+Description: SFGate is the online news website of the San Francisco Chronicle, providing local and national news coverage.
+Reliability: uncertain","Knowledge: yes
+Description: SFGate is the online news website of the San Francisco Chronicle, providing local and national news coverage.
+Reliability: uncertain"
+gemma3:4b,pagesix.com,"Knowledge: yes
+Description: PageSix is a celebrity and entertainment news website known for its often gossip-focused reporting.
+Reliability: unreliable","Knowledge: yes
+Description: PageSix is a celebrity and entertainment news website known for its often gossip-focused reporting.
+Reliability: unreliable"
+gemma3:4b,news5cleveland.com,"Knowledge: yes
+Description: News5Cleveland.com is the website for Cleveland’s Fox affiliate, WKYC, providing local news, weather, and sports coverage.
+Reliability: generally reliable","Knowledge: yes
+Description: News5Cleveland.com is the website for Cleveland’s Fox affiliate, WKYC, providing local news, weather, and sports coverage.
+Reliability: generally reliable "
+gemma3:4b,gawker.com,"Knowledge: yes
+Description: Gawker was a popular online news and entertainment website known for its often provocative and humorous content, particularly celebrity gossip and internet culture commentary.
+Reliability: unreliable","Knowledge: yes
+Description: Gawker was a popular online news and entertainment website known for its often provocative and humorous content, particularly celebrity gossip and internet culture commentary.
+Reliability: unreliable"

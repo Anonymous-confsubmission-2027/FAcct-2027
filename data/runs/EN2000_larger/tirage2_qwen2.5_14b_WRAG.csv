@@ -1,0 +1,287 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,fake,real,real
+gossipcop-1812612510,instyle.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,fake,real,real
+politifact14896,bluedotdaily.com,fake,variety.com,real,"real
+
+The article discusses the impact of the Tax Cuts and Jobs Act of 2018 on certain groups of taxpayers, particularly police officers, firefighters, and other first responders. The claim that these individuals will no longer be able to deduct certain job-related expenses is accurate based on the provisions of the tax bill. However, the tone and some of the language used in the article are quite opinionated and critical of the legislation and its sponsors.",dailymail.co.uk,real,"real
+
+The article discusses the impact of the Tax Cuts and Jobs Act of 2018 on certain groups of taxpayers, particularly police officers, firefighters, and other first responders. The claim that these individuals will no longer be able to deduct certain job-related expenses is accurate. However, the tone and language used in the article are quite biased and critical of the legislation and its proponents.",app.com,real,real,100percentfedup.com,real,"real
+
+The article discusses the impact of the Tax Cuts and Jobs Act of 2018 on certain groups of taxpayers, particularly police officers, firefighters, and other first responders. The claim that these individuals will no longer be able to deduct certain job-related expenses is accurate. However, the tone and language used in the article are quite biased and critical of the legislation and its proponents.",real,real
+politifact8085,realclearpolitics.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact8371,tampabay.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,"fake
+
+The article contains several inaccuracies and misleading statements. For example, it incorrectly attributes the government shutdown to unreasonable behavior by President Obama and Senate Majority Leader Harry Reid without acknowledging the role of the Republican-controlled House in refusing to fund the government unless Obamacare was defunded or delayed. Additionally, the claim that shutting down the government would have an impact on Obamacare was a Republican strategy, but it did not work as intended. The Affordable Care Act (Obamacare) continued to be implemented during the shutdown because much of it is funded through mandatory spending, not discretionary spending that can be cut through a government shutdown.",fake,"fake
+
+The article contains several inaccuracies and misleading statements. For example, it incorrectly attributes the government shutdown to unreasonable behavior by President Obama and Senate Majority Leader Harry Reid without acknowledging the role of the Republican-controlled House in refusing to fund the government unless Obamacare was defunded or delayed. Additionally, the claim that shutting down the government would have an impact on Obamacare was a Republican strategy, but the article suggests that the failure of this strategy is due to Democratic inaction, which is not accurate."
+politifact6646,politifact.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,indetermine,"real
+
+The article discusses a political debate about Medicare reform and the claims made by both sides regarding cuts to Medicare. The claim by Stephanie Cutter, an Obama campaign spokeswoman, that Paul Ryan's budget plan includes $700 billion in Medicare ""cuts"" is a real claim that was part of the political discourse at the time. The article is summarizing a factual event in the political debate, making it real rather than fake.",real,"real
+
+The article discusses a political debate about Medicare reform and the claims made by both sides regarding cuts to Medicare. Stephanie Cutter's statement is part of the political discourse and is factually correct in the context that Paul Ryan's budget plans did include the same $700 billion in Medicare savings as the Affordable Care Act (ACA), although the methods and impacts of these savings differ significantly between the two plans. Therefore, the claim is real."
+politifact627,thecaucus.blogs.nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact11899,washingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15309,nrtonline.info,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14862,ravinderbhalla.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-908446,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-855390,nydailynews.com,real,variety.com,fake,"fake
+
+The provided text does not match the title and seems to be unrelated to the topic of a 'Bachelorette' contestant making a transphobic comment. The text mentions an engagement which is not connected to the issue of transphobia or a contestant's comment. Therefore, the claim in the article as described does not seem to be true based on the given text.",dailymail.co.uk,fake,"fake
+
+The provided text does not match the title and seems to be unrelated to the topic suggested by the title, which is about a 'Bachelorette' contestant making a transphobic comment. The text provided talks about someone named Powers and Lindsay being engaged to a contestant, which does not align with the title's claim. Therefore, the claim in the article as described in the text provided appears to be fake.",app.com,fake,"fake
+
+The provided text does not match the title of the article. The title suggests that there is a discussion about a transphobic comment made by a contestant on ""The Bachelorette,"" while the text talks about a contestant named Powers and mentions that Lindsay is engaged to one of the contestants. The content does not seem to be coherent with the title, and there is no mention of a transphobic comment or its consequences in the given text. Therefore, the claim appears to be false based on the provided information.",100percentfedup.com,fake,fake,fake,fake
+politifact15592,opreminfo.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact439,abcnews.go.com,real,variety.com,fake,"fake
+
+The title and text provided do not match the source mentioned (Variety.com). The content seems to be about a news article from ABC News, but the source is incorrectly stated as Variety.com, which typically covers entertainment news rather than world news. Therefore, the claim appears to be false based on the mismatched source and content.",dailymail.co.uk,fake,fake,app.com,fake,"fake
+
+The title and text provided do not match the typical format or content of ABC News articles. The title suggests a general news source for world news, videos, and photos, while the text appears to be a snippet of a specific news story that seems out of context and does not align with the broad scope suggested by the title. Additionally, the content of the text appears to be a partial and specific news item that would not typically be the title or main content of an ABC News page. Therefore, this appears to be a fake representation of an ABC News article.",100percentfedup.com,fake,fake,real,real
+politifact14376,dailyfeed.news,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-856933,rap-up.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15386,hotgazette.com,fake,variety.com,real,"real
+
+The article discusses Rudy Giuliani's resignation from his law firm, Greenberg Traurig, to focus on his work for former President Donald Trump. This aligns with known events from the time period described. However, the tone and some specific claims, such as ""Trump is desperate enough to need throwaway lawyer Rudy Giuliani,"" are opinionated and might not be factual statements but rather the author's interpretation. Despite this, the core factual claims about Giuliani's resignation are accurate based on public records and news reports from the time.",dailymail.co.uk,real,"real
+
+The article discusses Rudy Giuliani's resignation from his law firm, Greenberg Traurig, to focus on his work for former President Donald Trump. This aligns with known events from that period, making the claim in the article real. However, the tone and some specific phrases like ""throwaway lawyer"" suggest the article may be biased or opinionated rather than strictly factual. Nonetheless, the core claim of Giuliani's resignation is accurate based on public information available at the time.",app.com,real,"real
+
+The article discusses Rudy Giuliani's resignation from his law firm, Greenberg Traurig, to focus on his work for President Trump. This is a factual event that occurred in the context of the Trump legal team during the time of the Mueller investigation. However, the tone and framing of the article suggest a bias against Giuliani and Trump, which is common in certain media outlets. The factual claim about Giuliani's resignation is real, but the interpretation and implications drawn in the article may be subjective.",100percentfedup.com,fake,"fake
+
+The article contains inaccuracies and misleading statements. Rudy Giuliani's involvement with President Trump's legal team and his resignation from his law firm do not align with the dramatic narrative presented in the article. The claim that Giuliani is ""throwaway lawyer"" and that Trump is ""desperate enough to need"" him does not reflect the actual events or the relationship between Giuliani and Trump. Additionally, the tone and content of the article suggest a biased and sensationalist perspective rather than a factual report.",fake,"fake
+
+The article contains inaccuracies and misleading information. For example, John Dowd did not contradict Trump's story regarding the hush payment to Stormy Daniels; rather, it was Rudy Giuliani who made statements that contradicted Trump's narrative. Additionally, the claim that Trump is desperate enough to need Rudy Giuliani as a ""throwaway lawyer"" is an opinion and not a factual statement. The article also misrepresents the nature of Giuliani's involvement and his resignation from his law firm, suggesting a narrative that is not supported by the facts."
+gossipcop-895969,time.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact8611,america.aljazeera.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-1773639736,metro.co.uk,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact7511,thehill.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact6932,politifact.com,real,variety.com,real,real,dailymail.co.uk,indetermine,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's stance on coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the Obama campaign's claim that Romney had previously condemned coal-fired plants as harmful to public health. This information appears to be based on verifiable historical records and statements, making the claim real rather than fake.",app.com,real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's statements about coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the Obama campaign's claim. This appears to be a real and accurate representation of the political discourse at the time.",100percentfedup.com,real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's stance on coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the claim made by the Obama campaign. This information is based on historical records and political discourse from the time, making the claim verifiable and real.",real,"real
+
+The article discusses a factual claim made by the Obama campaign regarding Mitt Romney's stance on coal-fired power plants when he was the governor of Massachusetts. The article provides specific quotes from Romney that support the claim that he once condemned coal-fired plants as killers. This information is based on historical records and is considered factual. Therefore, the claim is real."
+politifact408,mtv.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14114,economist.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,"fake
+
+The provided text does not match any known transcript of an interview with Donald Trump from May 4th, 2017. The content appears to be a fabricated or heavily altered version of what would be expected from such an interview, especially considering the grammatical errors and the unusual phrasing used by Trump. Additionally, the source domain (100percentfedup.com) is not a reputable news source and is likely a satirical or fake news site.",indetermine,"fake
+
+The provided text does not match any known transcript of an interview with Donald Trump that includes the exact wording and context given. Additionally, the format and content of the text suggest it is a fabricated or fictional representation rather than an accurate transcript of a real interview. The abrupt ending and the inclusion of promotional text (""Get our daily newsletter"") further indicate that this is not a genuine transcript."
+politifact674,legis.state.ak.us,real,variety.com,fake,"fake
+
+The provided text does not appear to be an article from Variety.com or any other news source. Instead, it looks like a legislative bill tracking document or a summary of legislative actions related to a bill in the U.S. state legislature. The content is highly technical and specific to legislative procedures, which is not the kind of content Variety.com would typically publish. Therefore, the claim that this is an article from Variety.com is false.",dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-2220709136,express.co.uk,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-3401078624,newidea.com.au,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact938,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14310,quickening-spirit.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,real,real,100percentfedup.com,fake,fake,fake,fake
+politifact1067,foxnews.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact13677,newsbreakshere.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact13905,usnnetwork.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-875236,mtv.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact939,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact13897,huzlers.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-6857674423,hindustantimes.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14026,politicass.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,variety.com,fake,"fake
+
+The provided text does not match the title and seems to be discussing the Grammy nominations for the rap categories, which is not directly related to Taylor Swift being shut out from the top 2018 Grammy categories as suggested by the title. Therefore, the claim in the article as presented is not accurate based on the given text.",dailymail.co.uk,fake,"fake
+
+The provided text does not match the title or the claim about Taylor Swift being shut out from the top 2018 Grammy categories. The text discusses Kendrick Lamar's potential sweep of the rap categories at the Grammys, which is unrelated to Taylor Swift's Grammy nominations or lack thereof. Therefore, the claim in the article appears to be fake based on the given information.",app.com,fake,"fake
+
+The provided text does not match the title or the claim made in the title. The title suggests an explanation for why Taylor Swift was shut out from the top 2018 Grammy categories, but the text discusses Kendrick Lamar's potential sweep of the rap Grammy categories, with no mention of Taylor Swift or her Grammy nominations. Therefore, the claim in the article does not align with the content provided, making it ""fake"".",100percentfedup.com,fake,"fake
+
+The article text does not match the title's claim about Taylor Swift being shut out from the top 2018 Grammy categories. The text instead discusses Kendrick Lamar's potential sweep of the rap Grammy categories, which is unrelated to the title's claim about Taylor Swift.",fake,"fake
+
+The article text does not match the title. The title suggests an explanation for why Taylor Swift was shut out from the top 2018 Grammy categories, but the text discusses Kendrick Lamar's potential sweep of the rap Grammy categories. There is no mention of Taylor Swift or her Grammy nominations in the provided text."
+gossipcop-7190490486,usmagazine.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15606,thegoldwater.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-942114,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,fake,"fake
+
+The article mixes up two different topics: the plot summary of the movie ""Mother!"" and Jennifer Lawrence's comments about hurricanes and climate change. The first paragraph is a plot summary for the movie, while the rest of the text discusses Lawrence's comments on political and environmental issues. The article title suggests that Lawrence made comments about hurricanes being a sign of Mother Nature's rage directed at Donald Trump, but the actual content of the article does not clearly state this. The article appears to be a fabricated or misleading representation of the actress's statements.",100percentfedup.com,fake,"fake
+
+The article mixes up two different topics: the plot summary of the movie ""Mother!"" and Jennifer Lawrence's comments about hurricanes and climate change. The first paragraph is a plot summary for the movie, while the rest of the text discusses Lawrence's comments on political and environmental issues. The claim that Jennifer Lawrence suggested hurricanes were signs of ""Mother Nature’s rage and wrath"" at America for electing Donald Trump is not a direct quote and seems to be an interpretation or exaggeration of her actual comments. The article also abruptly ends without completing Lawrence's quote, which suggests it might not be a full or accurate representation of the interview.",fake,"fake
+
+The article mixes up two different topics: the plot summary of the movie ""Mother!"" and Jennifer Lawrence's comments about hurricanes and climate change. The first paragraph is a plot summary for the movie, while the rest of the text discusses Lawrence's comments on political and environmental issues. The claim that Jennifer Lawrence suggested hurricanes were signs of ""Mother Nature’s rage and wrath"" at America for electing Donald Trump is not a direct quote and seems to be an interpretation or exaggeration of her actual comments. The article also abruptly ends without completing Lawrence's quote, which suggests it might not be a full or accurate representation of the interview."
+gossipcop-7440482567,popsugar.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3016533567,msn.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,variety.com,indetermine,"fake
+
+The article contains inaccuracies and speculative statements about Meghan Markle's Instagram account and her behavior before and after joining the Royal Family. It also includes a factual error, stating Meghan's real name is Rachel, which is incorrect as her full name is actually Meghan Markle (née Markle).",dailymail.co.uk,fake,"fake
+
+The article contains inaccuracies and exaggerations, such as suggesting that Kate Middleton would never post casual photos on Instagram, which is not a direct comparison since Kate Middleton did not have an active personal social media presence before her royal engagements. Additionally, the claim that Meghan Markle was given the rank of princess is misleading, as she is styled as Her Royal Highness The Duchess of Sussex, not specifically as a princess. The overall tone and content of the article suggest it is more sensationalist than factual.",app.com,fake,"fake
+
+The article contains inaccuracies and sensationalist claims about Meghan Markle's Instagram account and her behavior before and after joining the royal family. It also includes speculative and exaggerated statements that are not supported by factual evidence.",100percentfedup.com,fake,"fake
+
+The article contains inaccuracies and sensationalist claims about Meghan Markle's Instagram account and her behavior before and after joining the royal family. It also includes speculative and exaggerated statements that are not supported by factual evidence.",fake,"fake
+
+The article contains inaccuracies and sensationalist claims about Meghan Markle's Instagram account and her behavior before and after joining the royal family. It also includes speculative and exaggerated statements that are not supported by factual evidence."
+politifact14944,thehill.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-876260,rap-up.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,fake,"fake
+
+The article contains inaccuracies and misleading information. The 2017 MTV Video Music Awards did not take place on August 27; it was held on August 27, 2017, but the year is correctly stated as 2017 in the article. However, the main issue is that there is no widely reported evidence of Remy Ma and Nicki Minaj reigniting their feud at the 2017 VMAs as described. The article suggests specific interactions and performances that did not occur as stated."
+politifact14516,observeronline.news,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,variety.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in a spy movie. Pitt and Jolie dated and then got married after both were separated from their spouses. There was no spy movie they starred in together.",dailymail.co.uk,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in a spy movie. He separated from Jennifer Aniston in 2005, and his relationship with Angelina Jolie began in 2004, during the filming of Mr. & Mrs. Smith, not a spy movie. They did, however, have six children together.",app.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in ""Mr. & Mrs. Smith"" (where he played a spy). He separated from Jennifer Aniston in 2005, and his relationship with Angelina Jolie began in 2004. Additionally, the claim that they shared six children together is incorrect; they have three biological children together and jointly raised three other children.",100percentfedup.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in a spy movie. He separated from Jennifer Aniston in 2005, and his relationship with Angelina Jolie began around the same time, though they were not together during the filming of ""Mr. & Mrs. Smith"" (the spy movie), where they starred alongside each other. They dated and had children together after Brad's separation from Jennifer Aniston.",fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie. He dated and later married Angelina Jolie after his divorce from Jennifer Aniston."
+politifact14855,www2.alabamavotes.gov,fake,variety.com,fake,"fake
+
+The provided text does not match the title ""Alabama Secretary of State"". The text appears to be a generic statement about election results, but it lacks specific details or content related to the Alabama Secretary of State or any particular election event. Therefore, it seems to be a mismatched title and text, suggesting the article might be fake or at least misleading.",dailymail.co.uk,fake,"fake
+
+The provided text is too brief and lacks context to be a full article from a reputable source like dailymail.co.uk. It appears to be a generic election notice rather than an article from a news site. Therefore, based on the limited information given, it seems unlikely to be a genuine article from that source.",app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-862435,people.com,real,variety.com,fake,"fake
+
+The article text does not match the title. The title suggests an article about multiple celebrities who have used gestational surrogates, but the text is focused on one specific person, Andy Cohen, and does not mention other celebrities. Therefore, the claim in the article as presented does not seem to align with the title's implication of a broader scope.",dailymail.co.uk,fake,"fake
+
+The article snippet provided does not match the actual content of Andy Cohen's announcement. Andy Cohen did announce he was going to become a father via a surrogate on his show, but the exact wording in the snippet is not a direct quote and seems to be a summary or paraphrase. Additionally, the source provided (dailymail.co.uk) is not the original source of Andy Cohen's announcement, which would likely be from Bravo or Andy Cohen's own social media or official statements. Therefore, the claim as presented in the article snippet is not verified as true based on the information given.",app.com,fake,"fake
+
+The article appears to be fake or at least contains inaccuracies. Andy Cohen, the host of ""Watch What Happens Live,"" is openly gay and has never expressed a desire to become a biological father. Additionally, the article does not accurately reflect any known public statements or announcements made by Andy Cohen regarding becoming a father through surrogacy. Therefore, the claim in this article is not supported by reliable information and seems to be fabricated.",100percentfedup.com,fake,"fake
+
+The article appears to be inaccurate because Andy Cohen, the host of Watch What Happens Live, is not known for using a surrogate to have a child. The article seems to be mixing up details or attributing statements to a celebrity inaccurately. Additionally, the source (100percentfedup.com) is not a reputable news outlet, which raises further suspicion about the accuracy of the information provided.",fake,"fake
+
+The article mentions an episode of Bravo’s ""Watch What Happens Live"" where the executive producer and host, who is 50 years old, reveals he is expecting his first child via surrogate. However, the executive producer and host of ""Watch What Happens Live"" is actually Andy Cohen, who is known for discussing his personal life on the show, but there is no public record of him using a surrogate to have a child. The article seems to be mixing up details or creating a fictional scenario. Therefore, the claim in this article is not supported by known facts and appears to be fake."
+politifact14815,helloforos.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,variety.com,fake,fake,dailymail.co.uk,real,real,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15048,conservativedailypost.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact98,nymag.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14511,msnbc.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,"real
+
+The article appears to be reporting on a real event where Eric Schneiderman, the former New York Attorney General, was involved in legal actions against the Trump administration regarding the Deferred Action for Childhood Arrivals (DACA) program. However, it's important to note that Eric Schneiderman resigned as Attorney General in 2018 amid sexual misconduct allegations, so the timing of the article might be before that event. The claim itself, based on the information provided, seems to be reporting on a factual event.",real,real
+politifact13775,beforeitsnews.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact348,pollingreport.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,variety.com,fake,fake,dailymail.co.uk,real,real,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-914034,movieweb.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,fake,fake
+politifact1454,msnbc.msn.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,real,real,100percentfedup.com,fake,fake,real,real
+gossipcop-915516,dailynews.news,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-877704,etonline.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact7293,kff.org,real,variety.com,real,real,dailymail.co.uk,fake,"fake
+
+The text provided does not accurately summarize the Affordable Care Act (ACA) as it contains incomplete and inaccurate information. The article's title suggests it is a summary of the ACA, but the content does not provide a comprehensive or accurate summary of the law's provisions. The text is incomplete and does not reflect the full scope and details of the ACA. Therefore, it appears to be a fabricated or inaccurate representation of the ACA.",app.com,real,real,100percentfedup.com,real,real,real,real
+politifact2128,abcnews.go.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-918819,etonline.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,variety.com,fake,"fake
+
+The provided text does not contain an article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the title is not supported by the given text, making it a fake claim based on the information provided.",dailymail.co.uk,indetermine,"fake
+
+The provided text does not contain an actual news article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, there is no factual claim to verify in the given text, making it inappropriate to label it as ""real"" based on the instructions provided.",app.com,fake,"fake
+
+The provided text does not contain an article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the title is not supported by the given text, making it a fake claim based on the information provided.",100percentfedup.com,fake,"fake
+
+The provided text does not contain the actual content of the article titled ""Alabama State Police Arrest 3 Poll Workers In Birmingham"". Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, without the actual content of the article, it's impossible to verify the claim, but the given text does not support the existence or truth of the article's claim.",fake,fake
+politifact15604,worldfactsftw.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,"real
+
+However, it's important to note that while the core claim is real, the article contains some inaccuracies and exaggerations. For example, the payment of $100,000 is not accurate for the NASA Bed Rest Studies. Participants are compensated, but the exact amount can vary and is typically less than the figure mentioned. Additionally, the article suggests that participants can do anything in bed, which is not entirely true as there are specific rules and activities they must follow as part of the study.",real,real
+gossipcop-894897,foxnews.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14265,mainerepublicemailalert.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact13431,time.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact9576,blogs.rollcall.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,variety.com,fake,"fake
+
+The provided text does not match the title and source given. The title mentions Selena Gomez and her new song, but the text discusses Eminem's album ""Kamikaze"". This mismatch suggests that the text is not from the article specified in the title and source, making the claim appear fake.",dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-4908552205,dailymail.co.uk,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-809485,instyle.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-874606,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-860551,today.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-943996,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-897260,elle.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,fake,real,real
+politifact4433,fedupthebook.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,variety.com,fake,fake,dailymail.co.uk,real,real,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,variety.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which aligns with historical and geopolitical events. However, the personal claim about the author's birth in Sevastopol needs verification independently, but the overall context and events described are consistent with real-world political tensions and conflicts.",dailymail.co.uk,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which is a real historical and political context. The events and claims made in the article align with known historical and political facts regarding the region's status and the tensions between Russia and Ukraine. However, the personal anecdote about the author's birth in Sevastopol seems to be an addition to provide a personal connection to the topic, which doesn't affect the factual nature of the rest of the article.",app.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which is a real historical and geopolitical issue. The events and claims made in the article align with known historical and political contexts, including the presence of Russian military in Crimea and the sentiments of some Crimean residents towards Russia. However, without specific fact-checking against official sources for the exact dates and events mentioned, the overall context and claims made are consistent with real-world events.",100percentfedup.com,real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which aligns with historical and geopolitical facts. However, without cross-referencing with multiple reliable sources, it's important to note that the article presents a specific perspective and may include some subjective interpretations. The events and claims described, such as demonstrations and the presence of Russian military, are consistent with known historical and political contexts.",real,"real
+
+The article discusses the political situation in Crimea during a period of tension between Russia and Ukraine, which aligns with historical and geopolitical events. The content reflects the complex relationship between Russia and Ukraine over the control of Crimea, including the presence of Russian military forces and the sentiments of the local population. However, for a more precise verification, one would need to cross-reference with reliable news sources and official statements from the time the article was written."
+politifact15301,bitcoingrower.life,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15256,theglobalheadlines.net,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact1027,forbes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,"fake
+
+The article appears to be a fabricated news story, likely a piece of celebrity gossip or a fake news article. Troy Aikman's actual engagement and marriage details do not align with the information provided in the article. Additionally, the source domain (100percentfedup.com) is not a reputable news outlet, which raises further suspicion about the authenticity of the article.",real,real
+politifact15626,maga2020.us,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact114,govtrack.us,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact285,time.com,real,variety.com,fake,fake,dailymail.co.uk,fake,"fake
+
+The text provided does not match the title ""AUTOS: The Dinosaur Hunter"" and does not seem to be related to an article about dinosaurs or cars. Instead, it appears to be a disclaimer or notice about user accounts and privacy policies on TIME.com. Therefore, the claim in the article as described does not exist or is not accurately represented by the given text.",app.com,fake,"fake
+
+The provided text does not seem to match the title ""AUTOS: The Dinosaur Hunter"" and appears to be a generic warning about using the ""Remember me"" feature on a website, likely TIME.com. The title suggests an article about cars or dinosaurs, which does not align with the content given. Therefore, the claim in the article as presented is likely fake in the context of the given title.",100percentfedup.com,fake,"fake
+
+The provided text does not match the title ""AUTOS: The Dinosaur Hunter"" and seems to be unrelated information about TIME.com's ""Remember me"" feature. The source URL (100percentfedup.com) also does not seem credible for an article about TIME.com's sign-in process. Therefore, this appears to be fake in the context of the given title and source.",fake,fake
+gossipcop-936878,time.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,fake,"fake
+
+The article contains inaccuracies, such as mentioning Victoria and David Beckham's appearance at Westminster Abbey on April 29, 2011, which is unrelated to the 2018 wedding of Prince Harry and Meghan Markle. Additionally, the text cuts off at ""Tom Ha"" without completing the sentence, suggesting it might be incomplete or incorrectly formatted."
+politifact4372,pbs.org,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact11072,foxnews.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake

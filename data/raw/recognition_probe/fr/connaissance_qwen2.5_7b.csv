@@ -1,0 +1,115 @@
+modele,domaine,reponse
+qwen2.5:7b,fool.com,"Connaissance : oui
+Description : Fool.com est un site web dédié à l'investissement et à la finance, connu pour son approche humoristique et ses conseils d'investissement.
+Fiabilité : incertain"
+qwen2.5:7b,buzzfeednews.com,"Connaissance : oui
+Description : Buzzfeednews.com est un site web de journalisme d'enquête et d'information générale appartenant au groupe Buzzfeed, connu pour ses articles de fond et ses reportages d'investigation.
+Fiabilité : incertain"
+qwen2.5:7b,latimes.com,"Connaissance : oui
+Description : Latimes.com est le site Web du Los Angeles Times, un quotidien américain basé à Los Angeles, Californie, qui couvre une large gamme de sujets d'intérêt général.
+Fiabilité : fiable"
+qwen2.5:7b,statista.com,"Connaissance : oui
+Description : Statista est un site de recherche de données et d'informations sur le marché qui propose des statistiques et des études de marché sur un large éventail de sujets.
+Fiabilité : fiable"
+qwen2.5:7b,blogspot.com,"Connaissance : oui
+Description : Blogspot.com est un service de blogging offert par Google qui permet aux utilisateurs de créer et de gérer facilement des blogs Web.
+Fiabilité : fiable"
+qwen2.5:7b,bgr.com,"Connaissance : oui
+Description : BGR.com est un site web américain qui se spécialise dans les actualités et les critiques de technologies, de téléphonie mobile et de gadgets électroniques.
+Fiabilité : peu fiable"
+qwen2.5:7b,cbs8.com,"Connaissance : oui
+Description : CBS8.com est un site Web de nouvelles en direct pour le sud de la Californie, appartenant au groupe de médias CBS.
+Fiabilité : fiable"
+qwen2.5:7b,theweek.co.uk,"Connaissance : oui
+Description : TheWeek.co.uk est un site web britannique qui propose des nouvelles et des analyses sur divers sujets, y compris politique, économie, société et culture.
+Fiabilité : incertain"
+qwen2.5:7b,ibtimes.co.in,"Connaissance : oui
+Description : IBTimes est un site d'information en ligne qui couvre divers sujets tels que l'actualité, les affaires, la technologie, la culture et plus encore. Le site a une présence internationale.
+Fiabilité : peu fiable"
+qwen2.5:7b,metro.news,"Connaissance : oui
+Description : Metro.news est une application de news mobile qui propose des actualités diverses et variées.
+Fiabilité : peu fiable"
+qwen2.5:7b,dailybuzzlive.com,"Connaissance : oui
+Description : DailyBuzzLive.com semble être un site web qui propose des actualités diverses et variées, ainsi que des informations en direct. Cependant, des recherches supplémentaires seraient nécessaires pour confirmer le type exact de contenu et sa fiabilité.
+Fiabilité : incertain"
+qwen2.5:7b,cnn.com,"Connaissance : oui
+Description : CNN.com est un site Web de news international reconnu, offrant des informations en temps réel sur divers sujets.
+Fiabilité : fiable"
+qwen2.5:7b,aljazeera.com,"Connaissance : oui
+Description : Aljazeera.com est un site web de l'agence de presse et chaîne de télévision Al Jazeera, connue pour sa couverture des événements du Moyen-Orient et du monde entier, souvent présentée sous un angle arabe.
+Fiabilité : incertain"
+qwen2.5:7b,madison.com,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+qwen2.5:7b,therightscoop.com,"Connaissance : oui
+Description : TherightScoop.com est un site web qui se présente comme un média spécialisé dans l'actualité juridique et politique.
+Fiabilité : incertain"
+qwen2.5:7b,variety.com,"Connaissance : oui
+Description : Variety.com est un site Web de l'entreprise Variety, un média spécialisé dans l'industrie du divertissement qui couvre les actualités du cinéma, de la télévision, du spectacle et de la musique.
+Fiabilité : fiable"
+qwen2.5:7b,dailymail.co.uk,"Connaissance : oui
+Description : DailyMail.co.uk est un site web britannique de nouvelles et d'actualités qui fait partie du groupe Daily Mail and General Trust. Il se concentre principalement sur les nouvelles locales, nationales et internationales, ainsi que sur les actualités people et divers sujets d'intérêt général.
+Fiabilité : peu fiable"
+qwen2.5:7b,app.com,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+qwen2.5:7b,100percentfedup.com,"Connaissance : oui
+Description : 100percentfedup.com est un site web qui se présente comme une plateforme d'information alternative, se concentrant sur des sujets tels que la politique et l'économie.
+Fiabilité : peu fiable"
+qwen2.5:7b,chicagotribune.com,"Connaissance : oui
+Description : Chicagotribune.com est le site Web du Chicago Tribune, un quotidien américain basé à Chicago, connu pour sa couverture des nouvelles locales ainsi que des événements nationaux et internationaux.
+Fiabilité : fiable"
+qwen2.5:7b,express.co.uk,"Connaissance : oui
+Description : Express.co.uk est un site web britannique d'information en temps réel appartenant au groupe d'entreprises News UK & Scotland On Sunday, qui fait également partie du groupe News UK & Ireland de News UK & Media LLC.
+Fiabilité : peu fiable"
+qwen2.5:7b,amny.com,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+qwen2.5:7b,thecommonsenseshow.com,"Connaissance : oui
+Description : TheCommonSenseShow.com est un site web qui propose des podcasts et des articles axés sur l'économie personnelle, l'investissement et la finance.
+Fiabilité : incertain"
+qwen2.5:7b,themoscowtimes.com,"Connaissance : oui
+Description : Themoscowtimes.com est un site web qui se présente comme une version russe du The Moscow Times, un journal en ligne qui couvre l'actualité politique, économique et culturelle de la Russie.
+Fiabilité : incertain"
+qwen2.5:7b,breitbart.com,"Connaissance : oui
+Description : Breitbart.com est un site web américain connu pour ses positions conservatrices et ses opinions souvent controversées, il est souvent associé à des thèmes comme la droite populiste et le nationalisme américain.
+Fiabilité : peu fiable"
+qwen2.5:7b,bramptonguardian.com,"Connaissance : oui
+Description : BramptonGuardian.com est un site Web de nouvelles en ligne qui couvre principalement les actualités locales de Brampton, une ville située en Ontario, au Canada.
+Fiabilité : incertain"
+qwen2.5:7b,dailystar.co.uk,"Connaissance : oui
+Description : DailyStar.co.uk est un site web britannique qui publie des nouvelles, des articles et des contenus divertissants, axés principalement sur le divertissement, les célébrités et les actualités locales.
+Fiabilité : peu fiable"
+qwen2.5:7b,rte.ie,"Connaissance : oui
+Description : rte.ie est le site web principal de Radio Telefis Eireann (RTÉ), la radio et la télévision publique d'Irlande.
+Fiabilité : fiable"
+qwen2.5:7b,thesun.co.uk,"Connaissance : oui
+Description : TheSun.co.uk est un site web britannique de presse à sensation, connu pour ses articles à forte connotation émotionnelle et parfois controversés.
+Fiabilité : peu fiable"
+qwen2.5:7b,fresnobee.com,"Connaissance : oui
+Description : fresnobee.com est un média en ligne local couvrant la région de Fresno, en Californie, aux États-Unis.
+Fiabilité : incertain"
+qwen2.5:7b,wegotthiscovered.com,"Connaissance : oui
+Description : WeGotThisCovered est un site web de divertissement américain qui se concentre sur les actualités du cinéma, de la télévision et des médias sociaux.
+Fiabilité : incertain"
+qwen2.5:7b,ajc.com,"Connaissance : oui
+Description : Ajc.com est le site web du Atlanta Journal-Constitution, un journal d'Atlanta en Géorgie aux États-Unis.
+Fiabilité : fiable"
+qwen2.5:7b,gaytimes.co.uk,"Connaissance : oui
+Description : Gaytimes.co.uk est un site web qui se présente comme un guide de la vie gay, proposant des informations sur les événements, les bars, les clubs et les lieux de Londres, Royaume-Uni, ainsi que des contenus éditoriaux et des services aux utilisateurs LGBTQ+.
+Fiabilité : incertain"
+qwen2.5:7b,neonnettle.com,"Connaissance : non
+Description : aucune
+Fiabilité : inconnu"
+qwen2.5:7b,sfgate.com,"Connaissance : oui
+Description : SFGate.com est un site Web de news et de divertissement couvrant la région de la baie de San Francisco, appartenant au groupe de médias Advance Local.
+Fiabilité : fiable"
+qwen2.5:7b,pagesix.com,"Connaissance : oui
+Description : Pagesix.com est un site web américain spécialisé dans les actualités people, le show business et les célébrités.
+Fiabilité : peu fiable"
+qwen2.5:7b,news5cleveland.com,"Connaissance : oui
+Description : news5cleveland.com est un site Web de nouvelles en ligne qui couvre principalement les actualités locales de la région de Cleveland, Ohio.
+Fiabilité : incertain"
+qwen2.5:7b,gawker.com,"Connaissance : oui
+Description : Gawker.com était un site Web américain de médias people et de blogosphère qui a publié des nouvelles, des chroniques et des photos de célébrités, de politique et d'autres sujets divers.
+Fiabilité : peu fiable"

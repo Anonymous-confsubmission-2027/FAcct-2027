@@ -1,0 +1,191 @@
+modele,domaine,reponse,reponse_brute
+phi4-mini,fool.com,"Knowledge: yes
+Description: Media Fool.com is a website that offers a variety of articles and resources related to media, entertainment, and pop culture.
+Reliability: reliable","Knowledge: yes
+Description: Media Fool.com is a website that offers a variety of articles and resources related to media, entertainment, and pop culture.
+Reliability: reliable"
+phi4-mini,buzzfeednews.com,"Knowledge: yes
+Description: BuzzFeed News is a section of BuzzFeed, a digital media company known for its viral content and articles on entertainment, culture, and current events.
+Reliability: reliable","Knowledge: yes
+Description: BuzzFeed News is a section of BuzzFeed, a digital media company known for its viral content and articles on entertainment, culture, and current events.
+Reliability: reliable"
+phi4-mini,latimes.com,"Knowledge: yes
+Description: latimes.com is the official website of the Los Angeles Times, a well-known American newspaper.
+Reliability: reliable","Knowledge: yes
+Description: latimes.com is the official website of the Los Angeles Times, a well-known American newspaper.
+Reliability: reliable"
+phi4-mini,statista.com,"Knowledge: yes
+Description: Statista.com is a platform that provides business statistics and insights on various topics including market trends, consumer behavior, and digital media.
+Reliability: reliable","Knowledge: yes
+Description: Statista.com is a platform that provides business statistics and insights on various topics including market trends, consumer behavior, and digital media.
+Reliability: reliable"
+phi4-mini,blogspot.com,"Knowledge: yes
+Description: Media Blogspot.com is a platform for sharing and discovering media-related content.
+Reliability: unknown","Knowledge: yes
+Description: Media Blogspot.com is a platform for sharing and discovering media-related content.
+Reliability: unknown"
+phi4-mini,bgr.com,"Knowledge: yes
+Description: bgr.com is a technology-focused media company that covers a wide range of topics including consumer electronics, science, and culture.
+Reliability: reliable","Knowledge: yes
+Description: bgr.com is a technology-focused media company that covers a wide range of topics including consumer electronics, science, and culture.
+Reliability: reliable"
+phi4-mini,cbs8.com,"Knowledge: yes
+Description: cbs8.com is the official website for CBS 8, a television station in New York City.
+Reliability: reliable","Knowledge: yes
+Description: cbs8.com is the official website for CBS 8, a television station in New York City.
+Reliability: reliable"
+phi4-mini,theweek.co.uk,"Knowledge: yes
+Description: theweek.co.uk is a UK-based news website that provides weekly updates on a variety of topics including business, technology, and culture.
+Reliability: reliable","Knowledge: yes
+Description: theweek.co.uk is a UK-based news website that provides weekly updates on a variety of topics including business, technology, and culture.
+Reliability: reliable"
+phi4-mini,ibtimes.co.in,"Knowledge: yes
+Description: ibtimes.co.in is an Indian news portal that provides news and information on entertainment, sports, technology, and lifestyle.
+Reliability: reliable","Knowledge: yes
+Description: ibtimes.co.in is an Indian news portal that provides news and information on entertainment, sports, technology, and lifestyle.
+Reliability: reliable"
+phi4-mini,metro.news,"Knowledge: yes
+Description: metro.news is a news portal that provides news and information about transportation, including metro systems and public transit.
+Reliability: reliable","Knowledge: yes
+Description: metro.news is a news portal that provides news and information about transportation, including metro systems and public transit.
+Reliability: reliable"
+phi4-mini,dailybuzzlive.com,"Knowledge: yes
+Description: dailybuzzlive.com is a media website that covers a wide range of topics including entertainment, sports, technology, and lifestyle.
+Reliability: unknown","Knowledge: yes
+Description: dailybuzzlive.com is a media website that covers a wide range of topics including entertainment, sports, technology, and lifestyle.
+Reliability: unknown"
+phi4-mini,cnn.com,"Knowledge: yes
+Description: cnn.com is the official website of the Cable News Network (CNN), a global news organization.
+Reliability: reliable","Knowledge: yes
+Description: cnn.com is the official website of the Cable News Network (CNN), a global news organization.
+Reliability: reliable"
+phi4-mini,aljazeera.com,"Knowledge: yes
+Description: aljazeera.com is a global English-language news organization based in Qatar that provides news coverage on international and regional affairs.
+Reliability: reliable","Knowledge: yes
+Description: aljazeera.com is a global English-language news organization based in Qatar that provides news coverage on international and regional affairs.
+Reliability: reliable"
+phi4-mini,madison.com,"Knowledge: yes
+Description: Media Madison is a news outlet focused on covering events and stories in Madison, Wisconsin.
+Reliability: reliable","Knowledge: yes
+Description: Media Madison is a news outlet focused on covering events and stories in Madison, Wisconsin.
+Reliability: reliable"
+phi4-mini,therightscoop.com,"Knowledge: yes
+Description: media therightscoop.com is a news outlet that focuses on media and technology topics, particularly intellectual property rights and copyright issues.
+Reliability: reliable","Knowledge: yes
+Description: media therightscoop.com is a news outlet that focuses on media and technology topics, particularly intellectual property rights and copyright issues.
+Reliability: reliable"
+phi4-mini,variety.com,"Knowledge: yes
+Description: Media Variety is a news portal that covers entertainment, lifestyle, and pop culture.
+Reliability: reliable","Knowledge: yes
+Description: Media Variety is a news portal that covers entertainment, lifestyle, and pop culture.
+Reliability: reliable"
+phi4-mini,dailymail.co.uk,"Knowledge: yes
+Description: none
+Reliability: unknown","Knowledge: yes
+Description: none
+Reliability: unknown"
+phi4-mini,app.com,"Knowledge: yes
+Description: app.com is a media platform that aggregates content from various sources, including news, entertainment, and social media.
+Reliability: reliable","Knowledge: yes
+Description: app.com is a media platform that aggregates content from various sources, including news, entertainment, and social media.
+Reliability: reliable"
+phi4-mini,100percentfedup.com,"Knowledge: yes
+Description: 100percentfedup.com is a media outlet that focuses on exposing what it describes as the mainstream media's bias and propaganda.
+Reliability: uncertain","Knowledge: yes
+Description: 100percentfedup.com is a media outlet that focuses on exposing what it describes as the mainstream media's bias and propaganda.
+Reliability: uncertain"
+phi4-mini,chicagotribune.com,"Knowledge: yes
+Description: media chicagotribune.com is the official website of The Chicago Tribune, a daily newspaper in Chicago, Illinois.
+Reliability: reliable","Knowledge: yes
+Description: media chicagotribune.com is the official website of The Chicago Tribune, a daily newspaper in Chicago, Illinois.
+Reliability: reliable"
+phi4-mini,express.co.uk,"Knowledge: yes
+Description: express.co.uk is a British online news portal that provides news, sports, entertainment, and travel content.
+Reliability: reliable","Knowledge: yes
+Description: express.co.uk is a British online news portal that provides news, sports, entertainment, and travel content.
+Reliability: reliable"
+phi4-mini,amny.com,"Knowledge: yes
+Description: none
+Reliability: unknown","Knowledge: yes
+Description: none
+Reliability: unknown"
+phi4-mini,thecommonsenseshow.com,"Knowledge: yes
+Description: thecommonsenseshow.com is a media outlet that provides content related to common sense and everyday life.
+Reliability: unknown","Knowledge: yes
+Description: thecommonsenseshow.com is a media outlet that provides content related to common sense and everyday life.
+Reliability: unknown"
+phi4-mini,themoscowtimes.com,"Knowledge: yes
+Description: themoscowtimes.com is a Russian news website that provides news and information about Moscow and its region.
+Reliability: reliable","Knowledge: yes
+Description: themoscowtimes.com is a Russian news website that provides news and information about Moscow and its region.
+Reliability: reliable"
+phi4-mini,breitbart.com,"Knowledge: yes
+Description: Breitbart.com is an American online news website known for its conservative and often controversial viewpoints.
+Reliability: uncertain","Knowledge: yes
+Description: Breitbart.com is an American online news website known for its conservative and often controversial viewpoints.
+Reliability: uncertain"
+phi4-mini,bramptonguardian.com,"Knowledge: yes
+Description: none
+Reliability: unknown","Knowledge: yes
+Description: none
+Reliability: unknown"
+phi4-mini,dailystar.co.uk,"Knowledge: yes
+Description: none
+Reliability: unknown","Knowledge: yes
+Description: none
+Reliability: unknown"
+phi4-mini,rte.ie,"Knowledge: yes
+Description: media rte.ie is a news outlet that provides news and information about Ireland.
+Reliability: reliable","Knowledge: yes
+Description: media rte.ie is a news outlet that provides news and information about Ireland.
+Reliability: reliable"
+phi4-mini,thesun.co.uk,"Knowledge: yes
+Description: none
+Reliability: unknown","Knowledge: yes
+Description: none
+Reliability: unknown"
+phi4-mini,fresnobee.com,"Knowledge: yes
+Description: Media Fresno Bee is a local newspaper serving the Fresno, California area.
+Reliability: reliable","Knowledge: yes
+Description: Media Fresno Bee is a local newspaper serving the Fresno, California area.
+Reliability: reliable"
+phi4-mini,wegotthiscovered.com,"Knowledge: yes
+Description: wegotthiscovered.com is a website that reviews and rates video games.
+Reliability: reliable","Knowledge: yes
+Description: wegotthiscovered.com is a website that reviews and rates video games.
+Reliability: reliable"
+phi4-mini,ajc.com,"Knowledge: yes
+Description: ajc.com is an online news portal that provides news and information about agriculture, including market trends, farming techniques, and agricultural policies.
+Reliability: reliable","Knowledge: yes
+Description: ajc.com is an online news portal that provides news and information about agriculture, including market trends, farming techniques, and agricultural policies.
+Reliability: reliable"
+phi4-mini,gaytimes.co.uk,"Knowledge: yes
+Description: gaytimes.co.uk is a UK-based online news website that covers LGBTQ+ news and events.
+Reliability: reliable","Knowledge: yes
+Description: gaytimes.co.uk is a UK-based online news website that covers LGBTQ+ news and events.
+Reliability: reliable"
+phi4-mini,neonnettle.com,"Knowledge: yes
+Description: none
+Reliability: unknown","Knowledge: yes
+Description: none
+Reliability: unknown"
+phi4-mini,sfgate.com,"Knowledge: yes
+Description: sfgate.com is a news website that covers San Francisco and Northern California.
+Reliability: reliable","Knowledge: yes
+Description: sfgate.com is a news website that covers San Francisco and Northern California.
+Reliability: reliable"
+phi4-mini,pagesix.com,"Knowledge: yes
+Description: pagesix.com is a media company that provides news and entertainment content.
+Reliability: reliable","Knowledge: yes
+Description: pagesix.com is a media company that provides news and entertainment content.
+Reliability: reliable"
+phi4-mini,news5cleveland.com,"Knowledge: yes
+Description: media news5cleveland.com is a news website that provides local news coverage for Cleveland, Ohio.
+Reliability: reliable","Knowledge: yes
+Description: media news5cleveland.com is a news website that provides local news coverage for Cleveland, Ohio.
+Reliability: reliable"
+phi4-mini,gawker.com,"Knowledge: yes
+Description: Gawker.com was a controversial online media and entertainment website that operated from 2002 to 2016.
+Reliability: Unknown","Knowledge: yes
+Description: Gawker.com was a controversial online media and entertainment website that operated from 2002 to 2016.
+Reliability: Unknown"

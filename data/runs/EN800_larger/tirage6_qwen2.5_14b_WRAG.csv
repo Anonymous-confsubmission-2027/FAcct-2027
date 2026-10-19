@@ -1,0 +1,397 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,fake,real,real
+gossipcop-1812612510,instyle.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14896,bluedotdaily.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact8085,realclearpolitics.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,fake,real,real
+politifact8371,tampabay.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article title and content do not match. The title suggests the article is about Representative Ross advocating for the government to resume operations, but the content appears to be a partial and incomplete statement from a politician discussing the impacts of a government shutdown. The source URL indicates the content is from a LGBTQ+ news site, which is unusual for such political statements and suggests the content might be fabricated or taken out of context. Additionally, the abrupt ending of the text without completing the thought or statement further indicates that this might not be a genuine or complete article.",neonnettle.com,real,real,real,real
+politifact6646,politifact.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact627,thecaucus.blogs.nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact11899,washingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The source and content of the article do not match. The article claims to be a transcript of a Democratic debate between Bernie Sanders and Hillary Clinton, but the source is gaytimes.co.uk, which is a UK-based LGBTQ+ news and culture website. This source is unlikely to be the original source of such a transcript, and the content description does not fit the typical format or style of a news article from this site. Additionally, the mention of ""The Fix team and other Washington Post reporters"" suggests that the actual source should be The Washington Post, not gaytimes.co.uk. Therefore, the claim appears to be false or the article is misattributed.",neonnettle.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15309,nrtonline.info,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article title and content do not match. The title mentions a ""3rd Democratic debate"" and focuses on topics such as gun control, Syria, and the economy, but the text describes a scenario that seems to be about annotating a transcript, which is not clearly linked to the specific debate mentioned in the title. Additionally, the source provided (gaytimes.co.uk) is not a typical source for political debate transcripts and analysis, which raises suspicion about the authenticity of the content.",neonnettle.com,real,real,real,real
+politifact14862,ravinderbhalla.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,indetermine,"fake
+
+The text appears to be incomplete and contains a mix of factual information and grammatical errors, suggesting it might be a fabricated or poorly constructed piece rather than a genuine article. The abrupt ending and the mention of ""Ravi earned nati"" without context or completion indicates that this is likely not a real article.",neonnettle.com,real,real,real,real
+gossipcop-908446,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-855390,nydailynews.com,real,buzzfeednews.com,fake,"fake
+
+The provided text does not match the title of the article. The title suggests that there is a discussion about a transphobic comment made by a contestant on ""The Bachelorette,"" while the text provided talks about a contestant named Powers and mentions that Lindsay is engaged to one of the contestants. The text does not provide any information related to a transphobic comment or a contestant being dragged for such a comment. Therefore, the claim in the article as described in the text is not true based on the information given.",ajc.com,fake,"fake
+
+The provided text does not match the title and seems to be unrelated to the topic mentioned in the title, which is about a 'Bachelorette' contestant making a transphobic comment. The text provided talks about engagement, which does not align with the context of the title. Therefore, it appears to be fake or at least misleading in relation to the title.",gaytimes.co.uk,fake,"fake
+
+The provided text does not match the title and seems to be unrelated to the topic of a 'Bachelorette' contestant making a transphobic comment. The text mentions an engagement which does not connect to the issue of transphobia or the reality show contestant's comment. Therefore, the claim in the article appears to be false based on the given information.",neonnettle.com,fake,fake,fake,fake
+politifact15592,opreminfo.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact439,abcnews.go.com,real,buzzfeednews.com,fake,"fake
+
+The title and text provided do not match. The title references ABC News, but the content describes a situation in Iraq that seems to be from a different article, likely from a different news source. Additionally, the title provided does not match the actual BuzzFeed News domain mentioned at the source. Therefore, this appears to be a mismatch or a fabricated combination, suggesting it is fake.",ajc.com,fake,"fake
+
+The title and text provided do not match the source mentioned (ajc.com). The title suggests it is from ABC News, but the content seems to be about a specific news item that would not typically be summarized in such a brief manner for a headline. Additionally, the source URL does not align with the content or the title provided. Therefore, this appears to be a mismatch or a fabricated entry.",gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,real,real
+politifact14376,dailyfeed.news,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-856933,rap-up.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15386,hotgazette.com,fake,buzzfeednews.com,fake,"fake
+
+The article contains inaccuracies and speculative statements that do not align with factual reports. For example, Rudy Giuliani did not officially resign from the president's legal team in the manner described. Additionally, the article cuts off abruptly and does not provide a complete or verifiable statement about Giuliani's status with Greenberg Traurig or his role in the Trump legal team. Therefore, based on the information provided and the nature of the claims, the article appears to be fake.",ajc.com,fake,"fake
+
+The article seems to contain inaccuracies and lacks a proper conclusion. Specifically, it abruptly ends without completing the sentence about Richard Rosenbaum, which suggests it might be incomplete or inaccurately reported. Additionally, the claim that Rudy Giuliani is going on leave from his law firm to take on a full-time role for Trump without being fired by Trump seems exaggerated and not well-supported by the information provided.",gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-895969,time.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,"fake
+
+The article claims that Seth Meyers is hosting the 2018 Golden Globes, but in reality, the 2018 Golden Globes were hosted by Jimmy Fallon. The article appears to be mixing up information from different years.",real,real
+politifact8611,america.aljazeera.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,"fake
+
+Note: The article seems to be discussing a scenario involving Hassan Rouhani, who was the President of Iran from 2013 to 2021, and Saeed Jalili, who was a conservative figure in Iranian politics. However, the claim that the Israeli government greeted Rouhani's election victory with hostility is not accurate based on historical records. In reality, Rouhani's election was seen as a positive development by many in the West and Israel, as he was perceived as a moderate who could potentially ease tensions with the West and address the international community's concerns about Iran's nuclear program. Therefore, the article appears to contain misinformation or is presenting a skewed perspective.",real,real
+gossipcop-1773639736,metro.co.uk,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact7511,thehill.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact6932,politifact.com,real,buzzfeednews.com,fake,"fake
+
+The article snippet provided does not contain the claim that Mitt Romney condemned coal-fired power plants as killers. Instead, it describes Romney's stance on coal and environmental regulation during his campaign. The claim about Romney condemning coal-fired power plants as killers seems to be a misrepresentation or a fabrication, as it does not align with the content of the article snippet or Romney's known positions.",ajc.com,fake,"fake
+
+The article snippet provided does not contain the claim that Barack Obama said Mitt Romney condemned coal-fired power plants as killers. The text is about Mitt Romney's stance on coal and environmental regulation during his campaign, but it does not mention any statement from Barack Obama regarding Mitt Romney's views on coal-fired power plants. Therefore, the claim in the question is not supported by the given text and appears to be fabricated or taken out of context.",gaytimes.co.uk,fake,"fake
+
+The article title and content do not match. The title suggests that Mitt Romney condemned coal-fired power plants as killers, which is not supported by the content of the article. The article actually describes Romney as supporting coal miners and their jobs, while criticizing President Obama's environmental regulations as threatening those jobs. Therefore, the claim in the title is not accurate based on the information provided in the article.",neonnettle.com,fake,"fake
+
+The article title and content do not match. The title suggests that Mitt Romney condemned coal-fired power plants as killers, which is not supported by the content of the article. Instead, the article describes Romney as supporting coal miners and criticizing President Obama's environmental regulations as threatening jobs in the coal industry. Therefore, the claim in the title is not accurate based on the information provided in the article.",fake,"fake
+
+The title of the article suggests that Mitt Romney condemned coal-fired power plants as killers, which is not supported by the content of the article. The article actually describes Romney as supporting coal miners and their jobs, and criticizing President Obama's administration for regulations that threaten those jobs. Therefore, the claim in the title is not accurate based on the information provided in the article."
+politifact408,mtv.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14114,economist.com,real,buzzfeednews.com,real,"real
+
+The article appears to be a transcript of an interview with Donald Trump, which is a plausible scenario given his presidency and the practice of world leaders being interviewed by major publications like The Economist. However, without cross-referencing with the actual publication or a credible source, the safest conclusion based on the provided information is that it is real, as it follows a typical format for such interviews and does not contain any obviously fabricated elements.",ajc.com,real,"real
+
+The article appears to be a transcript of an interview with Donald Trump, which is a plausible scenario given his role as the President of the United States in 2017. The mention of Steve Mnuchin and Gary Cohn, who were indeed part of Trump's administration, further supports the authenticity of the article. The reference to The Economist, a reputable news source, also lends credibility to the piece. Therefore, based on the information provided, the claim in the article seems to be real.",gaytimes.co.uk,fake,"fake
+
+The article appears to be fake or at least misleading. The source is gaytimes.co.uk, which is a UK-based LGBTQ+ news and culture website, and it seems unlikely that they would publish a transcript of an interview with Donald Trump and high-ranking officials from The Economist. Additionally, the text provided does not match the content of any known interviews or transcripts from that period. The format and content also seem inconsistent with what would be expected from a reputable news source.",neonnettle.com,fake,"fake
+
+The provided text does not contain a full or accurate transcript of an interview with Donald Trump. The snippet appears to be incomplete and lacks the detailed content one would expect from a full interview transcript. Additionally, the format and structure of the text suggest it is an excerpt from a larger article or a summary rather than a transcript. The presence of placeholders like ""Get our daily newsletter Upgrade your inbox and get our Daily Dispatch and Editor's Picks"" further indicates that this is not a genuine transcript.",fake,"fake
+
+The provided text does not contain a complete or verifiable transcript of an interview with Donald Trump. The excerpt is incomplete and lacks the detailed content one would expect from a transcript. Additionally, the format and structure of the text suggest it is an incomplete article or a snippet from a larger piece, rather than a full transcript. Therefore, based on the limited information provided, it appears to be fabricated or at least not a complete and accurate transcript."
+politifact674,legis.state.ak.us,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,fake,neonnettle.com,real,real,real,real
+gossipcop-2220709136,express.co.uk,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-3401078624,newidea.com.au,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact938,nytimes.com,real,buzzfeednews.com,fake,"fake
+
+The provided text does not seem to be a coherent excerpt from a single article about a peanut product recall. The text mixes quotes from different contexts, including a statement about Sasha Obama's lunch and a mention of a new FDA commissioner, which does not directly relate to the claim about the peanut product recall requiring company approval. Therefore, it appears to be a fabricated or misrepresented excerpt.",ajc.com,fake,"fake
+
+The text provided does not seem to be a coherent excerpt from an article about a peanut product recall. The first part of the text appears to be a quote from Barack Obama about his daughter's lunch, and the second part mentions a press secretary's statement about food safety regulations. There is no clear connection to a peanut product recall or the requirement for a company's approval causing delays in warnings. Therefore, the claim in this article, as presented, seems to be fake or at least not accurately represented by the given text.",gaytimes.co.uk,fake,"fake
+
+The text provided does not match the title and description given. The title suggests the article is about a peanut product recall and company approval, but the text appears to be about President Obama's comments on food safety and the appointment of a new FDA commissioner. The content does not directly relate to the claim made in the title and description.",neonnettle.com,fake,"fake
+
+The text provided does not seem to be a coherent excerpt from an article about a peanut product recall. The content mixes unrelated statements about President Obama's daughter's lunch, a White House press secretary's comments about food safety, and a vague reference to a peanut company's approval causing delays in warnings. This suggests the text is not from a single, verified source and appears to be a fabricated or misleading article.",fake,fake
+gossipcop-3433548691,dailymail.co.uk,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,fake,real,real
+politifact14310,quickening-spirit.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1067,foxnews.com,real,buzzfeednews.com,fake,"fake
+
+The article text provided appears to be a transcript from a Fox News show discussing a letter from the Media Fairness Caucus to ABC News, but the title ""An Open Letter to 'All Barack Channel'"" does not match the content of the transcript and seems to be a Buzzfeed article title, which is not referenced in the provided text. The claim in the title does not align with the content of the transcript, suggesting that the article title might be misleading or out of context. Therefore, based on the mismatch between the title and the content provided, the claim can be considered ""fake.""",ajc.com,real,"real
+
+The article appears to be a transcript from a Fox News show discussing a letter from the Media Fairness Caucus to ABC News regarding perceived bias in coverage of President Obama. This is a real news event from 2009.",gaytimes.co.uk,fake,"fake
+
+The article text provided does not match the title and source given. The text appears to be about a controversy involving ABC News and the Media Fairness Caucus regarding coverage of President Obama, while the title suggests it is an open letter to 'All Barack Channel', which seems unrelated to the content provided. Additionally, the source given is a UK-based LGBTQ+ news site, which is unlikely to publish content about a U.S. political controversy in the format and language used in the provided text. Therefore, the claim in this article is likely fake.",neonnettle.com,indetermine,"fake
+
+The article appears to be a transcript from a Fox News show discussing a letter from the Media Fairness Caucus to ABC News. However, the Media Fairness Caucus is not a real organization, and the claim about 40 Republican members of Congress being furious at ABC News is not supported by factual evidence. Therefore, the claim is fake.",real,real
+politifact13677,newsbreakshere.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact13905,usnnetwork.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-875236,mtv.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact939,nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article text and title do not match the typical content or style of the source website (gaytimes.co.uk), which is known for LGBTQ+ news and culture. The content provided appears to be about U.S. education policy and seems to be from a different source, likely a news article from a site like The New York Times or The Washington Post. Therefore, the claim that this article is from gaytimes.co.uk is false.",neonnettle.com,real,real,real,real
+politifact13897,huzlers.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,buzzfeednews.com,real,real,ajc.com,fake,"fake
+
+The article appears to be incomplete and contains inaccuracies. For example, it mentions that Bush was discharged from a Maine hospital earlier this month after being admitted due to low blood pressure, but it does not provide a specific date or accurate context. Additionally, the article abruptly ends, suggesting it is incomplete. The accurate information about the death of George H.W. Bush was that it occurred on November 30, 2018, and the cause of death was not specified as ""peacefully in his afternoon nap"" in official statements. Therefore, based on the incomplete and potentially inaccurate information provided, the claim in this article is ""fake"".",gaytimes.co.uk,fake,"fake
+
+The article appears to contain inaccuracies and incomplete information. For example, the source is ""gaytimes.co.uk,"" which is not a typical source for such news. Additionally, the text is incomplete and contains grammatical errors, suggesting it might be a fabricated or poorly written piece rather than a legitimate news article.",neonnettle.com,fake,"fake
+
+The article appears to be incomplete and contains inaccuracies. George H.W. Bush did pass away on November 30, 2018, but the details provided in the article do not match the official statements and reports from reliable sources. The article seems to be missing crucial information and contains grammatical errors, suggesting it may not be a reliable source for this news.",indetermine,"fake
+
+The article is missing some crucial details and contains inaccuracies that make it seem incomplete or potentially fabricated. For example, it abruptly ends without completing a sentence about Bush's previous hospital admission in Houston. Additionally, while the statement about Bush's death is factual, the article's structure and content suggest it might be a fabricated or incomplete piece. However, the core claim about Bush's death is real, but the context and presentation of the information are questionable. Given the instruction to respond with only one word, ""fake"" is chosen due to the incomplete and potentially misleading nature of the article."
+gossipcop-6857674423,hindustantimes.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14026,politicass.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,buzzfeednews.com,fake,"fake
+
+The provided text does not match the title or the claim about Taylor Swift being shut out from the top 2018 Grammy categories. The text discusses the possibility of Kendrick Lamar sweeping the rap Grammy categories, which is unrelated to Taylor Swift's Grammy nominations. Therefore, the claim in the article title is not supported by the given text, making it appear as if the article's content and title do not align, suggesting the claim is fake or the text is out of context.",ajc.com,fake,"fake
+
+The provided text does not match the title and description given. The text discusses the Grammy nominations for rap categories and mentions Kendrick Lamar, but the title and description suggest the article is about Taylor Swift being shut out from the top 2018 Grammy categories. Therefore, the claim in the article as described does not align with the provided text, making it ""fake"".",gaytimes.co.uk,fake,"fake
+
+The provided text does not match the title or the claim made in the title. The title suggests an explanation for why Taylor Swift was shut out from the top 2018 Grammy categories, but the text provided discusses Kendrick Lamar's potential sweep of the rap Grammy categories, with no mention of Taylor Swift or her Grammy nominations/exclusions. Therefore, the text appears to be unrelated to the title and claim, making it seem like the article's content does not match its title, which suggests it might be fake or at least misleading.",neonnettle.com,fake,"fake
+
+The provided text does not match the title or the claim made in the title. The title suggests that the article is about why Taylor Swift was shut out from the top 2018 Grammy categories, but the text provided is about Kendrick Lamar's potential sweep of the rap Grammy categories. Therefore, the claim in the article does not align with the content provided, making it ""fake"".",fake,"fake
+
+The article text does not match the title. The title suggests an explanation for why Taylor Swift was shut out from the top 2018 Grammy categories, but the text discusses Kendrick Lamar's potential sweep of the rap Grammy categories. There is no mention of Taylor Swift or her exclusion from Grammy nominations in the provided text."
+gossipcop-7190490486,usmagazine.com,fake,buzzfeednews.com,fake,"fake
+
+The article appears to be a fabricated or exaggerated piece of entertainment news, likely written in a sensationalist style common on sites like BuzzFeed. Stephen Colletti's actual statements do not suggest he is seriously considering being a bachelor on ""The Bachelor"" show, and the article's tone and content seem more like speculative gossip than factual reporting.",ajc.com,fake,"fake
+
+The article appears to be a fabricated or exaggerated piece of entertainment news, as Stephen Colletti's statements about potentially appearing on ""The Bachelor"" are inconsistent and the overall tone is sensationalized. Additionally, the article seems to contain grammatical errors and incomplete sentences, which suggests it might not be a genuine news report.",gaytimes.co.uk,fake,"fake
+
+The article appears to be a fabricated piece of gossip or a speculative article rather than a factual report. Stephen Colletti's actual statements do not confirm his participation in ""The Bachelor,"" and the text seems to mix up quotes and speculations.",neonnettle.com,fake,fake,fake,fake
+politifact15606,thegoldwater.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,buzzfeednews.com,real,"real
+
+The article discusses rumors surrounding Prince Harry and Meghan Markle's wedding, and one of the rumors mentioned is about an empty chair that some speculated was for Princess Diana. This rumor gained significant attention and was widely discussed in the media and on social platforms. While the article does not confirm or deny the rumor, it is a well-known topic of discussion and speculation following the wedding, making the claim ""real"" in the context of public discourse and media coverage.",ajc.com,fake,"fake
+
+The article snippet discusses a rumor about an empty chair during Prince Harry and Meghan Markle's wedding being for Princess Diana. While it's true that Princess Diana was a significant figure in the planning and sentiment surrounding the wedding, there was no reported empty chair at the ceremony for her. This rumor is often circulated but not substantiated by official reports or statements from the royal family. Therefore, the claim in the article is not based on factual evidence and can be considered fake.",gaytimes.co.uk,real,"real
+
+The article discusses a rumor surrounding Prince Harry and Meghan Markle's wedding, specifically about an empty chair that some speculated was for Princess Diana. This kind of speculation and rumor was indeed prevalent during and after the wedding, making the claim in the article real in the context of the public discourse and media coverage at the time. However, it's important to note that the article is addressing a rumor, not confirming it as fact.",neonnettle.com,fake,"fake
+
+The article snippet suggests a rumor about an empty chair at Prince Harry and Meghan Markle's wedding being for Princess Diana. However, there was no empty chair at the ceremony. The speculation about an empty chair was a misunderstanding or a rumor that circulated on social media and the internet, but it was not a factual occurrence at the wedding. Therefore, the claim in the article is not accurate based on the actual event.",fake,"fake
+
+The article snippet suggests a rumor about an empty chair being present at Prince Harry and Meghan Markle's wedding as a tribute to Princess Diana. However, there is no credible evidence or official confirmation that an empty chair was placed at the ceremony for Diana. Therefore, this claim is considered fake based on the information available."
+gossipcop-942114,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,buzzfeednews.com,fake,"fake
+
+The article snippet provided mixes up two different topics: a movie description for ""Mother!"" and a statement attributed to Jennifer Lawrence about hurricanes and Donald Trump. The latter part about Lawrence's comments on hurricanes and Trump is not a verified fact and seems to be a fabricated or exaggerated claim, especially considering the context of her promoting a movie and the nature of such statements being made in interviews. Without a direct link to the interview or a reputable source confirming these exact words, it's reasonable to consider this claim as fake.",ajc.com,fake,"fake
+
+The article snippet provided mixes up two different topics: a movie description for ""Mother!"" and a statement attributed to Jennifer Lawrence about hurricanes and Donald Trump. The latter part about Lawrence's comments on hurricanes and Trump is not a verified fact and seems to be a fabricated or exaggerated claim, especially considering the context of her promoting a movie and the nature of such statements being made in interviews. Therefore, the claim is fake.",gaytimes.co.uk,fake,"fake
+
+The article's content mixes up two different topics: a movie synopsis for ""Mother!"" and a statement attributed to Jennifer Lawrence about hurricanes and Donald Trump. The latter part about Lawrence's comments on hurricanes and climate change is not a verified fact and seems to be a fabricated or exaggerated claim based on the context provided. Jennifer Lawrence did not make such a statement as described in the article.",neonnettle.com,fake,fake,fake,fake
+gossipcop-7440482567,popsugar.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,fake,real,real
+gossipcop-3016533567,msn.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,buzzfeednews.com,real,"real
+
+The article discusses the changes in Meghan Markle's social media presence, particularly her Instagram account, around the time of her engagement and marriage to Prince Harry. This is a factual observation based on public information and media reports. However, the article seems incomplete and lacks specific details or citations to verify every claim. Given the context and the general accuracy of the described situation, the claim appears to be real.",ajc.com,real,"real
+
+The article discusses the changes in Meghan Markle's social media presence, particularly her Instagram account, around the time of her engagement and marriage to Prince Harry. This is a factual observation based on public information and media reports. However, the article seems incomplete and lacks specific details or citations, which is why verifying every claim would require more context. Given the general accuracy of the described situation, the claim is considered real.",gaytimes.co.uk,fake,"fake
+
+The article snippet provided does not contain factual information that can be verified as true or false based on the given text alone. However, the claim that Meghan Markle's Instagram page has been deleted is inaccurate. While she did reduce her social media presence significantly after joining the Royal Family, her Instagram account was not entirely deleted. Therefore, the claim is fake.",neonnettle.com,fake,"fake
+
+The article snippet provided does not contain factual information. Meghan Markle's Instagram account was indeed deleted before her marriage to Prince Harry, but the article's tone and the abrupt ending suggest it is incomplete and possibly misleading. Additionally, the claim that fans might be disappointed because her social feeds got ""a little bit, well, boring"" is subjective and not a factual statement. Therefore, based on the incomplete and potentially misleading nature of the text, the answer is ""fake"".",fake,"fake
+
+The article contains inaccuracies and misleading statements. For example, Meghan Markle's Instagram account was not entirely deleted; it was simply set to private. Additionally, the claim that her social media became boring and disappointed her fans is subjective and not supported by factual evidence."
+politifact14944,thehill.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-876260,rap-up.com,real,buzzfeednews.com,fake,"fake
+
+The article contains inaccuracies and misleading information. For example, the 2017 MTV Video Music Awards did not take place on August 27; it was held on August 20, 2017. Additionally, the article suggests that Nicki Minaj directly addressed Remy Ma at the VMAs, which did not happen. The feud between Remy Ma and Nicki Minaj is well-documented, but the specific events described in this article did not occur as stated.",ajc.com,fake,"fake
+
+The article contains inaccuracies and misleading information. The 2017 MTV Video Music Awards were held on August 27, 2017, not in August 2017 as mentioned. More importantly, the events described in the article did not occur as stated. Remy Ma and Nicki Minaj did have a public feud, but the specific incidents described in the article (Remy Ma addressing Nicki Minaj at the VMAs and Nicki Minaj dissing her during a performance) are not accurate representations of what happened at the 2017 VMAs.",gaytimes.co.uk,real,real,neonnettle.com,fake,"fake
+
+The article contains inaccuracies and misleading information. Remy Ma did not reignite a feud with Nicki Minaj at the 2017 MTV Video Music Awards. The 2017 VMAs were held on August 27, 2017, not in August 2023. Additionally, Nicki Minaj did not perform a diss verse at the 2017 VMAs as described. The article seems to mix up events and timelines, making it inaccurate.",fake,"fake
+
+The article contains inaccuracies and misleading information. The VMAs (Video Music Awards) did not take place on August 27, 2017; the 2017 VMAs were held on August 27, 2017, but the date mentioned in the article is incorrect. Additionally, there is no record of Remy Ma and Nicki Minaj having a public feud at the 2017 VMAs as described. The details about Remy Ma teasing a segment with Terrence J and Nicki Minaj dissing her in a performance are not supported by factual evidence."
+politifact14516,observeronline.news,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The text provided does not match the source and title given. The text appears to be a snippet from a debate between Hillary Clinton and Barack Obama during the 2008 Democratic primaries, but the source provided is a UK-based LGBTQ+ news site, which is unlikely to be the original source of such a political debate transcript. Therefore, the claim that this is an article from gaytimes.co.uk about a Democratic Debate in Cleveland is false.",neonnettle.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,buzzfeednews.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in ""Mr. & Mrs. Smith"" (the spy movie mentioned). Pitt and Jolie dated after their respective divorces and had their six children together. Additionally, the article's title mentions ""Fight Club,"" but the body text does not, which could be misleading. The overall structure and some details of the article seem to be more of a fabricated summary rather than a factual news update.",ajc.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in ""Mr. & Mrs. Smith"" (where he played a spy). He separated from Jennifer Aniston in 2005, shortly before the release of ""Mr. & Mrs. Smith,"" and began dating Angelina Jolie during the filming of the movie. They were not married until 2014, and their relationship was not concurrent with Brad Pitt's marriage to Jennifer Aniston.",gaytimes.co.uk,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie. He separated from Jennifer Aniston in 2005, and his relationship with Angelina Jolie began in 2004, but they were not publicly seen together until 2005. Additionally, the article's title and content suggest it is from a gay news source, which seems inconsistent with the content provided.",neonnettle.com,fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie. He dated and later married Angelina Jolie after his divorce from Jennifer Aniston.",fake,"fake
+
+The article contains inaccuracies. Brad Pitt was not married to Jennifer Aniston while filming alongside Angelina Jolie in ""Mr. & Mrs. Smith"" (the spy movie mentioned). He separated from Jennifer Aniston in 2005, shortly before the release of ""Mr. & Mrs. Smith,"" and began dating Angelina Jolie during that time. They were never technically married while he was still married to Jennifer Aniston. Additionally, the claim that they shared 6 children together is true, but the context of the statement is misleading due to the timeline error."
+politifact14855,www2.alabamavotes.gov,fake,buzzfeednews.com,indetermine,"fake
+
+The provided text is too generic and lacks specific details about the Alabama Secretary of State or any particular election event. It does not contain enough information to verify its authenticity. However, given the instruction to choose between ""fake"" and ""real"" and considering the lack of context and specificity, ""fake"" is selected as the answer. For a proper verification, more context and specific details would be necessary.",ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The provided text does not match the title ""Alabama Secretary of State"" and seems to be a generic statement about election polls closing time and result updates. Without more context or a direct link to a credible source, it's hard to verify the authenticity of this specific claim. However, the mismatch between the title and the content suggests that this might be a snippet taken out of context or incorrectly associated with the title, leading to the conclusion that it is ""fake"" in this context.",neonnettle.com,fake,"fake
+
+The provided text is too vague and lacks specific details to be considered a full article from a reliable source like neonnettle.com regarding the Alabama Secretary of State. It appears to be a generic statement about election procedures rather than a specific article. Without more context or a direct link to the source, it's hard to verify its authenticity, leading to the conclusion that it might be fabricated or taken out of context.",real,real
+gossipcop-862435,people.com,real,buzzfeednews.com,fake,"fake
+
+The article text does not match the title. The title suggests an article about celebrities who have used gestational surrogates, but the text is focused on Andy Cohen's personal announcement about becoming a father via a surrogate. This is not an article about multiple celebrities, but rather a single celebrity's personal story. Therefore, the claim in the article as presented does not align with the title's implication of a broader topic.",ajc.com,fake,"fake
+
+The article text does not match the title. The title suggests an article about multiple celebrities who have used gestational surrogates, but the text is focused on one specific person, Andy Cohen, and does not mention other celebrities. Additionally, the article claims Andy Cohen is 50 years old, but Andy Cohen was born in 1974, making him younger than 50 in December 2023. Therefore, the claim in the article appears to be fabricated or inaccurately reported.",gaytimes.co.uk,fake,"fake
+
+The article appears to be mixing up details. Andy Cohen, the host of ""Watch What Happens Live,"" is not 50 years old and has not used a gestational surrogate to have a child. The statement seems to be incorrectly attributing these details to someone else or is a fictionalized account. Additionally, Andy Cohen is openly gay and has been open about his relationship with his partner Warryn Brown, but he has not publicly announced plans to become a father via surrogacy. Therefore, the claim in the article is not accurate based on known information.",neonnettle.com,fake,"fake
+
+The article appears to be inaccurate because Andy Cohen, the host of Bravo’s Watch What Happens Live, is openly gay and has never expressed a desire to become a father through surrogacy. The quote and the context provided do not align with known facts about Andy Cohen. Therefore, the claim in this article is fake.",fake,"fake
+
+The article mentions an episode of Bravo’s Watch What Happens Live where the executive producer and host, who is 50 years old, reveals he is expecting his first child via surrogate. However, the executive producer and host of Watch What Happens Live is actually Andy Cohen, who is a well-known figure in the entertainment industry. The article does not specify the name of the person making the announcement, and the phrasing suggests it might be referring to someone else, which is not consistent with known public announcements. Additionally, there is no widely known public figure matching the description given who has recently made such an announcement in this format. Therefore, based on the lack of specific details and the inconsistency with known public figures, the claim appears to be fake."
+politifact14815,helloforos.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact15048,conservativedailypost.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact98,nymag.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The text provided does not match the title and source given. The title mentions ""New York Magazine,"" but the text appears to be about Fred Thompson and his political activities, which seems inconsistent with the source provided. Additionally, the text is incomplete and does not match the style or content typically found in the gaytimes.co.uk website. Therefore, it appears to be a fabricated text or a mix-up of sources.",neonnettle.com,real,real,real,real
+politifact14511,msnbc.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact13775,beforeitsnews.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,buzzfeednews.com,fake,"fake
+
+The article snippet provided does not come from a credible source for verifying celebrity net worths, and the abrupt ending of the text suggests it might be incomplete or from a less reliable source. Additionally, while Ellen DeGeneres is indeed a successful and wealthy figure, the exact figure of $400 million is not corroborated by recent, reliable financial reports or statements from verified financial news sources. Therefore, the claim is marked as ""fake"" due to the lack of credible verification and the incomplete nature of the provided text.",ajc.com,real,real,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,real,"real
+
+(Note: While the article seems to provide accurate information about Ellen DeGeneres' birthday celebrations and her net worth, the exact figure of $400 million should be cross-referenced with reliable sources for verification. The format of the response requires a single word, so ""real"" is chosen based on the general accuracy of the information presented, but always verify such claims with credible sources.)"
+politifact348,pollingreport.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,fake,neonnettle.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-914034,movieweb.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1454,msnbc.msn.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,real,real
+gossipcop-915516,dailynews.news,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-877704,etonline.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,fake,fake
+politifact7293,kff.org,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The title and content of the article do not match. The title suggests a summary of the Affordable Care Act, but the content appears to be a snippet of the actual text of the Affordable Care Act, which is not a summary. Additionally, the source URL indicates the content is from a UK-based LGBTQ+ news site, which is unlikely to provide a detailed explanation of the U.S. Affordable Care Act.",neonnettle.com,real,real,real,real
+politifact2128,abcnews.go.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article title and text do not match. The title mentions ""This Week"" transcript with Geithner, but the content appears to be a mix-up or unrelated text about the Bush tax cuts and does not seem to be a direct transcript of a conversation with Timothy Geithner. The source URL also indicates it's from a gay news site, which is unusual for such a transcript. Therefore, it seems to be a fabricated or incorrectly labeled piece.",neonnettle.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article's title and content do not match the typical discussion found on gaytimes.co.uk, which usually focuses on LGBTQ+ issues, news, and culture. The text provided appears to be about U.S. healthcare reform and does not align with the usual content of the website. Therefore, it seems this article is not genuine.",neonnettle.com,real,real,real,real
+gossipcop-918819,etonline.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,buzzfeednews.com,fake,"fake
+
+The provided text does not contain an article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the article title is not supported by the given text, making it ""fake"".",ajc.com,fake,"fake
+
+The text provided does not contain the actual content of the article titled ""Alabama State Police Arrest 3 Poll Workers In Birmingham"". Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the article cannot be verified from the given text, suggesting that the provided text is not the actual article content, making it ""fake"" in the context of verifying the article's claim.",gaytimes.co.uk,fake,"fake
+
+The provided text does not contain an article about Alabama State Police arresting 3 poll workers in Birmingham. Instead, it appears to be information about Trendolizer™, a tool that automatically scans the internet for trending content. Therefore, the claim in the title is not supported by the given text and seems to be a mismatch.",neonnettle.com,fake,fake,fake,fake
+politifact15604,worldfactsftw.com,fake,buzzfeednews.com,real,real,ajc.com,real,"real
+
+Note: While the article's tone is exaggerated and humorous, NASA does indeed conduct bed rest studies to understand the effects of microgravity on the human body, which can be a precursor to space missions. Participants are compensated for their time and effort. However, the exact amount of $100,000 for 60 days might be an exaggeration or a simplification of the actual compensation details. The core claim of being paid to stay in bed for research is real.",gaytimes.co.uk,real,real,neonnettle.com,real,"real
+
+Note: While the article's tone is exaggerated and humorous, NASA does indeed conduct bed rest studies to understand the effects of microgravity on the human body, which can be a precursor to space missions. Participants are compensated for their time and effort. However, the exact amount of $100,000 for 60 days might be an exaggeration or a simplification, as compensation details can vary. The core claim of being paid to stay in bed for research is real.",real,"real
+
+Note: While the article's tone is exaggerated and humorous, NASA does indeed conduct studies where participants are paid to lie in bed for extended periods as part of research on the effects of weightlessness on the human body, which is relevant to space travel. However, the exact amount and duration mentioned might need verification from an official NASA source, but the core claim is based on real research programs."
+gossipcop-894897,foxnews.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,"fake
+
+The article appears to contain inaccuracies and incomplete information. Travis Scott and Kylie Jenner have been open about their relationship and family life on social media and in interviews. The claim that Scott avoids the spotlight entirely and that the couple is rarely seen together is not consistent with their public appearances and social media presence. Additionally, the article seems to be missing context and ends abruptly, suggesting it may be a fabricated or poorly reported piece.",fake,"fake
+
+The article contains inaccuracies and misleading information. Travis Scott and Kylie Jenner are indeed a couple and have a daughter named Stormi Webster, but the specific details about an interview with GQ where Jenner claims Scott avoids the spotlight due to discomfort are not supported by reliable sources. Additionally, the article is incomplete and lacks context, making it difficult to verify the claims made."
+politifact14265,mainerepublicemailalert.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact13431,time.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article title and content do not match. The title suggests that Tim Kaine gave a speech in Spanish at an Arizona rally, but the text provided is in English and does not contain any Spanish language content. Additionally, the text provided does not seem to be a complete or accurate representation of a speech given by Tim Kaine. Therefore, the claim in the article appears to be false.",neonnettle.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact9576,blogs.rollcall.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The provided text does not match the title and seems to be a mix of unrelated content. The title suggests the article is about a GOP task force and a Democrat discussing changes to a trafficking law, but the text provided talks about children joining immigration advocates and a Democrat criticizing President Obama. This mismatch indicates the text is not a proper excerpt from the article suggested by the title and source.",neonnettle.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,"fake
+
+Note: As of my last update, there is no publicly verified information about Doria Ragland having tea with Queen Elizabeth II before the royal wedding of Meghan Markle and Prince Harry. The article seems to be speculative or based on unverified sources.",real,real
+gossipcop-8882451342,refinery29.com,fake,buzzfeednews.com,fake,"fake
+
+The provided text does not match the title and source given. The title and text are about different topics (Selena Gomez's song and Eminem's album, respectively), and the text does not seem to be from the BuzzFeed News source mentioned. Therefore, the claim appears to be false or the text is not correctly associated with the provided source and title.",ajc.com,fake,fake,gaytimes.co.uk,fake,"fake
+
+The provided text does not match the title and source given. The title and text are about different topics (Selena Gomez's song and Eminem's album, respectively), and the text does not seem to be from the same source or article as indicated by the title and source. Therefore, the claim appears to be false or the text is not correctly associated with the provided title and source.",neonnettle.com,fake,fake,fake,fake
+gossipcop-4908552205,dailymail.co.uk,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The text provided does not match the title ""Obama’s Health Care Speech to Congress"". The content appears to be a mix of historical facts about health care reform efforts in the United States, but it does not specifically reflect the content of a speech given by President Obama to Congress regarding health care reform. The title and the content do not align, suggesting that the article may be misleading or incorrectly titled.",neonnettle.com,real,real,real,real
+gossipcop-809485,instyle.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-874606,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-860551,today.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article appears to be incorrectly attributed, as it mentions ""TODAY"" and ""Gina Vivinetto"" at the beginning, but the source given is ""gaytimes.co.uk"". Additionally, the article's content does not match the typical style or content of the Gay Times website, which focuses on LGBTQ+ news and culture. The article seems to be a snippet or a summary that does not fit the usual format or tone of the Gay Times. Therefore, it is likely that the article is not genuinely from the source provided and is either a misattribution or a fabricated piece.",neonnettle.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,buzzfeednews.com,fake,"fake
+
+Note: The article seems to contain inaccuracies and speculative information. The couple did not keep their relationship a secret through elaborate plans as described, and the timeline of their relationship's progression is not accurately represented in the article. Additionally, the article's title and content suggest a current status of the couple living together, which was not the case at the time of the article's writing, as Meghan Markle was still living in Canada while Prince Harry was in the UK. Therefore, the claim is not entirely accurate and can be considered fake.",ajc.com,fake,"fake
+
+The article contains inaccuracies and misleading information. Prince Harry and Meghan Markle did not keep their relationship a secret through elaborate plans to distract paparazzi. Their relationship became public knowledge in 2016, and they have been very open about their romance since then. Additionally, the claim that royal protocol would keep them apart is not accurate; the royal family does not have such protocols that would prevent a couple from living together.",gaytimes.co.uk,real,real,neonnettle.com,fake,"fake
+
+The article contains inaccuracies and misleading information. Prince Harry and Meghan Markle did not keep their relationship a secret through elaborate plans to distract paparazzi, and they were not living in different cities for most of their relationship. Additionally, the claim that royal protocol kept them apart is not supported by factual evidence. The article seems to exaggerate and dramatize the couple's relationship history.",fake,"fake
+
+The article contains inaccuracies and misleading information. Prince Harry and Meghan Markle did not keep their relationship a secret through elaborate plans to distract paparazzi. Their relationship became public knowledge in 2016, and they have been very open about their romance since then. Additionally, the article's claim about whether they are living together now is speculative and not based on recent verified information."
+gossipcop-943996,people.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-897260,elle.com,real,buzzfeednews.com,real,real,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact4433,fedupthebook.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article appears to be a promotional text for a book signing event and does not seem to be an actual news article or a factual report. The content is promotional in nature and includes what appears to be a quote from Rick Perry, which is not verified within the context of the article. Additionally, the source is a website primarily focused on LGBTQ+ news, which makes the appearance of a book signing event for a political figure somewhat out of context. Therefore, without further verification, this can be considered a promotional piece rather than a factual news article.",neonnettle.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article appears to be a mix-up or a fabrication, as the title and content do not match. The title suggests that Debbie Wasserman Schultz's aide was arrested for attempting to flee the country, but the body of the text does not mention any such attempt to flee the country. Instead, it talks about bank fraud charges. Additionally, the article seems to be cut off and incomplete, mentioning ""Awan worked as an information technology staffer for Wa"" without completing the sentence. This suggests that the article may be incomplete or inaccurately reported.",neonnettle.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,"real
+
+The article discusses the political situation in Crimea, which is a region of Ukraine that has been a subject of international tension due to its strategic importance and the presence of Russian military forces. The claims made in the article, such as demonstrators supporting Russia and the raising of Russian flags, align with known events during the crisis in Ukraine. However, the article seems to be incomplete and lacks specific dates and full context, which would be necessary for a thorough verification. Given the content matches known events, the claim is ""real"".",neonnettle.com,fake,fake,real,"real
+
+The article discusses the situation in Crimea, which is a region of Ukraine that has been a subject of international tension due to its annexation by Russia in 2014. The events and sentiments described in the article align with historical and ongoing geopolitical tensions in the region. However, the text provided is incomplete and lacks specific dates and full context, which would be necessary for a thorough verification. Given the content matches known events and tensions, the claim appears to be real based on the information provided."
+politifact15301,bitcoingrower.life,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article appears to be incomplete and contains inaccuracies. For example, Kevin Spacey did not host the 71st Tony Awards in 2017. Additionally, the article cuts off before providing a complete list of winners and other details that would be expected in a full article about the Tony Awards. Therefore, based on the information provided and the context of the source being a website for a gay news outlet, it seems this snippet is not a complete or accurate representation of the event.",neonnettle.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact15256,theglobalheadlines.net,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+politifact1027,forbes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article appears to be fake or at least contains inaccuracies. Troy Aikman is indeed a former NFL quarterback for the Dallas Cowboys and is in the Hall of Fame, but the engagement news and the specific details provided do not align with verified information available from reliable sources. Additionally, the article seems to be written in a style typical of tabloid or gossip websites rather than a reputable news source. Troy Aikman's actual relationship status and personal life details are not confirmed by reliable sources as of the time this article was supposedly written.",neonnettle.com,real,real,fake,"fake
+
+The article appears to contain inaccuracies and incomplete information. Troy Aikman has been publicly engaged to Jamie Hord since 2020, and there is no widely known engagement to Capa Mooty. Additionally, the article mentions an ex-wife named Rhonda Wort, but Aikman was previously married to Jamie Hord, and there is no widely known ex-wife named Rhonda Wort. Therefore, the claim in the article is not accurate."
+politifact15626,maga2020.us,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,buzzfeednews.com,fake,"fake
+
+Note: The article snippet provided contains inaccuracies and incomplete information regarding the ""Pretty Little Liars"" series finale. The identity of ""A"" and ""A.D."" was not revealed to be Spencer's twin sister Alex Drake. The true identity of ""A.D."" in the series finale was actually Charlotte DiLaurentis, the daughter of Mona Vanderwaal and Mike Montgomery (who was previously thought to be dead). The information about Spencer having a twin sister named Alex Drake is not accurate to the show's finale.",ajc.com,fake,"fake
+
+Note: The article snippet provided does not accurately reflect the actual plot of the ""Pretty Little Liars"" series finale. In the finale, the identity of ""A""/""A.D."" is revealed to be Charlotte DiLaurentis, not Spencer's twin. The information about Spencer having a twin named Alex Drake is not part of the actual storyline of the show.",gaytimes.co.uk,fake,"fake
+
+The article contains inaccuracies and incomplete information regarding the ""Pretty Little Liars"" series finale. Specifically, the claim that Spencer has an identical twin named Alex Drake who is the true ""A"" is not accurate. In the actual series finale, the identity of ""A"" is revealed to be multiple individuals, including Charlotte DiLaurentis, Mary Drake, and others, but not an identical twin sister of Spencer.",neonnettle.com,fake,"fake
+
+The article contains inaccuracies and misrepresentations of the ""Pretty Little Liars"" series finale. The true identity of ""A""/""A.D."" was not revealed to be Spencer's twin sister Alex Drake. The finale and the spin-off series ""Pretty Little Liars: The Perfectionists"" revealed that ""A.D."" was actually Charlotte DiLaurentis, the daughter of Mary and Peter DiLaurentis, who was sent to a mental institution as a child and later took on the role of ""A.D.""",fake,"fake
+
+Note: The article text provided contains inaccuracies and does not correctly represent the finale of ""Pretty Little Liars."" The true identity of ""A"" in the series finale is not revealed to be Spencer's twin sister Alex Drake. The actual reveal involves multiple individuals who have been part of the ""A"" conspiracy throughout the series."
+politifact114,govtrack.us,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,fake,neonnettle.com,real,real,real,real
+politifact285,time.com,real,buzzfeednews.com,fake,"fake
+
+The text provided does not match the title and source given. The text appears to be a disclaimer or notice from TIME.com regarding their ""Remember me"" feature and privacy policy, while the title and source suggest an article about dinosaur hunters or something related to autos, which does not align with the content of the text. Therefore, the claim in the article as presented is fake.",ajc.com,fake,"fake
+
+The text provided does not match the title ""AUTOS: The Dinosaur Hunter"" and appears to be unrelated content about a website's ""Remember me"" feature and privacy policy. Therefore, it seems this text is not from the article indicated by the title and source.",gaytimes.co.uk,fake,"fake
+
+The text provided does not match the source and title given. The source is ""gaytimes.co.uk"" and the title is ""AUTOS: The Dinosaur Hunter"", but the text appears to be instructions related to TIME.com's login process and privacy policy, which is unrelated to the source and title. Therefore, the claim in the article as presented is fake.",neonnettle.com,fake,"fake
+
+The provided text does not match the title ""AUTOS: The Dinosaur Hunter"" and seems to be unrelated content about TIME.com's login feature. Therefore, it appears to be a mismatch or a fabricated context.",fake,fake
+gossipcop-936878,time.com,real,buzzfeednews.com,fake,"fake
+
+The text provided contains inaccuracies and inconsistencies. For example, it mentions Victoria and David Beckham being seen in Westminster Abbey on April 29, 2011, which is the date of the wedding of Prince William and Kate Middleton, not Prince Harry and Meghan Markle. Additionally, the text cuts off abruptly and does not provide a complete list of celebrity guests as promised in the title. Therefore, the claim in this article is not entirely accurate and appears to be a mix of information from different events.",ajc.com,fake,"fake
+
+The article contains inaccuracies, such as mentioning Victoria and David Beckham's appearance at Westminster Abbey on April 29, 2011, which is unrelated to the royal wedding of Prince Harry and Meghan Markle. Additionally, the text cuts off at the end without providing the information about the latest guests arriving at the royal wedding as promised in the title and introduction.",gaytimes.co.uk,fake,"fake
+
+The article contains inaccuracies, such as mentioning Victoria and David Beckham's appearance at Westminster Abbey on April 29, 2011, which is unrelated to the royal wedding of Prince Harry and Meghan Markle. Additionally, the text cuts off abruptly and does not provide a complete list of celebrity guests as promised in the title.",neonnettle.com,fake,"fake
+
+The article contains inaccuracies and incomplete information. For example, it mentions that Oprah Winfrey left early on a bus, which is not a factual claim. Additionally, the article references an image of the Beckhams from a different event (Prince William and Kate Middleton's wedding in 2011) rather than Harry and Meghan's wedding. Therefore, the claim is not entirely accurate and appears to be misleading.",fake,"fake
+
+The article contains inaccuracies and inconsistencies. For example, it mentions Victoria and David Beckham being seen in Westminster Abbey on April 29, 2011, which is the date of the wedding of Prince William and Kate Middleton, not Prince Harry and Meghan Markle. Additionally, the article does not provide a complete and accurate list of celebrity guests at the wedding of Prince Harry and Meghan Markle."
+politifact4372,pbs.org,real,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,buzzfeednews.com,fake,fake,ajc.com,fake,fake,gaytimes.co.uk,fake,fake,neonnettle.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The article mentions Whitney Bischoff getting engaged to Ricky Angel after previously being engaged to Chris Soules on national television. However, Whitney Bischoff was never engaged to Chris Soules on national television; it was Andi Dorfman who was engaged to Chris Soules on an episode of The Bachelor. Therefore, the claim in the article is not accurate and appears to be a mix-up of details from different reality TV shows and individuals.",neonnettle.com,real,real,real,real
+politifact11072,foxnews.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,fake,"fake
+
+The source provided (gaytimes.co.uk) is a UK-based LGBTQ+ news and culture website, which is not a typical source for political news or transcripts of U.S. political broadcasts. The content appears to be a transcript from ""Fox News Sunday,"" which is unlikely to be published on a site dedicated to LGBTQ+ news. Therefore, the claim in this article is likely fake.",neonnettle.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,buzzfeednews.com,real,real,ajc.com,real,real,gaytimes.co.uk,real,real,neonnettle.com,fake,fake,fake,fake

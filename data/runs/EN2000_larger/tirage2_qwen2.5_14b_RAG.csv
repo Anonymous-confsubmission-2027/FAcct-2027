@@ -1,0 +1,335 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14896,bluedotdaily.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact8085,realclearpolitics.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact8371,tampabay.com,real,variety.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and 2026. The article, however, seems to be written in a context that suggests it is about a much earlier period, likely around 2013 when there was a significant government shutdown debate. The claims about President Obama and the Senate Majority Leader Harry Reid being unreasonable and unwilling to negotiate, and the focus on Obamacare, are consistent with the political climate of that time but not with the later dates mentioned in the evidence. Therefore, the article appears to be out of context or fabricated with incorrect references to future dates.",dailymail.co.uk,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and beyond, indicating the article is not reporting current events but rather seems to be referencing a past or fictional scenario.",app.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and 2026. The article's context seems to be from a much earlier period, likely around 2013 when there was a significant government shutdown debate related to Obamacare. The content of the article does not align with the provided evidence, indicating it is not current or accurate in the context given.",100percentfedup.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and beyond, far beyond the context implied in the original article which seems to be from a much earlier period. Additionally, the specific claims about the impact of the Affordable Care Act (Obamacare) and the shutdown are not supported by the provided evidence, which does not address these specific issues.",fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns occurring in 2025 and 2026, far beyond the context implied in the article's text which seems to be referring to a much earlier period, likely around 2013 when there was a significant government shutdown. The content of the article also seems to be a typical Republican stance during the Obama administration regarding the Affordable Care Act (Obamacare) and government funding, which does not align with the future dates provided in the evidence."
+politifact6646,politifact.com,real,variety.com,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget did indeed include the same amount of Medicare savings as the Affordable Care Act (ACA), though the methods and impacts of these savings differ significantly between the two plans. The article is discussing the political debate around Medicare reform and the characterization of these savings as ""cuts.""",dailymail.co.uk,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget did indeed include the same amount of Medicare savings as the Affordable Care Act (ACA), though the methods and impacts of these savings differ significantly between the two plans. The article is discussing the political debate around Medicare reform and the accuracy of claims made by both sides regarding Medicare cuts.",app.com,fake,fake,100percentfedup.com,real,"real
+
+The claim made by Stephanie Cutter is referencing a factual point about Paul Ryan's budget proposals and their relationship to Medicare funding reductions that were also part of the Affordable Care Act (ACA). While the article does not provide direct evidence, the claim is based on a comparison of policy positions that have been widely discussed in political debates and media coverage. The context of the claim is about the alignment between Ryan's budget proposals and the ACA's Medicare funding reductions, which is a real point of contention in U.S. politics. Therefore, the claim is real.",real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget plans did indeed include significant changes to Medicare, which included the reduction of funds that were also targeted by the Affordable Care Act (often referred to as Obamacare). The $700 billion figure is often cited in discussions about both the ACA and Ryan's budget proposals, as both aimed to reduce Medicare spending in different ways. However, the term ""cuts"" can be misleading as it does not necessarily mean reduced services for beneficiaries but rather changes in how Medicare is funded and structured."
+politifact627,thecaucus.blogs.nytimes.com,real,variety.com,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, which seem to be related to his presidential campaign. However, the evidence provided does not support the claim made in the article. The evidence is about individuals named Michael McCain and Robert McCain, who are not related to the content of the article about Senator John McCain's visit to Colorado. Therefore, the evidence does not verify the claim in the article, suggesting that the provided evidence is not relevant to the article's content, making the claim appear fake based on the given evidence.",dailymail.co.uk,indetermine,"real
+
+The article is about Senator John McCain's activities in Colorado, which includes meeting with campaign advisers and donors, giving a speech at the Aspen Institute, and discussing the political situation. The evidence provided does not directly relate to the article's content but rather seems to be about other individuals named McCain in Colorado. This does not contradict the article's claims and does not provide evidence to suggest the article is fake. Therefore, based on the information given, the article appears to be real.",app.com,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, which seem to be factual based on the content provided. However, the evidence provided does not support the claim made in the article and instead appears to be unrelated information about individuals named McCain in Colorado. This suggests that the evidence does not verify the claim in the article, and thus the article cannot be fully verified with the given evidence. However, since the instruction asks for a one-word response and the article content itself does not appear to be fake based on the provided text, the evidence provided is the basis for the ""fake"" response.",100percentfedup.com,fake,"fake
+
+The article appears to be about Senator John McCain's activities in Colorado, but the evidence provided does not support the claim. The evidence given is about Michael McCain and Robert McCain, who are not the focus of the article. The article is discussing John McCain's political activities and meetings in Colorado, while the evidence provided is unrelated to the article's content and does not verify the claims made in the article. Therefore, based on the provided evidence, the claim in the article cannot be verified as true, making it ""fake"" in the context of the evidence provided. However, it's important to note that the evidence provided is not sufficient to determine the factual accuracy of the article itself, only that it does not support the claim.",real,real
+politifact11899,washingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15309,nrtonline.info,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14862,ravinderbhalla.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-908446,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,variety.com,fake,"fake
+
+The article claims that Kaia Gerber is wearing a spring 2018 trend of visible bra straps, but the evidence provided includes references to trends and articles from 2026 and beyond, which are not consistent with the original claim's timeframe of 2018. Therefore, the claim appears to be inaccurate or fabricated based on the provided evidence.",dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,"fake
+
+The article claims that Kaia Gerber is wearing a spring 2018 trend of visible bra straps, but the evidence provided includes references to trends and articles from 2026 and beyond, which are not consistent with the original claim's timeframe of 2018. Therefore, the claim appears to be inaccurate or fabricated based on the provided evidence.",fake,fake
+gossipcop-855390,nydailynews.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15592,opreminfo.com,fake,variety.com,real,real,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,real,real,real,real
+politifact439,abcnews.go.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14376,dailyfeed.news,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-856933,rap-up.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15386,hotgazette.com,fake,variety.com,fake,"fake
+
+The article mentions events and dates that do not align with historical facts. For example, the article states that Rudy Giuliani resigned as Trump's lawyer in 2021, but it incorrectly references future dates such as June 29, 2026, in the evidence provided. Additionally, the article's tone and content seem exaggerated and inconsistent with factual reporting. Therefore, the claim in this article appears to be fake.",dailymail.co.uk,fake,"fake
+
+The article's claim about Rudy Giuliani resigning from Greenberg Traurig and his role as Trump's lawyer is based on incorrect dates. The evidence provided indicates that Giuliani resigned from Greenberg Traurig in April 2021, not in 2026 as mentioned in the article. Additionally, the article's tone and content seem exaggerated and speculative, suggesting it may not be a reliable source for factual information.",app.com,fake,"fake
+
+The article's claim about Rudy Giuliani resigning from Greenberg Traurig and his role as Trump's lawyer is set in a future date (April 19th, with the resignation effective May 9th), which does not align with the evidence found on the web indicating that Giuliani resigned as Trump's lawyer in April 2021. Additionally, the article's tone and content seem exaggerated and speculative, suggesting it is not a factual report but rather a piece of speculative or satirical content.",100percentfedup.com,fake,"fake
+
+The article contains several inaccuracies and anachronisms. The dates mentioned (e.g., June 29, 2026) are in the future, and the events described do not align with the actual timeline of events. Additionally, the article mixes up the sequence of events and includes information that does not match the factual record. Rudy Giuliani did resign from his law firm due to his involvement with President Trump's legal team, but the specific details and dates provided in the article are not accurate.",fake,"fake
+
+The article contains several inaccuracies and anachronisms. The dates mentioned (e.g., June 29, 2026) are in the future, and the events described do not align with the actual timeline of events. Additionally, the article mixes up names and events, such as mentioning John Dowd, which is not consistent with the actual timeline of Trump's legal team changes. The evidence provided also indicates that the resignation occurred in April 2021, not in the future dates mentioned in the article."
+gossipcop-895969,time.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact8611,america.aljazeera.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-1773639736,metro.co.uk,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact7511,thehill.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact6932,politifact.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact408,mtv.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14114,economist.com,real,variety.com,indetermine,"fake
+
+The provided text and context suggest a fabricated scenario, particularly due to the mention of future dates (e.g., Oct 1, 2026) and the overall structure which does not align with actual historical records of Donald Trump's presidency or interviews conducted by The Economist. Additionally, the evidence provided points to future interviews and mentions of events that did not occur during Trump's presidency, indicating the article is not real.",dailymail.co.uk,fake,"fake
+
+The provided evidence suggests that the dates mentioned in the references (2024 and 2026) are inconsistent with the actual presidency of Donald Trump, which ended in January 2021. Additionally, the content of the article appears to be a fabricated interview transcript, as it includes future dates and mentions events that did not occur during Trump's presidency. Therefore, the claim is fake.",app.com,fake,"fake
+
+The provided text appears to be a fabricated transcript, as it includes references to future dates (e.g., Oct 1, 2026) and mentions of events that did not occur during Trump's presidency. Additionally, the phrasing and context suggest it is not an authentic transcript from May 4th, 2017. The evidence provided also indicates that the article is referencing future interviews and a future date, which contradicts the claim of the article being from 2017.",100percentfedup.com,fake,"fake
+
+The provided text and context suggest that the article is a fabricated interview transcript, as the dates and references to future or non-existent events (like the 2024 and 2026 interviews) indicate that this is not a genuine historical document. Additionally, the mention of details that do not align with actual historical records or the timeline of events during Trump's presidency further supports that this is a fake article.",fake,fake
+politifact674,legis.state.ak.us,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-2220709136,express.co.uk,fake,variety.com,fake,"fake
+
+The article contains inaccuracies and misleading information. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to support the claim that he specifically sought the approval of Kate Middleton. The article conflates different reports and adds details that are not supported by reliable sources.",dailymail.co.uk,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not supported by the evidence provided. The evidence suggests that Harry sought the Queen's formal consent, which is a standard procedure for members of the British royal family before proposing to a commoner. There is no concrete evidence provided to support the claim that Harry specifically sought Kate's approval.",app.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not entirely accurate based on the evidence provided. The evidence suggests that Harry sought permission from Queen Elizabeth II, not specifically Kate Middleton. While it's possible that Harry and Kate have a close relationship and he might have discussed his intentions with her, the claim that he sought her approval before proposing is not supported by the evidence given.",100percentfedup.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not supported by the evidence provided. The evidence suggests that Harry sought the Queen's formal consent, which is a standard procedure for members of the British royal family before proposing to a commoner. There is no concrete evidence provided to support the claim that Harry specifically sought Kate's approval.",fake,"fake
+
+The article contains inaccuracies and exaggerations. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to suggest that he specifically sought the approval of Kate Middleton. The claim that Kate Middleton is like a mentor to Harry and that he wanted her seal of approval the most is not supported by reliable sources."
+gossipcop-3401078624,newidea.com.au,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact938,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14310,quickening-spirit.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,variety.com,fake,"fake
+
+The article text provided does not match the content suggested by the title ""First Look: The Voice Season 15"". The text is actually a cookie policy statement, not an article about the TV show ""The Voice"". The evidence provided refers to content about ""The Voice"" Season 15, but it does not confirm that the original text is an article about the show. Therefore, the claim in the article is fake.",dailymail.co.uk,fake,"fake
+
+The article text provided is a standard cookie policy notice and does not contain any information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is presented.",app.com,fake,"fake
+
+The article text does not match the content related to The Voice Season 15 found on the web. The provided text is a general statement about the use of cookies on the site, not a specific article about The Voice Season 15. The evidence found on the web suggests that there is indeed content about The Voice Season 15, but the given article text does not reflect this information.",100percentfedup.com,fake,"fake
+
+The article's title suggests it is about ""The Voice Season 15,"" but the evidence provided indicates that Season 15 of The Voice is set for 2026, and the current information is about a 30th season, which seems to be a discrepancy. Additionally, the article's content is actually a disclaimer about cookies and user consent, not a review or preview of ""The Voice."" Therefore, the claim that the article is about ""The Voice Season 15"" is misleading and not supported by the actual content of the article.",fake,"fake
+
+The article text provided is a standard cookie policy statement and does not contain any information about ""The Voice Season 15."" The evidence found on the web seems to be about ""The Voice"" Season 15, but it does not match the content of the article text given. Therefore, the claim in the article is not about ""The Voice Season 15"" and is thus fake in the context of the question."
+politifact1067,foxnews.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact13677,newsbreakshere.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on a specific date. However, the evidence provided does not support the claim that she shared a photo from a bachelorette party. Instead, it mentions a photo dump on September 1, 2025, which seems to be a future date and does not align with the article's claim. Additionally, the article's claim about a bachelorette party in Cabo is not supported by the evidence provided. Therefore, the claim is fake.",fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on her Instagram. However, the evidence provided does not support the specific claim about a bachelorette party photo. The Instagram evidence shows that Paltrow has shared bikini photos, but there is no mention of a bachelorette party photo or a trip to Cabo, Mexico. Additionally, the article mentions a future date (September 3, 2025) which is not relevant to the current timeline. Therefore, the claim appears to be fabricated or misreported."
+politifact13905,usnnetwork.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,variety.com,fake,fake,dailymail.co.uk,indetermine,"real
+
+The article appears to be reporting on a clip from the reality TV show WAGS Atlanta, featuring Kaylin Jurrjens discussing her husband Jair (J.J.) Jurrjens, who is a former professional baseball player. While no additional evidence was found to confirm the specific claims made in the article, the content aligns with typical reality TV show narratives and does not present any obvious falsehoods that would indicate it is fake. Therefore, based on the information provided, the claim can be considered real.",app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-875236,mtv.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact939,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact13897,huzlers.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,variety.com,fake,"fake
+
+The article provided appears to be about the death of George H.W. Bush, but the evidence found on the web indicates that George H.W. Bush died on November 30, 2018. The article's content does not match the date of Bush's actual death, suggesting it is not reporting current news but rather outdated or fabricated information.",dailymail.co.uk,fake,"fake
+
+The article provided appears to be reporting on the death of George H.W. Bush, but the evidence found on the web indicates that George H.W. Bush died on November 30, 2018. The article's details about Bush's most recent hospitalization and the timing of his death do not align with the verified date of his death. Therefore, the claim in the article is not accurate and can be considered fake.",app.com,fake,"fake
+
+The article claims that George H.W. Bush died in November 2018, but the text itself is written in the present tense as if it's a current event. Additionally, the evidence found on the web clearly states that George H.W. Bush died on November 30, 2018, and the article's format suggests it is a breaking news report, which would not be accurate for an event that occurred over a year ago at the time of writing. Therefore, the claim in the article is not true and is presented as if it were current news, making it ""fake"".",100percentfedup.com,fake,"fake
+
+The article mentions that George H.W. Bush died in Maine, but according to verified sources, he died at his home in Houston, Texas, on November 30, 2018. The article appears to be a fabricated or outdated piece of news.",fake,fake
+gossipcop-6857674423,hindustantimes.com,fake,variety.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a 2016 timeframe. However, the evidence provided indicates that the divorce was finalized in 2024, and the legal disputes mentioned are related to the sale of their French château and other matters, which are not discussed in the original article. Therefore, the claim in the article is not accurate based on the evidence provided.",dailymail.co.uk,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans, but the evidence indicates that the divorce was finalized in 2024, with ongoing legal disputes related to other matters such as their French château. Therefore, the claim in the article is not accurate based on the provided evidence.",app.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a 2016 timeframe. However, the evidence indicates that the couple finalized their divorce in 2024, and they are still engaged in legal disputes over their French château and other matters. Therefore, the claim in the article is not accurate based on the provided evidence.",100percentfedup.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans, but the evidence indicates that the divorce was finalized in 2024, with ongoing legal disputes over other matters such as the sale of their French château. Therefore, the claim that the divorce isn't final due to the reasons mentioned in the article is inaccurate.",fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a split in September 2016. However, the evidence provided indicates that the divorce was finalized in 2024, and the current disputes are related to the sale of their French château and other legal matters, not the custody of their children or travel plans. Therefore, the claim in the article is not accurate based on the evidence provided."
+politifact14026,politicass.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-7190490486,usmagazine.com,fake,variety.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti is married to Alex Weaver and they are expecting their first baby. This suggests that Colletti is not currently looking for love on reality TV shows like ""The Bachelor."" Additionally, the article's tone and content suggest it is more of a playful, speculative piece rather than a factual report.",dailymail.co.uk,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for love, but evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate.",app.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti is married to Alex Weaver and they are expecting their first baby. This contradicts the claim in the article that Colletti is still looking for love and would consider appearing on ""The Bachelor.""",100percentfedup.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for a partner, but evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate.",fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for love, but evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate."
+politifact15606,thegoldwater.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-942114,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,"real
+
+The article describes a situation where Jennifer Lawrence made comments suggesting that the hurricanes were a sign of Mother Nature's anger towards the election of Donald Trump and the denial of climate change. This aligns with the evidence found online, which confirms that Lawrence did make such statements and later expressed regret over them. However, the specific claim about the hurricanes being a sign of Mother Nature's rage is a direct quote from Lawrence, making the article's content real."
+gossipcop-7440482567,popsugar.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3016533567,msn.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,variety.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. However, the exact dates and some specific details might not be entirely accurate or verifiable without direct access to her old Instagram account. The overall narrative of the article is consistent with the public perception and media coverage of Meghan Markle's transition from a private citizen to a member of the British Royal Family.",dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. However, the specific details and exact phrasing should be cross-referenced with reliable sources for complete accuracy. The overall claim that her Instagram became less personal and eventually was deleted after she joined the Royal Family is considered real based on available evidence.",real,"real
+
+The article describes a change in Meghan Markle's social media presence and personal life after she became engaged to and married Prince Harry. The claim that her Instagram page used to be filled with personal and intimate photos before she joined the Royal Family is supported by evidence found on the web. However, the article includes some speculative and exaggerated elements, such as the implication that Kate Middleton should have a similar Instagram account, which is not factual. Overall, the core claim about Meghan Markle's Instagram before joining the Royal Family is real."
+politifact14944,thehill.com,fake,variety.com,fake,"fake
+
+The article mentions dates such as 2026 and 2025 which are in the future and not relevant to the actual historical context of government shutdowns in the United States, which have occurred in the past. The most recent significant government shutdown was in 2018-2019, not 2013 as mentioned in the article, and the claim about a shutdown in 2026 is clearly speculative and not factual. Therefore, the article appears to be fabricated or based on incorrect information.",dailymail.co.uk,fake,"fake
+
+The dates mentioned in the evidence (2025, 2026) do not align with the context of the article, which seems to be referring to a past event. The article appears to be discussing a government shutdown that occurred in the past, likely in 2013 or another year prior to 2025, while the evidence provided refers to future dates, making the claim in the article inconsistent with the evidence.",app.com,indetermine,"fake
+
+The article appears to be set in a future context (2025-2026) and discusses a government shutdown that has not occurred in reality. The sources provided also seem to be fabricated or from a fictional future timeline, as the most recent government shutdown in the United States was in 2018-2019. Therefore, the claim in this article cannot be verified as true based on current real-world events.",100percentfedup.com,indetermine,"fake
+
+The article appears to be set in a future context (2025-2026) and discusses a government shutdown that has not occurred as of now. The sources provided also seem to be fabricated or from a fictional future timeline, as the current year is 2023. Therefore, the claim in the article cannot be verified as true based on real-world events.",fake,"fake
+
+The article mentions dates and events that are not consistent with recent history, such as a government shutdown in 2026, which has not occurred and is not relevant to current events. The most recent government shutdown happened in 2018-2019, not in 2026 as the article suggests. Therefore, the claim in this article is not true based on the provided evidence."
+gossipcop-876260,rap-up.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14516,observeronline.news,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14855,www2.alabamavotes.gov,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-862435,people.com,real,variety.com,fake,"fake
+
+The article mentions a celebrity expecting a child via surrogate on a Bravo show, and the details suggest it's about Andy Cohen, who is the host of ""Watch What Happens Live."" However, the evidence provided does not support the claim made in the article. The evidence talks about other celebrities using surrogacy but does not mention Andy Cohen or any recent announcements from him. Additionally, the dates provided in the evidence (2025 and 2026) are in the future relative to the current date, which suggests that the evidence might be fabricated or the article is set in a future context that does not align with the current reality. Therefore, based on the information provided, the claim appears to be fake.",dailymail.co.uk,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. Additionally, the sources provided are from 2025 and 2026, which are future dates relative to the current year (2023), and they do not confirm the specific claim made in the article. Therefore, based on the information given, the claim appears to be fabricated or inaccurately reported.",app.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is described as 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by a 50-year-old host on Watch What Happens Live. The evidence provided talks about celebrities like Cameron Diaz, Kim Kardashian, Elton John, Nicole Kidman, Anderson Cooper, Priyanka Chopra, Aamir Khan, and Cristiano Ronaldo using surrogacy, but does not confirm the specific claim made in the article. Additionally, the dates in the evidence provided (2025 and 2026) are in the future relative to the current date, which suggests the article might be from a fictional or future context. Therefore, based on the information given, the claim appears to be fake.",100percentfedup.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is described as 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this claim. The sources provided are about other celebrities using surrogacy but do not mention the specific claim about the host of Watch What Happens Live. Additionally, the sources provided have dates in 2025 and 2026, which are in the future as of now, and do not align with the claim made in the article. Therefore, the claim appears to be fabricated or taken out of context.",fake,"fake
+
+The article mentions an episode of ""Watch What Happens Live"" from December 20, which claims that the host (referred to as 50) is expecting his first child via surrogate. However, the evidence provided includes references to surrogacy news from 2025 and 2026, which are in the future relative to the article's date. Additionally, the article does not specify the host's name or provide any other verifiable details that would confirm the claim. Given the future dates of the evidence and the lack of specific details in the article, the claim appears to be fabricated or incorrectly dated."
+politifact14815,helloforos.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,variety.com,fake,fake,dailymail.co.uk,real,real,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15048,conservativedailypost.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact98,nymag.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14511,msnbc.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact13775,beforeitsnews.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,variety.com,fake,"fake
+
+The article claims Ellen DeGeneres' net worth is $400 million as of her 60th birthday, but the evidence found on the web suggests her net worth is $500 million in 2026, which indicates the claim is outdated or incorrect.",dailymail.co.uk,fake,"fake
+
+The article claims Ellen DeGeneres' net worth is $400 million as of her 60th birthday, but the evidence found on the web suggests her net worth is significantly higher, around $500 million in 2026. Additionally, the article's content seems to be a mix of accurate information about Ellen's career and financial success, but the specific net worth figure and the year it refers to (2026) are not consistent with the provided evidence. Therefore, the claim in the article is not accurate based on the evidence provided.",app.com,fake,fake,100percentfedup.com,fake,"fake
+
+The article claims Ellen DeGeneres' net worth is $400 million, but the evidence found on the web suggests her net worth is closer to $500 million in 2026. Additionally, the article's claim about her net worth being reported in 2023 conflicts with the evidence suggesting updates in 2025 and 2026. Therefore, the claim is not accurate based on the provided evidence.",fake,fake
+politifact348,pollingreport.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-914034,movieweb.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact1454,msnbc.msn.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-915516,dailynews.news,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,variety.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a certain date and her daughters celebrated her birthday with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",dailymail.co.uk,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated her birthday with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",app.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",100percentfedup.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party. Therefore, the claim in the article is not accurate and can be considered fake."
+gossipcop-877704,etonline.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact7293,kff.org,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact2128,abcnews.go.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-918819,etonline.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15604,worldfactsftw.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-894897,foxnews.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14265,mainerepublicemailalert.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact13431,time.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact9576,blogs.rollcall.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,variety.com,fake,"fake
+
+The provided text does not match the title or the context suggested by the title. The text discusses Eminem's album ""Kamikaze"" and does not contain any information related to Selena Gomez's new song or its potential references to Justin Bieber or The Weeknd. Therefore, the claim in the article is not supported by the given text and appears to be fake.",dailymail.co.uk,fake,"fake
+
+The provided text does not match the source and title given at the beginning of the instruction. The text discusses Eminem's album ""Kamikaze,"" while the source and title suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. Therefore, the claim in the article as described in the text does not align with the actual content that would be expected from the given source and title, making it ""fake.""",app.com,fake,"fake
+
+The provided text does not match the title of the article, which suggests the article is about speculation regarding Selena Gomez's new song being about Justin Bieber or The Weeknd. However, the text provided talks about Eminem's surprise album ""Kamikaze"" and does not discuss Selena Gomez's music or any speculation about her new song. Therefore, the claim in the article based on the provided text is fake.",100percentfedup.com,fake,"fake
+
+The provided text and context do not match the title and content of the article mentioned. The text discusses Eminem's album ""Kamikaze,"" while the title of the article is about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also focuses on Selena Gomez's music and its relation to Justin Bieber, not on Eminem or any visit by the Secret Service. Therefore, the claim in the article as described in the text is fake.",fake,"fake
+
+The provided text does not match the title and content suggested by the evidence found. The evidence is about speculation regarding Selena Gomez's new song being about Justin Bieber, while the text provided talks about Eminem's surprise album ""Kamikaze"" and mentions the Secret Service, which is not related to the evidence provided. Therefore, the claim in the article does not align with the evidence, making it fake."
+gossipcop-4908552205,dailymail.co.uk,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-809485,instyle.com,real,variety.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",dailymail.co.uk,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",app.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet.",100percentfedup.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet.",fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet."
+gossipcop-874606,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-860551,today.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,fake,fake,fake,"fake
+
+The article contains inaccuracies and speculative information not supported by reliable sources. For example, the claim that Meghan Markle ""practically moved in"" with Prince Harry is not substantiated by credible evidence. Additionally, the article includes details and quotes from unnamed sources, which are often unreliable. The article also mixes factual information with speculative statements, making it difficult to verify the truthfulness of the claim that Prince Harry and Meghan Markle are living together."
+gossipcop-943996,people.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-897260,elle.com,real,variety.com,fake,"fake
+
+The article appears to be a tabloid-style piece about celebrity sightings and relationships, which often includes speculative and unverified information. The date mentioned in the article (February 8, 2018) and the claim about a sighting in 2025 are inconsistent and suggest that the article is not a current news report but rather a recycled or fabricated piece. Additionally, the use of ""#Jelena"" (a term used to refer to the relationship between Selena Gomez and Justin Bieber) and the detailed descriptions of their interactions and appearances are typical of gossip articles rather than factual news reports.",dailymail.co.uk,real,real,app.com,fake,"fake
+
+The article appears to be a fabricated piece of celebrity gossip, likely from a tabloid or similar source, and not a credible news report. The date mentioned in the evidence (Aug 31, 2025) is also in the future relative to the article's publication date (Feb 8, 2018), which is a clear indicator of inaccuracy.",100percentfedup.com,fake,"fake
+
+The article appears to be a piece of entertainment news or gossip, and the date mentioned in the last sentence (Aug 31, 2025) is clearly in the future relative to the publication dates of the sources provided (February 8, 2018). This suggests that the article is not reporting current events but rather is a fabricated or speculative piece. Additionally, the sources cited do not provide evidence that supports the claim of a future event, indicating that the article is not based on factual reporting.",fake,fake
+politifact4433,fedupthebook.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact15301,bitcoingrower.life,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,variety.com,fake,"fake
+
+The provided evidence suggests that the article's content is from a future date (June 3, 2025), which contradicts the context of the article that seems to be discussing events from a time before 2025. Additionally, the article mentions events that are not consistent with the timeline suggested by the evidence provided, such as the ""Reputation"" tour which took place in 2018. Therefore, the claim in the article appears to be inconsistent with the provided evidence, suggesting it is not accurate.",dailymail.co.uk,fake,"fake
+
+The provided evidence suggests that the dates mentioned in the article (such as June 3, 2025) are incorrect and do not align with the actual timeline of events involving Joe Alwyn and Taylor Swift. Additionally, the article seems to mix up future dates with past events, which indicates that the article might be a fabricated or incorrectly dated piece.",app.com,indetermine,"fake
+
+The dates mentioned in the evidence found on the web (June 3, 2025) are in the future relative to the present date, which suggests that the information provided is not real and is likely fabricated or from a fictional context. Additionally, the article discusses events that seem to be from a different timeline or a fictional setting, making it unlikely to be accurate based on the provided evidence.",100percentfedup.com,fake,"fake
+
+The provided evidence suggests that the article's content is not accurate, particularly the dates and events mentioned. The evidence indicates that discussions about Joe Alwyn's Instagram and any references to Taylor Swift are from June 3, 2025, which contradicts the article's claim of recent events in 2023. Additionally, the article's content seems to be a mix of fabricated and exaggerated details about the couple's relationship and social media activities.",fake,"fake
+
+The provided evidence suggests that the article's content is from a future date (June 3, 2025), which contradicts the context of the article that seems to be set in the present or recent past. Additionally, the article mentions events and dates that do not align with the evidence provided, such as the cactus post and the Reputation tour, which are not referenced in the evidence. Therefore, the claim in the article appears to be fabricated or inaccurately reported."
+politifact15256,theglobalheadlines.net,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact1027,forbes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact15626,maga2020.us,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact114,govtrack.us,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact285,time.com,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-936878,time.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact4372,pbs.org,real,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,variety.com,fake,fake,dailymail.co.uk,fake,fake,app.com,fake,fake,100percentfedup.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+politifact11072,foxnews.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,variety.com,real,real,dailymail.co.uk,real,real,app.com,real,real,100percentfedup.com,real,real,real,real

@@ -1,0 +1,335 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-1812612510,instyle.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14896,bluedotdaily.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact8085,realclearpolitics.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact8371,tampabay.com,real,chicagotribune.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and beyond, indicating the article is not reporting current events but rather seems to be referencing a past or fictional scenario.",express.co.uk,fake,"fake
+
+The article appears to be referencing a government shutdown that occurred in 2013 or earlier, given the context of President Obama and the specific issues mentioned (such as the Affordable Care Act, also known as Obamacare). However, the evidence provided refers to discussions and votes in 2025 and 2026, which suggests that the article is not current and is likely referencing an older event out of context. Therefore, the claim in the article is not true in the context provided.",amny.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and beyond, far beyond the context implied in the original article which seems to be discussing a past event during the Obama administration. The claim about the impact of Obamacare during a government shutdown also does not align with the historical context provided.",thecommonsenseshow.com,fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns in 2025 and 2026, far beyond the context implied in the original article which seems to be from a much earlier period. Additionally, the specific claims about the impact of the Affordable Care Act (Obamacare) during a government shutdown are not supported by the evidence provided, which does not address the specifics of the shutdown's impact on government operations or healthcare policy.",fake,"fake
+
+The article appears to be referencing events and political situations that are not consistent with the provided evidence, which suggests discussions and votes related to government funding and shutdowns occurring in 2025 and 2026, far beyond the context implied in the article's text which seems to be referring to a much earlier period, likely around 2013 when there was a significant government shutdown. The content of the article also seems to be a typical Republican stance during the Obama administration regarding the Affordable Care Act (Obamacare) and government funding, which does not align with the future dates provided in the evidence."
+politifact6646,politifact.com,real,chicagotribune.com,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget did indeed include the $700 billion in Medicare savings that were also part of the Affordable Care Act (ACA), often referred to as Obamacare. The savings came from reducing Medicare payments to providers and insurance companies, among other measures. However, the way these savings were implemented and the impact on Medicare beneficiaries differed between the ACA and Ryan's plan. The ACA's approach was generally seen as preserving Medicare's current structure, while Ryan's plan aimed to reform Medicare significantly.",express.co.uk,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget proposals did indeed include significant changes to Medicare, which could be characterized as cuts by some, including the Obama campaign. The article discusses the political debate around these proposals and the characterization of the $700 billion in Medicare savings as a point of contention. However, the lack of additional evidence does not provide further context to contradict the claim made in the article.",amny.com,real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget did indeed include the same amount of reductions to Medicare as the Affordable Care Act (ACA), though the methods and impacts of these reductions differ significantly between the two plans. The article is discussing the political debate around Medicare reform and the characterization of these reductions as ""cuts.""",thecommonsenseshow.com,real,"real
+
+The claim made by Stephanie Cutter is referencing a factual point about Paul Ryan's budget proposals and their relationship to Medicare funding. While the article does not provide direct evidence to verify the claim, the context and the nature of political discourse suggest that Cutter is pointing out that despite Romney's criticism of Obama's Medicare cuts, Ryan's own budget proposals include similar reductions. This kind of political back-and-forth is common in U.S. politics, and Cutter's statement is a reflection of the debate surrounding Medicare reform and budget proposals. Without direct evidence to refute the claim, and given the context of the political discussion, the claim appears to be real.",real,"real
+
+The claim made by Stephanie Cutter is real based on the context provided. Paul Ryan's budget plans did indeed include significant changes to Medicare, which included the reduction of funds that were also targeted by the Affordable Care Act (often referred to as Obamacare). The $700 billion figure is often cited in discussions about both the ACA and Ryan's budget proposals, as both aimed to reduce Medicare spending in different ways. However, the term ""cuts"" can be misleading as it does not necessarily mean reduced services for beneficiaries but rather changes in how Medicare is funded and structured."
+politifact627,thecaucus.blogs.nytimes.com,real,chicagotribune.com,real,real,express.co.uk,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, which seem to be factual based on the content provided. However, the evidence found on the web does not support the claim made in the article. The evidence provided is about individuals named Michael McCain and Robert McCain, which are not related to the article's content about Senator John McCain's visit to Colorado. Therefore, the evidence does not verify the claim in the article, suggesting that the evidence is not relevant to the article's content, making the claim in the context of the provided evidence ""fake"". However, this does not mean the article itself is fake, only that the evidence provided does not support the claim as stated.",amny.com,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, which seem to be factual based on the content provided. However, the evidence found on the web does not support the claim made in the article and instead appears to be unrelated information about individuals named McCain in Colorado. This suggests that the evidence provided does not verify the claim in the article, and thus the article cannot be fully verified with the given evidence. However, since the instruction asks for a one-word response and the article content itself does not appear to be fake based on the provided text, the evidence provided is not relevant to the article's claim, leading to the conclusion that the verification process based on the given evidence is not valid. Therefore, the answer is ""fake"" in the context of the verification process being invalid due to irrelevant evidence.",thecommonsenseshow.com,fake,"fake
+
+The article mentions Senator John McCain's activities in Colorado, which seem to be related to his 2008 presidential campaign. However, the evidence provided does not support the claim made in the article. The evidence given is about Michael McCain and Robert McCain, who are not the focus of the article. The article is about Senator John McCain's activities, and the evidence provided does not relate to those activities or the context of the article. Therefore, based on the mismatch between the article's content and the provided evidence, the claim in the article cannot be verified by the given evidence, suggesting the evidence is not relevant to the article's claims.",real,real
+politifact11899,washingtonpost.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact15423,usbreakingnews.net,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact15379,thebreakingdawn.site,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact9107,wfpl.org,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact15309,nrtonline.info,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact11709,washingtonpost.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14862,ravinderbhalla.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-908446,people.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-875558,thedailybeast.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-886414,whowhatwear.com,real,chicagotribune.com,fake,"fake
+
+The article claims that Kaia Gerber is wearing a trend from Spring 2018, but the evidence provided includes references to trends and articles from the 2020s and beyond, which suggests that the original article's context is outdated or incorrect. Additionally, the evidence does not support the specific claim about the visible bra straps trend from Spring 2018.",express.co.uk,fake,fake,amny.com,fake,"fake
+
+The article claims that Kaia Gerber is wearing a spring 2018 trend of visible bra straps, but the evidence provided includes references to trends and articles from 2026, which are not consistent with the original claim's timeframe of 2018. This suggests that the article might be referencing future trends or has incorrect dating, making the claim appear inaccurate based on the provided evidence.",thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-855390,nydailynews.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact15592,opreminfo.com,fake,chicagotribune.com,fake,fake,express.co.uk,real,real,amny.com,fake,fake,thecommonsenseshow.com,real,real,real,real
+politifact439,abcnews.go.com,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact14376,dailyfeed.news,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-846028,zerchoo.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-856933,rap-up.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact15386,hotgazette.com,fake,chicagotribune.com,fake,"fake
+
+The article mentions events and dates that do not align with historical facts. For example, the article claims that Rudy Giuliani resigned as Trump's lawyer in 2021, but it incorrectly states a future date of June 29, 2026, in one of the evidence sources provided. Additionally, the article's timeline and details do not match the actual events that occurred. Therefore, the claim in the article is not accurate and appears to be fabricated or based on incorrect information.",express.co.uk,fake,"fake
+
+The article's claim about Rudy Giuliani resigning from Greenberg Traurig and his role as Trump's lawyer is based on incorrect dates. The evidence provided indicates that Giuliani resigned from Greenberg Traurig in April 2021, not in 2026 as mentioned in the article. Additionally, the article's tone and content suggest a speculative and inaccurate portrayal of events, making it clear that the information presented is not accurate.",amny.com,fake,"fake
+
+The article's claim about Rudy Giuliani resigning from Greenberg Traurig and his role as Trump's lawyer is set in a future date (April 19th, with the resignation effective May 9th), which does not align with the evidence found on the web indicating that Giuliani resigned as Trump's lawyer in April 2021. Additionally, the article's tone and content seem exaggerated and speculative, suggesting it is not a factual report but rather a piece of speculative or satirical writing.",thecommonsenseshow.com,fake,"fake
+
+The article mentions events and dates that do not align with historical facts. For example, the article claims that Rudy Giuliani resigned as Trump's lawyer in 2021, but it incorrectly states a future date of June 29, 2026, in one of the evidence sources provided. Additionally, the article's timeline and details do not match the actual events that occurred. Therefore, the claim in the article is not accurate and appears to be fabricated or based on incorrect information.",fake,"fake
+
+The article contains several inaccuracies and anachronisms. The dates mentioned (e.g., June 29, 2026) are in the future, and the events described do not align with the actual timeline of events. Additionally, the article mixes up names and events, such as mentioning John Dowd, which is not consistent with the actual timeline of Trump's legal team changes. The evidence provided also indicates that the resignation occurred in April 2021, not in the future dates mentioned in the article."
+gossipcop-895969,time.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact8611,america.aljazeera.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-1773639736,metro.co.uk,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-532752162,usmagazine.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact7511,thehill.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact6932,politifact.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact408,mtv.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14114,economist.com,real,chicagotribune.com,fake,"fake
+
+The provided evidence suggests that the dates mentioned in the references (2024 and 2026) are inconsistent with the actual presidency of Donald Trump, which ended in January 2021. Additionally, the content of the article appears to be a fabricated transcript, as it includes future dates and mentions events and people in a context that does not align with historical records. Therefore, the claim in the article is fake.",express.co.uk,fake,"fake
+
+The provided evidence suggests that the dates mentioned in the references (2024 and 2026) are inconsistent with the actual presidency of Donald Trump, which ended in January 2021. Additionally, the content of the article appears to be a fabricated transcript, as it includes future dates and mentions events and statements that did not occur during Trump's presidency. Therefore, the claim in the article is fake.",amny.com,fake,"fake
+
+The provided text appears to be a fabricated transcript, as it includes references to future dates (e.g., ""Oct 1, 2026"") and mentions of events that did not occur during Trump's presidency. Additionally, the format and the content of the article do not match the typical structure of a legitimate news article or interview transcript from AMNY.com or any other reputable news source. The evidence provided also suggests that the article is not genuine, as it references future dates and interviews that did not take place.",thecommonsenseshow.com,fake,fake,fake,fake
+politifact674,legis.state.ak.us,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-2220709136,express.co.uk,fake,chicagotribune.com,fake,"fake
+
+The article contains inaccuracies and exaggerations. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no concrete evidence to support the claim that he specifically sought Kate Middleton's approval. The closeness of their relationship and the respect Harry has for Kate are acknowledged, but the claim that he needed her ""seal of approval"" before proposing is not substantiated by reliable sources.",express.co.uk,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, which is not supported by the evidence provided. The evidence suggests that Harry sought the Queen's formal consent, which is a standard procedure for members of the British royal family before proposing to a commoner. There is no concrete evidence provided to support the claim that Harry specifically sought Kate's approval.",amny.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, and while there are similar claims found on the web, the evidence provided also mentions that Harry first asked for permission from Queen Elizabeth II. The article does not clearly differentiate between these claims and may mislead readers into thinking that Kate's approval was the primary or only approval sought, which is not accurate based on the evidence provided. Therefore, the claim in the article is not entirely true as presented.",thecommonsenseshow.com,fake,"fake
+
+The article makes a claim that Prince Harry sought Kate Middleton's approval before proposing to Meghan Markle, and while there are similar claims found on the web, the evidence provided in those claims does not directly support the specific claim made in the article. The evidence suggests that Harry sought approval from the Queen, not specifically from Kate Middleton. Therefore, the claim in the article is not substantiated by the provided evidence and appears to be an exaggeration or misinterpretation of the reported events.",fake,"fake
+
+The article contains inaccuracies and exaggerations. While it is reported that Prince Harry sought the approval of his grandmother, Queen Elizabeth II, before proposing to Meghan Markle, there is no credible evidence to suggest that he specifically sought the approval of Kate Middleton. The claim that Kate Middleton is like a mentor to Harry and that he wanted her seal of approval the most is not supported by reliable sources."
+gossipcop-3401078624,newidea.com.au,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-898992,reuters.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact938,nytimes.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-3433548691,dailymail.co.uk,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14310,quickening-spirit.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-1599038586,inquisitr.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-919774,nbc.com,real,chicagotribune.com,fake,"fake
+
+The article text does not match the content related to The Voice Season 15. The text provided is a standard disclaimer about cookies and privacy policy, not an article about The Voice Season 15.",express.co.uk,fake,"fake
+
+The article text provided is a standard cookie policy statement and does not contain any information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is supposed to be about ""The Voice"" Season 15.",amny.com,fake,"fake
+
+The article text provided is a standard cookie policy notice and does not contain information about ""The Voice"" Season 15. The evidence found on the web suggests that there is indeed a Season 15 of ""The Voice,"" but the given text does not match the content related to the TV show. Therefore, the claim in the article is not true in the context it is presented.",thecommonsenseshow.com,fake,"fake
+
+The article text is a standard cookie policy notice and not an article about ""The Voice"" Season 15. The evidence provided does mention ""The Voice"" Season 15, but it does not match the content of the article in question, which is a privacy notice about cookies. Therefore, the claim in the article is not about ""The Voice"" Season 15 and is thus fake in the context of what it claims to be.",fake,"fake
+
+The article text provided is a standard cookie policy statement and does not contain any information about ""The Voice Season 15."" The evidence found on the web seems to be about ""The Voice"" Season 15, but it does not match the content of the article text given. Therefore, the claim in the article is not about ""The Voice Season 15"" and is thus fake in the context of the question."
+politifact1067,foxnews.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact13677,newsbreakshere.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact15210,americatb.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-1968675605,thesun.co.uk,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-927338,ktvb.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on her Instagram. However, the evidence provided does not support this claim. The Instagram evidence shows that Gwyneth Paltrow shared photos on September 1, 2025, but there is no mention of a bachelorette party photo from Cabo, Mexico. Additionally, the article's claim about a bachelorette party in 2025 seems inconsistent with the timeline of her engagement to Brad Falchuk, which was acknowledged in January of an unspecified year but not in 2025. Therefore, the claim appears to be fake.",fake,"fake
+
+The article claims that Gwyneth Paltrow shared a photo from her bachelorette party in Cabo, Mexico, on her Instagram. However, the evidence provided does not support the specific claim about a bachelorette party photo. The Instagram evidence shows that Paltrow has shared bikini photos, but there is no mention of a bachelorette party photo or a trip to Cabo, Mexico. Additionally, the article mentions a future date (September 3, 2025) which is not relevant to the current timeline. Therefore, the claim appears to be fabricated or misreported."
+politifact13905,usnnetwork.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-1026488145,ipopla.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact13854,zimbabwe-today.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-901396,wstale.com,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-875236,mtv.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact939,nytimes.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact13897,huzlers.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact15562,nytiwes.com,fake,chicagotribune.com,fake,"fake
+
+The article provided mentions that George H.W. Bush died peacefully in Maine, but the evidence found on the web indicates that he died on November 30, 2018, at his home in Houston, Texas. Therefore, the claim in the article is not accurate and should be considered fake.",express.co.uk,fake,"fake
+
+The article mentions that George H.W. Bush died in Maine, but according to the evidence found on the web, he died on November 30, 2018, at his home in Houston, Texas. The article's details do not match the verified information about Bush's death.",amny.com,fake,"fake
+
+The article provided appears to be reporting on the death of George H.W. Bush, but the evidence found on the web indicates that George H.W. Bush died on November 30, 2018. The article's details do not match the actual date of his death, suggesting it is not reporting current news but rather outdated or fabricated information.",thecommonsenseshow.com,fake,"fake
+
+The article mentions that George H.W. Bush died in Maine, but according to the evidence found on the web, he died at his home in Houston, Texas, on November 30, 2018. The article also appears to be reporting an event that has already occurred, suggesting it is not breaking news as it claims. Therefore, the claim in the article is not accurate.",fake,fake
+gossipcop-6857674423,hindustantimes.com,fake,chicagotribune.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a 2016 timeframe. However, the evidence indicates that the divorce was finalized in 2024, and the legal disputes mentioned are related to the sale of their French château and other matters after the divorce was finalized. Therefore, the claim in the article is not accurate based on the provided evidence.",express.co.uk,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans, but the evidence indicates that the divorce was finalized in 2024, with ongoing legal disputes related to other matters such as their French château. Therefore, the claim that the divorce isn't final due to the reasons mentioned in the article is inaccurate.",amny.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a 2016 timeframe. However, the evidence indicates that the divorce was finalized in 2024, and the legal disputes after the divorce relate to the sale of their French château and other matters, not the custody of the children or travel plans as of 2026. Therefore, the claim in the article is not accurate based on the provided evidence.",thecommonsenseshow.com,fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a 2016 timeframe. However, the evidence indicates that the divorce was finalized in 2024, and the legal disputes mentioned are related to the sale of property and other matters after the divorce was finalized. Therefore, the claim in the article is not accurate based on the provided evidence.",fake,"fake
+
+The article mentions events and a timeline that do not align with the evidence found. Specifically, the article suggests that the divorce is not final due to disagreements over custody and travel plans for the children, and it references a split in September 2016. However, the evidence provided indicates that the divorce was finalized in 2024, and the current disputes are related to the sale of their French château and other legal matters, not the custody of their children or travel plans. Therefore, the claim in the article is not accurate based on the evidence provided."
+politifact14026,politicass.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-497081980,latimes.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-7190490486,usmagazine.com,fake,chicagotribune.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti is married to Alex Weaver and they are expecting their first baby. This suggests that Colletti is not currently looking for love on reality TV shows like ""The Bachelor.""",express.co.uk,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has a wife named Alex Weaver and they are expecting their first baby. This suggests that Colletti is not single and therefore would not be a candidate for ""The Bachelor."" Additionally, the article's tone and content suggest it is more of a playful, speculative piece rather than a factual report.",amny.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti is married to Alex Weaver and they are expecting their first baby. This contradicts the claim in the article that Colletti is still looking for love and would consider appearing on ""The Bachelor.""",thecommonsenseshow.com,fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for love, but recent evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate.",fake,"fake
+
+The article claims that Stephen Colletti is considering appearing on ""The Bachelor,"" but the evidence found on the web indicates that Colletti has stated he wouldn't go on the show. Additionally, the article mentions that Colletti is still looking for love, but evidence shows that he married Alex Weaver in October 2025. Therefore, the claim in the article is not accurate."
+politifact15606,thegoldwater.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-4514188480,townandcountrymag.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-942114,people.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-5382417683,news.com.au,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,"real
+
+The article is based on a real event where Jennifer Lawrence made comments during an interview suggesting that the hurricanes were a sign of Mother Nature's reaction to the election of Donald Trump. However, it's important to note that later, Jennifer Lawrence expressed regret over her comments, as indicated in some of the evidence provided. The article focuses on the initial reaction to her statements, which is accurate based on the evidence.",real,"real
+
+The article describes a situation where Jennifer Lawrence made comments suggesting that the hurricanes were a sign of Mother Nature's anger towards the election of Donald Trump and the denial of climate change. This aligns with the evidence found online, which confirms that Lawrence did make such statements and later expressed regret over them. However, the specific claim about the hurricanes being a sign of Mother Nature's rage is a direct quote from Lawrence, making the article's content real."
+gossipcop-7440482567,popsugar.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-3016533567,msn.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-892166,nypost.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-4241531514,okmagazine.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-2723098494,mirror.co.uk,fake,chicagotribune.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. However, the exact dates and some specific details might not be entirely accurate or verifiable without direct access to her old Instagram account. The overall narrative about the transformation in her public persona is consistent with what has been reported and discussed in the media.",express.co.uk,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. The claim is supported by evidence found on the web, indicating that the article is real. However, it's important to note that the specific details and images mentioned in the article would need to be verified against official sources or reputable news outlets for complete accuracy.",amny.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. However, the exact dates and some specific details might not be entirely accurate or verifiable without direct access to her old Instagram account. The overall narrative of the article is plausible and consistent with the public's perception of her lifestyle changes after joining the royal family.",thecommonsenseshow.com,real,"real
+
+The article describes a change in Meghan Markle's social media presence and the nature of her posts before and after she became a member of the Royal Family, which aligns with public knowledge and media reports. However, the specific details and dates mentioned should be cross-referenced with reliable sources for complete accuracy. The overall claim that her Instagram became less personal and eventually was deleted after she joined the Royal Family is consistent with real events.",real,"real
+
+The article describes a change in Meghan Markle's social media presence and personal life after she became engaged to and married Prince Harry. The claim that her Instagram page used to be filled with personal and intimate photos before she joined the Royal Family is supported by evidence found on the web. However, the article includes some speculative and exaggerated elements, such as the implication that Kate Middleton should have a similar Instagram account, which is not factual. Overall, the core claim about Meghan Markle's Instagram before joining the Royal Family is real."
+politifact14944,thehill.com,fake,chicagotribune.com,fake,"fake
+
+The article mentions dates such as 2026 and 2025 which are in the future and not relevant to the actual historical context of government shutdowns in the United States, which have occurred in the past. The most recent significant government shutdown was in 2018-2019, not 2013 as mentioned in the article, and the article's content seems to be a mix of past and future references, making it appear fabricated or written with outdated and incorrect information.",express.co.uk,indetermine,"fake
+
+The article appears to be referencing a government shutdown in 2026, which is in the future as of 2023, and there is no evidence of a government shutdown in 2013 or any other year that matches the details provided in the article. The sources provided also seem to be fabricated or from a fictional future date. Therefore, the claim in this article is not real.",amny.com,fake,"fake
+
+The article appears to be set in a future context (2025-2026) and discusses events that have not occurred in reality. The sources provided also seem to be fabricated or from a fictional future timeline, as there have not been any government shutdowns in the years 2025 or 2026. Therefore, the claim in the article is not true based on current facts.",thecommonsenseshow.com,fake,"fake
+
+The article mentions dates and events that are in the future (2026) and does not align with any actual historical government shutdowns in the United States. The most recent government shutdown occurred in 2018-2019, and there have been no government shutdowns in 2026 as the year has not yet occurred. Therefore, the claim is not true based on current facts.",fake,"fake
+
+The article mentions dates and events that are not consistent with recent history, such as a government shutdown in 2026, which has not occurred and is not relevant to current events. The most recent government shutdown happened in 2018-2019, not in 2026 as the article suggests. Therefore, the claim in this article is not true based on the provided evidence."
+gossipcop-876260,rap-up.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14516,observeronline.news,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact379,nytimes.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-900207,dailymail.co.uk,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-5310842420,hellomagazine.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact14855,www2.alabamavotes.gov,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-862435,people.com,real,chicagotribune.com,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. Additionally, the sources provided are from the year 2026, which is in the future as of now, and do not corroborate the claim made in the article. Therefore, based on the information given, the claim appears to be fake.",express.co.uk,fake,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not support this specific claim. The dates mentioned in the evidence (Sep 16, 2026, May 7, 2026, and Feb 1, 2025) are in the future relative to the current date, indicating that the article itself might be from a future or fictional context. Additionally, the article does not provide any specific names or verifiable details about the host or the episode, making it difficult to confirm the authenticity of the claim. Therefore, based on the information provided, the claim appears to be fake.",amny.com,indetermine,"fake
+
+The article mentions a Dec. 20 episode of Bravo’s Watch What Happens Live where the host, who is described as 50 years old, reveals he's expecting his first child via surrogate. However, the evidence provided does not mention any such revelation by the host of Watch What Happens Live. Additionally, the dates in the evidence provided (2025 and 2026) are in the future relative to the current date, which suggests that the article might be from a fictional or future context. The article's claim does not align with the provided evidence, and there is no real-world evidence supporting the specific claim made in the article. Therefore, the claim is ""fake"".",thecommonsenseshow.com,fake,"fake
+
+The article mentions an episode of ""Watch What Happens Live"" from December 20, which claims that the host, who is identified as 50 (likely referring to Andy Cohen), is expecting his first child via surrogate. However, the evidence provided includes references to articles from 2025 and 2026, which suggests that the article's content is not from the claimed date and appears to be fabricated or taken out of context. Additionally, Andy Cohen is openly gay and has been open about his relationship with Max Andrew Cohen, making the claim about him expecting his first child via surrogate highly unlikely and inconsistent with known facts. Therefore, the claim is fake.",fake,"fake
+
+The article mentions an episode of ""Watch What Happens Live"" from December 20, which claims that the host (referred to as 50) is expecting his first child via surrogate. However, the evidence provided includes references to surrogacy news from 2025 and 2026, which are in the future relative to the article's date. Additionally, the article does not specify the host's name or provide any other verifiable details that would confirm the claim. Given the future dates of the evidence and the lack of specific details in the article, the claim appears to be fabricated or incorrectly dated."
+politifact14815,helloforos.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact15419,jumboreport.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-929657,cosmopolitan.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,fake,fake,thecommonsenseshow.com,real,real,fake,fake
+politifact15048,conservativedailypost.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-9204805299,allthingsoneplace.me,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact1770,huffingtonpost.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact98,nymag.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14511,msnbc.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact13775,beforeitsnews.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-6559744284,gobankingrates.com,fake,chicagotribune.com,fake,"fake
+
+The article claims Ellen DeGeneres' net worth is $400 million as of her 60th birthday, but the evidence found on the web suggests her net worth is closer to $500 million in 2026, which is a significant discrepancy. Additionally, the article's publication date suggests it is from 2023, making the future reference to 2026 in the evidence inconsistent with the claim's context. Therefore, the claim is not accurate based on the provided evidence.",express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact348,pollingreport.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-5112442905,hollywoodlife.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-914034,movieweb.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact1454,msnbc.msn.com,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-915516,dailynews.news,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-1247336364,hollywoodlife.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-891912,people.com,real,chicagotribune.com,fake,"fake
+
+The article mentions Kris Jenner's 62nd birthday celebration, but the evidence found on the web refers to her 70th birthday party, which indicates a discrepancy in the article's claim regarding the specific birthday being celebrated. Additionally, the evidence suggests that the daughters celebrated her 70th birthday in a more elaborate manner, which is not consistent with the article's description of the 62nd birthday celebration.",express.co.uk,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated her birthday with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party. Therefore, the claim in the article is not accurate and should be considered fake.",amny.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",thecommonsenseshow.com,fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party, which contradicts the claim in the article. Therefore, the claim is fake.",fake,"fake
+
+The article claims that Kris Jenner turned 62 on a recent Sunday and her daughters celebrated with Instagram posts. However, the evidence found on the web indicates that Kris Jenner celebrated her 70th birthday in 2025 with a James Bond-themed party. Therefore, the claim in the article is not accurate and can be considered fake."
+gossipcop-877704,etonline.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact7293,kff.org,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact2128,abcnews.go.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14155,patriotcrier.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact1176,washingtonpost.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-918819,etonline.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-3449648617,today.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-919535,perezhilton.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14859,polls.trendolizer.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact15604,worldfactsftw.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-894897,foxnews.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-7474271525,radaronline.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-3004058768,newsweek.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14265,mainerepublicemailalert.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-3549119927,hollywoodlife.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact13431,time.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact15570,diamondandsilk.americandailynews.org,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact14207,higherperspectives.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-910928,usmagazine.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-6159229395,variety.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact9576,blogs.rollcall.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact14452,forfreedomworld.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-936572,people.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-8882451342,refinery29.com,fake,chicagotribune.com,fake,"fake
+
+The provided text does not match the title and content suggested by the source (chicagotribune.com). The text discusses Eminem's album ""Kamikaze,"" while the title and source suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also focuses on Selena Gomez's music and its relation to Justin Bieber, which does not align with the text about Eminem. Therefore, the claim in the article as presented is fake.",express.co.uk,fake,"fake
+
+The provided text and title do not match. The title suggests the article is about speculation regarding Selena Gomez's new song being about Justin Bieber or The Weeknd, but the text provided is about Eminem's surprise album ""Kamikaze"" and does not mention Selena Gomez or her new song. Therefore, the claim in the article as presented is fake.",amny.com,fake,"fake
+
+The provided text does not match the title and content suggested by the source (amny.com). The text discusses Eminem's album ""Kamikaze,"" while the title and context suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also focuses on Selena Gomez's music and its speculated references to Justin Bieber, which does not align with the text about Eminem. Therefore, the claim in the article as presented is fake.",thecommonsenseshow.com,fake,"fake
+
+The provided text does not match the title or content suggested by the source URL and title. The text discusses Eminem's album ""Kamikaze,"" while the title and source suggest an article about Selena Gomez's new song and its potential references to Justin Bieber or The Weeknd. The evidence provided also does not support the text given, as it discusses Gomez's music and its relation to Bieber. Therefore, the claim in the article as presented is fake.",fake,"fake
+
+The provided text does not match the title and content suggested by the evidence found. The evidence is about speculation regarding Selena Gomez's new song being about Justin Bieber, while the text provided talks about Eminem's surprise album ""Kamikaze"" and mentions the Secret Service, which is not related to the evidence provided. Therefore, the claim in the article does not align with the evidence, making it fake."
+gossipcop-4908552205,dailymail.co.uk,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact1180,nytimes.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-809485,instyle.com,real,chicagotribune.com,fake,"fake
+
+The dates provided in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet.",express.co.uk,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",amny.com,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future prediction rather than a current report.",thecommonsenseshow.com,fake,fake,fake,"fake
+
+The dates mentioned in the evidence (Sep 11, 2026, Jun 21, 2026, Jun 13, 2026) are in the future as of today's date, which makes the evidence unreliable and suggests that the article might be fabricated or part of a future scenario that hasn't occurred yet."
+gossipcop-874606,people.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-860551,today.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-1912691606,romper.com,fake,chicagotribune.com,real,"real
+
+The article discusses the relationship between Prince Harry and Meghan Markle, including their long-distance relationship and the fact that they lived together before their marriage. This information is consistent with public reports and interviews from the time, making the claim in the article real. However, without specific evidence provided in the prompt to verify the claim, the assessment is based on the general public knowledge and reports about the couple's relationship.",express.co.uk,real,"real
+
+The article discusses the relationship between Prince Harry and Meghan Markle, including their long-distance relationship and the fact that they lived together before their marriage. This information is consistent with public knowledge and media reports at the time. However, without specific evidence to verify every detail, the safest conclusion based on the content and context is that it is real, as it aligns with known facts about the couple's relationship and royal protocol adjustments.",amny.com,real,real,thecommonsenseshow.com,fake,fake,fake,"fake
+
+The article contains inaccuracies and speculative information not supported by reliable sources. For example, the claim that Meghan Markle ""practically moved in"" with Prince Harry is not substantiated by credible evidence. Additionally, the article includes details and quotes from unnamed sources, which are often unreliable. The article also mixes factual information with speculative statements, making it difficult to verify the truthfulness of the claim that Prince Harry and Meghan Markle are living together."
+gossipcop-943996,people.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-897260,elle.com,real,chicagotribune.com,fake,"fake
+
+The article appears to be a celebrity gossip piece and the date mentioned in the last sentence (Aug 31, 2025) is clearly in the future relative to the article's publication date (Feb 8, 2018), indicating that the article is not reporting current events but rather speculative or fabricated content.",express.co.uk,fake,"fake
+
+The article appears to be a piece of entertainment news or gossip, and the date mentioned in the last sentence (Aug 31, 2025) is clearly in the future relative to the article's publication date (Feb 8, 2018), which indicates that the article is not reporting current events but rather speculating or creating a fictional scenario. Therefore, the claim is fake.",amny.com,indetermine,"fake
+
+The article appears to be a celebrity gossip piece and the date mentioned in the context (""Aug 31, 2025"") is in the future, which makes it seem like a fabricated or fictional piece rather than a real news article. Additionally, the use of ""#Jelena"" and the detailed descriptions of their interactions suggest it is more of a fan-created content or a speculative piece rather than a verified news report.",thecommonsenseshow.com,fake,fake,fake,fake
+politifact4433,fedupthebook.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-9576408647,wikinow.co,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact14386,nbcnews.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-2986942414,dmgnews.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-898581,marriedbiography.com,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact8989,themoscowtimes.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact15301,bitcoingrower.life,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact13283,politifact.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-4507576256,okmagazine.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-859786,variety.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-3821132681,people.com,fake,chicagotribune.com,fake,"fake
+
+The provided evidence suggests that the dates mentioned in the article (such as May 8, 2025, and June 3, 2025) are incorrect, as Taylor Swift and Joe Alwyn's relationship history does not align with these future dates. Additionally, the article's content seems to be a mix-up of events that did not occur as described, making it inaccurate.",express.co.uk,indetermine,"fake
+
+The dates mentioned in the evidence found on the web (June 3, 2025) are in the future relative to the present time, which indicates that the information provided is not real and is likely fabricated or from a fictional context. Therefore, the claim in the article appears to be false.",amny.com,indetermine,"fake
+
+The dates mentioned in the evidence found on the web (June 3, 2025) are in the future relative to the present date, which indicates that the information provided is not real and is likely part of a fictional scenario or a future prediction rather than an actual event. Therefore, the claim in the article appears to be based on fabricated or fictional information.",thecommonsenseshow.com,fake,"fake
+
+The provided evidence suggests that the dates mentioned in the article (such as May 8, 2025) are incorrect or from a fictional context, as the article is supposedly from thecommonsenseshow.com and the current date is not 2025. Additionally, the sources provided indicate that the content might be speculative or part of a fictional scenario rather than factual reporting.",fake,"fake
+
+The provided evidence suggests that the article's content is from a future date (June 3, 2025), which contradicts the context of the article that seems to be set in the present or recent past. Additionally, the article mentions events and dates that do not align with the evidence provided, such as the cactus post and the Reputation tour, which are not referenced in the evidence. Therefore, the claim in the article appears to be fabricated or inaccurately reported."
+politifact15256,theglobalheadlines.net,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact14384,nymag.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact1027,forbes.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-858818,usmagazine.com,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact15626,maga2020.us,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+politifact14621,observeronline.news,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-863739,variety.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact114,govtrack.us,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact285,time.com,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-936878,time.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact4372,pbs.org,real,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-4769457532,vanityfair.com,fake,chicagotribune.com,fake,fake,express.co.uk,fake,fake,amny.com,fake,fake,thecommonsenseshow.com,fake,fake,fake,fake
+gossipcop-3316804883,people.com,fake,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+politifact11072,foxnews.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real
+gossipcop-907021,buycelebrityclothes.com,real,chicagotribune.com,real,real,express.co.uk,real,real,amny.com,real,real,thecommonsenseshow.com,real,real,real,real

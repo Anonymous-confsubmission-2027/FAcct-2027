@@ -1,0 +1,11 @@
+id,vraie_source,vrai_label,source_A,verdict_A,reponse_A,source_B,verdict_B,reponse_B,source_C,verdict_C,reponse_C,source_D,verdict_D,reponse_D,verdict_S,reponse_S
+gossipcop-6428453817,tmz.com,fake,buzzfeednews.com,fake,fake,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,fake,fake,real,Real.
+politifact6646,politifact.com,real,buzzfeednews.com,real,Real.,ajc.com,real,Real.,gaytimes.co.uk,real,Real.,neonnettle.com,real,Real.,real,Real.
+gossipcop-901396,wstale.com,real,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+politifact14815,helloforos.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-7474271525,radaronline.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-3549119927,hollywoodlife.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-4908552205,dailymail.co.uk,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-1912691606,romper.com,fake,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-898581,marriedbiography.com,real,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
+gossipcop-858818,usmagazine.com,real,buzzfeednews.com,fake,Fake,ajc.com,fake,Fake,gaytimes.co.uk,fake,Fake,neonnettle.com,fake,Fake,fake,Fake
